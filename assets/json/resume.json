@@ -19,7 +19,7 @@
     {
       "institution": "Proof School",
       "location": "San Francisco, California",
-      "url": "https://www.proofschool.org/",
+      "url": "https://www.proofschool.org",
       "area": "For Kids Who Love Math",
       "studyType": "High School Diploma",
       "startDate": "2023-08-21",
@@ -41,17 +41,25 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "name": "Monte Carlo Simulation of Somatic Twist in Ancient Marine Worms",
+      "summary": "Run Monte Carlo simulation to recreate evolutionary events inside a computer; and see how the first digital C. elegans worm evolves in silico to become the ‘first fish’ — with a dorsoventrally inverted body plan after a somatic twist.",
+      "highlights": [ "Computational Biology", "OpenWorm", "Sybernetic" ],
       "startDate": "2025-01",
       "endDate": "2027-06",
-      "url": "https://example.com"
+      "url": "https://adamcheong.com/assets/pdf/HS-BCOM-145 Project Presentation.pdf"
+    },
+    {
+      "name": "Cliffhanger Project",
+      "summary": "The cliffhanger is a novel mountain climbing aid that brings a new mechanical advantage to mountaineers by means of a simple lever mechanism. This project is inspired by a physics demo harnessing a setup of three toothpicks to carry a payload hanging off the edge of a table.",
+      "highlights": [ "Physics", "Type 2 Lever", "Mountain Climbing Aid" ],
+      "startDate": "2023-03",
+      "endDate": "2023-01",
+      "url": "https://www.youtube.com/watch?v=0NGo5p9WzkI"
     }
   ],
   "STEM fair awards": [
     {
-      "title": "4th Place, Biostatistuics and Computational Biology, High School Division",
+      "title": "4th Place, Biostatistics and Computational Biology, High School Division",
       "date": "2025-03",
       "awarder": "Alameda County Science and Engineering Fair (ACSEF)",
       "url": "https://acsef.org",
@@ -114,6 +122,15 @@
       "awarder": "National Latin Examination",
       "url": "https://www.nle.org/",
       "summary": "Recognition of students’ accomplishments in Latin language learning and the study of Greco-Roman culture."
+    }
+  ],
+  "posters": [
+    {
+      "name": "A Twist on Decussation",
+      "publisher": "Junior Science and Humanities Symposium",
+      "releaseDate": "2025-02-28",
+      "url": "https://adamcheong.com/assets/pdf/A Twist on Decussation—JSHS 2025-Poster.pdf",
+      "summary": "A Comparative Study of Morphological Models From Ancient Marine Worms to the First Fish Inside an Aquarium."
     }
   ],
   "papers": [
@@ -193,13 +210,28 @@
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
+      "language": "Latin",
+      "fluency": "2 years of study",
+      "icon": ""
+    },
+    {
+      "language": "Japanese",
+      "fluency": "common phrases",
+      "icon": ""
+    },
+    {
+      "language": "Mandarin",
+      "fluency": "common phrases",
+      "icon": ""
+    },
+    {
+      "language": "Spanish",
+      "fluency": "conversational",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "native speaker",
       "icon": ""
     }
   ],

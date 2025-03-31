@@ -149,7 +149,21 @@
       "summary": "This essay answers the prompt: What is something important, about which nearly everybody is wrong?"
     }
   ],
-  "certificates": [
+  "club activities": [
+    {
+      "name": "Physics",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
+      ]
+    }
+  ],
+  "summer camps": [
     {
       "name": "Machine Learning",
       "date": "2018-01-01",
@@ -233,20 +247,6 @@
       "language": "English",
       "fluency": "native speaker",
       "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
     }
   ],
   "references": [

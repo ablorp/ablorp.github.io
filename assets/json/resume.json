@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Adam Cheong",
+    "label": "Aspiring Engineer & Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "email": "adam@cheong.net",
+    "phone": "(650) 593-8322",
+    "url": "https://adamcheong.com",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
+      "address": "973 Mission St",
+      "postalCode": "CA 94103",
       "city": "San Francisco",
       "countryCode": "US",
       "region": "California"
@@ -47,15 +47,15 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Proof School, San Francsico, California",
+      "location": "San Francisco, California",
+      "url": "https://www.proofschool.org/",
+      "area": "Mathematics",
+      "studyType": "High School Diploma",
+      "startDate": "2023-08-21",
+      "endDate": "2027-06-11",
+      "score": "5",
+      "courses": ["Calculus", "Physics C: Mechanics", "Chemistry", "Biology", "Latin", "Literary Arts: Graphic Narrative", "Advanced Literature", "Graph Theory", "Number Theory", "Studio Art: Paper"]
     }
   ],
   "awards": [

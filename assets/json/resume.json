@@ -57,7 +57,7 @@
       "url": "https://www.youtube.com/watch?v=0NGo5p9WzkI"
     }
   ],
-  "STEM fair awards": [
+  "STEM fairs": [
     {
       "title": "4th Place, Biostatistics and Computational Biology, High School Division",
       "date": "2025-03",
@@ -108,7 +108,7 @@
       "summary": "Does the Color of Light Affect Plant Growth?"
     }
   ],
-  "honors and awards": [
+  "awards": [
     {
       "title": "Honorable Mention",
       "date": "2025-03",
@@ -149,7 +149,7 @@
       "summary": "This essay answers the prompt: What is something important, about which nearly everybody is wrong?"
     }
   ],
-  "club activities": [
+  "clubs": [
     {
       "name": "Physics",
       "icon": "fa-solid fa-tag",
@@ -163,7 +163,7 @@
       ]
     }
   ],
-  "summer camps": [
+  "summer": [
     {
       "name": "Machine Learning",
       "date": "2018-01-01",

@@ -1,5 +1,5 @@
 {
-  "general": [
+  "general": {
     "name": "Adam Cheong",
     "title": "Rock Climber & Roboticist",
     "image": "",
@@ -14,7 +14,7 @@
       "countryCode": "US",
       "region": "California"
     }
-  ],
+  },
   "education": [
     {
       "institution": "Proof School",
@@ -68,7 +68,7 @@
     {
       "title": "Honorable Mention, Zoology, Senior Division",
       "date": "2024-04",
-      "awarder": "California Science & Engineering Fair (CSEF)",
+      "awarder": "California Science and Engineering Fair (CSEF)",
       "url": "https://csef.usc.edu/History/2024/Awards/CSEF_Awards_2024.xlsx",
       "summary": "Why Do Vertebrates Have Decussated Corticospinal Tracts?"
     },
@@ -82,7 +82,7 @@
     {
       "title": "Honorable Mention, Applied Mechanics and Structures, Junior Division",
       "date": "2023-04",
-      "awarder": "California Science & Engineering Fair (CSEF)",
+      "awarder": "California Science and Engineering Fair (CSEF)",
       "url": "https://csef.usc.edu",
       "summary": "Cliffhanger: A Dynamically Stable Mechanical Mountain Climbing Aid by Design"
     },

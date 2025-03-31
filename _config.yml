@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Adam
-middle_name: 
+middle_name:
 last_name: Cheong
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
@@ -631,15 +631,16 @@ jekyll_get_json:
     json: assets/json/resume.json # it can also be an url
 
 jsonresume:
-  - basics
-  - work
+  - general
   - education
-  - publications
+  - experience
   - projects
-  - volunteer
-  - awards
-  - certificates
+  - STEM fair awards
+  - honors and awards
+  - posters
+  - papers
+  - club activities
+  - summer camps
   - skills
   - languages
-  - interests
   - references

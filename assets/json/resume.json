@@ -1,7 +1,7 @@
 {
   "general": {
     "name": "Adam Cheong",
-    "Title": "Aspiring Roboticist & Engineer",
+    "Title": "Roboticist & Engineer",
     "image": "",
     "email": "adam@cheong.net",
     "phone": "(650) 593-8322",
@@ -48,7 +48,23 @@
       "endDate": "2018-01-01",
       "url": "https://example.com"
     }
-  ]
+  ],
+  "STEM fair awards": [
+    {
+      "title": "4th Place, Biostatistuics and Computational Biology, High School Division",
+      "date": "2025-03",
+      "awarder": "Alameda County Science and Engineering Fair (ACSEF)",
+      "url": "https://acsef.org",
+      "summary": "Monte Carlo Simulation of Somatic Twist in Ancient Marine Worms"
+    },
+    {
+      "title": "Honorable Mention, Zoology, Senior Division",
+      "date": "2024-04",
+      "awarder": "California Science & Engineering Fair (CSEF)",
+      "url": "https://https://csef.usc.edu",
+      "summary": "Monte Carlo Simulation of Somatic Twist in Ancient Marine Worms"
+    }
+  ],
   "honors & awards": [
     {
       "title": "Honorable Mention",
@@ -75,10 +91,10 @@
     },
     {
       "name": "People Get Essays Wrong",
-      "publisher": "John Locke Institute Essay Competition",
+      "publisher": "John Locke Institute Global Essay Competition",
       "releaseDate": "2023-06-30",
       "url": "https://adamcheong.com/assets/pdf/Adam-Cheong-Junior-4.pdf",
-      "summary": "This  essay answers the prompt: 'What is something important, about which nearly everybody is wrong?'"
+      "summary": "This essay answers the prompt: 'What is something important, about which nearly everybody is wrong?'"
     }
   ],
   "certificates": [
@@ -177,5 +193,5 @@
       "icon": "fa-solid fa-thumbtack",
       "reference": "Founder and Director, Berkeley Math Circle"
     }
-  ],
+  ]
 }

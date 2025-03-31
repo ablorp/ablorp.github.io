@@ -1,5 +1,5 @@
 {
-  "general": {
+  "general": [
     "name": "Adam Cheong",
     "title": "Rock Climber & Roboticist",
     "image": "",
@@ -14,7 +14,7 @@
       "countryCode": "US",
       "region": "California"
     },
-  },
+  ],
   "education": [
     {
       "institution": "Proof School",
@@ -108,7 +108,7 @@
       "summary": "Does the Color of Light Affect Plant Growth?"
     }
   ],
-  "honors & awards": [
+  "honors and awards": [
     {
       "title": "Honorable Mention",
       "date": "2025-03",

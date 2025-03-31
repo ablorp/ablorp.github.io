@@ -1,5 +1,5 @@
 {
-  "basics": {
+  "general": {
     "name": "Adam Cheong",
     "Title": "Aspiring Roboticist & Engineer",
     "image": "",
@@ -14,17 +14,23 @@
       "countryCode": "US",
       "region": "California"
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
   },
-  "work": [
+  "education": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
+      "institution": "Proof School",
+      "location": "San Francisco, California",
+      "url": "https://www.proofschool.org/",
+      "area": "For Kids Who Love Math",
+      "studyType": "High School Diploma",
+      "startDate": "2023-08-21",
+      "endDate": "2027-06-11",
+      "score": "5",
+      "courses": ["Calculus BC", "Physics C: Mechanics", "AP Chemistry", "AP Biology", "Latin 1 & 2", "Literary Arts: Graphic Narrative", "Advanced Literature", "Graph Theory", "Number Theory", "Studio Art: Paper"]
+    }
+  ],
+  "experience": [
+    {
+      "name": "Watney Robotics",
       "position": "Professor of Theoretical Physics",
       "url": "https://example.com",
       "startDate": "1933-01-01",
@@ -43,19 +49,6 @@
       "endDate": "2015-07-01",
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
-  "education": [
-    {
-      "institution": "Proof School",
-      "location": "San Francisco, California",
-      "url": "https://www.proofschool.org/",
-      "area": "For Kids Who Love Math",
-      "studyType": "High School Diploma",
-      "startDate": "2023-08-21",
-      "endDate": "2027-06-11",
-      "score": "5",
-      "courses": ["Calculus BC", "Physics C: Mechanics", "AP Chemistry", "AP Biology", "Latin 1 & 2", "Literary Arts: Graphic Narrative", "Advanced Literature", "Graph Theory", "Number Theory", "Studio Art: Paper"]
     }
   ],
   "awards": [

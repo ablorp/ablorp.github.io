@@ -1,7 +1,7 @@
 {
   "general": {
     "name": "Adam Cheong",
-    "Title": "Roboticist & Engineer",
+    "title": "Rock Climber & Roboticist",
     "image": "",
     "email": "adam@cheong.net",
     "phone": "(650) 593-8322",
@@ -114,20 +114,20 @@
       "date": "2025-03",
       "awarder": "USA Biolympiad (USABO)",
       "url": "https://www.usabo-trc.org/sites/default/files/allfiles/USABO%20Brochure_2.pdf",
-      "summary": "The nation’s most prestigious biology education and testing program for high school students, participated by approximately 10,000 talented students annually."
+      "summary": "The most prestigious biology education and testing program for US high school students, participated by approximately 10,000 talented students annually."
     },
     {
       "title": "Maxima Cum Laude (Silver Recognition)",
       "date": "2024-04",
       "awarder": "National Latin Examination",
       "url": "https://www.nle.org/",
-      "summary": "Recognition of students’ accomplishments in Latin language learning and the study of Greco-Roman culture."
+      "summary": "Recognition of student accomplishment in Latin language learning and the study of Greco-Roman culture."
     }
   ],
   "posters": [
     {
       "name": "A Twist on Decussation",
-      "publisher": "Junior Science and Humanities Symposium",
+      "publisher": "Junior Science and Humanities Symposium, San Francisco State University",
       "releaseDate": "2025-02-28",
       "url": "https://adamcheong.com/assets/pdf/A Twist on Decussation—JSHS 2025-Poster.pdf",
       "summary": "A Comparative Study of Morphological Models From Ancient Marine Worms to the First Fish Inside an Aquarium."
@@ -136,17 +136,17 @@
   "papers": [
     {
       "name": "Why Do Vertebrates Have Decussated Corticospinal Tracts?",
-      "publisher": "Junior Science and Humanities Symposium",
+      "publisher": "Junior Science and Humanities Symposium, San Francisco State University",
       "releaseDate": "2025-02-28",
       "url": "https://adamcheong.com/assets/pdf/Cheong_Adam_Paper.pdf",
       "summary": "A Comparative Study of Morphological Models From Ancient Marine Worms to the First Fish Inside an Aquarium."
     },
     {
       "name": "People Get Essays Wrong",
-      "publisher": "John Locke Institute Global Essay Competition",
+      "publisher": "Global Essay Competition, John Locke Institute",
       "releaseDate": "2023-06-30",
       "url": "https://adamcheong.com/assets/pdf/Adam-Cheong-Junior-4.pdf",
-      "summary": "This essay answers the prompt: 'What is something important, about which nearly everybody is wrong?'"
+      "summary": "This essay answers the prompt: What is something important, about which nearly everybody is wrong?"
     }
   ],
   "certificates": [

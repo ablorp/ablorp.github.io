@@ -248,14 +248,14 @@
       "keywords": ["Member of afterschool climbing club; practice 2 to 3 times a week regularly at an indoor bouldering gym in San Francisco."]
     },
     {
-      "name": "24 Hour Fitness (2024–present)",
-      "icon": "fa-solid fa-tag",
-      "keywords": ["Member of a neighborhood gym where I workout regularly in the evenings and on weekends."]
-    },
-    {
       "name": "Clock Tower Music (2023–present)",
       "icon": "fa-solid fa-tag",
       "keywords": ["Taking guitar lessons with a local musician afterschool; practice new songs in the evenings."]
+    },
+    {
+      "name": "24 Hour Fitness (2024–present)",
+      "icon": "fa-solid fa-tag",
+      "keywords": ["Member of a neighborhood gym where I workout regularly in the evenings and on weekends."]
     }
   ],
   "skills": [

@@ -49,10 +49,7 @@
       "startDate": "2017-08-21",
       "endDate": "2023-06-08",
       "score": "5",
-      "courses": [
-        "Capstone Project: Hydroponics"
-        "Contests: Mathcounts, AMC 8, STEM Fairs"
-      ]
+      "courses": ["Capstone Project: Hydroponics", "Contests: Mathcounts, AMC 8, STEM Fairs"]
     }
   ],
   "experience": [
@@ -78,7 +75,7 @@
     {
       "name": "The Cliffhanger Project",
       "summary": "A novel mountain climbing aid that brings a new mechanical advantage to mountaineers by means of a simple lever mechanism — inspired by a physics demo harnessing a setup of three toothpicks to carry a payload hanging off the edge of a table.",
-      "highlights": ["Mechanical Advantage", "Type 2 Lever", "Mountain Climbing Aid"],
+      "highlights": ["Mountain Climbing Aid", "Mechanical Advantage", "Type 2 Lever"],
       "startDate": "2023-03",
       "endDate": "2023-01",
       "url": "https://www.youtube.com/watch?v=0NGo5p9WzkI"
@@ -246,11 +243,11 @@
       "organization": "Woodland Summer Adventures",
       "location": "Portola Valley, California",
       "position": "Camp Counselor",
-      "url": "https://www.woodland-school.org",
+      "url": "https://adamcheong.com/assets/pdf/Adam CPR Certification.pdf",
       "startDate": "2022-07-11",
       "endDate": "2022-07-15",
       "summary": "Supervising students and gain first hand experience through teaching small groups of students a new skill.",
-      "highlights": ["Leadership Development", "CPR Training", "First Aid Certification"]
+      "highlights": ["Leadership Development", "CPR Training", "AED & First Aid Certification"]
     }
   ],
   "skills": [

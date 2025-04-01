@@ -26,4 +26,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-A high school sophomore from the San Francisco Bay Area, Adam is interested in science, engineering, math and finance. He is an intern at a robotics startup in San Francisco, and hopes to one day become a roboticist — like his eldest brother. Adam loves to climb rocks, surf waves, ski downhill, and run cross-country; he enjoys listening to music or playing the guitar on quiet evenings when there is no homework. Adam is looking forward to taking computer science classes at UC Berkeley this summer as a pre-college scholar. He also plans to start taking flying lessons this summer — soon after receiving his driver's license — with the goal of earning a pilot license before heading to college.
+A high school sophomore from the San Francisco Bay Area, Adam is interested in science, engineering, math and finance. He is an intern at a robotics startup in San Francisco, and hopes to one day become a roboticist — like his eldest brother.
+
+Adam loves to climb rocks, surf waves, ski downhill, and run cross-country; he enjoys listening to music or playing the guitar on quiet evenings when there is no homework.
+
+Adam is looking forward to taking computer science classes at UC Berkeley this summer as a pre-college scholar. He also plans to start taking flying lessons this summer — soon after receiving his driver's license. Adam hopes to earn a pilot license before heading to college.

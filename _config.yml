@@ -98,7 +98,7 @@ pagination:
   enabled: true
 
 related_blog_posts:
-  enabled: true
+  enabled: false
   max_related: 5
 
 # Giscus comments (RECOMMENDED)
@@ -198,6 +198,10 @@ exclude:
   - _pages/teaching.md
   - _pages/profiles.md
   - _pages/dropdown.md
+  - _books/
+  - _news/
+  - _posts/
+  - _includes/repository
 keep_files:
   - CNAME
   - .nojekyll

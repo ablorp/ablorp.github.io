@@ -49,8 +49,8 @@
       "url": "https://adamcheong.com/assets/pdf/HS-BCOM-145 Project Presentation.pdf"
     },
     {
-      "name": "Cliffhanger Project",
-      "summary": "The cliffhanger is a novel mountain climbing aid that brings a new mechanical advantage to mountaineers by means of a simple lever mechanism. This project is inspired by a physics demo harnessing a setup of three toothpicks to carry a payload hanging off the edge of a table.",
+      "name": "The Cliffhanger Project",
+      "summary": "A novel mountain climbing aid that brings a new mechanical advantage to mountaineers by means of a simple lever mechanism — inspired by a physics demo harnessing a setup of three toothpicks to carry a payload hanging off the edge of a table.",
       "highlights": [ "Mechanical Advantage", "Type 2 Lever", "Mountain Climbing Aid" ],
       "startDate": "2023-03",
       "endDate": "2023-01",
@@ -228,16 +228,6 @@
   ],
   "skills": [
     {
-      "name": "DIY",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Hydroponics",
-        "3D Printing",
-        "Origami"
-      ]
-    },
-    {
       "name": "Hardware",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
@@ -254,6 +244,25 @@
       "keywords": [
         "Python",
         "Scratch"
+      ]
+    },
+    {
+      "name": "DIY",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Hydroponics",
+        "3D Printing",
+        "Origami"
+      ]
+    },
+    {
+      "name": "Investment",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Portfolio Management",
+        "Trading Strategies"
       ]
     }
   ],

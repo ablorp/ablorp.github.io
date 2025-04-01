@@ -25,7 +25,20 @@
       "startDate": "2023-08-21",
       "endDate": "2027-06-11",
       "score": "5",
-      "courses": ["Literary Arts: Graphic Narrative", "Calculus A, B, C & D", "AP Physics C: Mechanics", "AP Chemistry", "AP Biology", "Latin 1 & 2", "Advanced Literature", "Studio Art: Paper", "Graph Theory 1", "Number Theory 2", "Eucleadean Geometry 3", "Exponents/Log/Trig A & B" ]
+      "courses": [
+        "Literary Arts: Graphic Narrative",
+        "Calculus A, B, C & D",
+        "AP Physics C: Mechanics",
+        "AP Chemistry",
+        "AP Biology",
+        "Latin 1 & 2",
+        "Advanced Literature",
+        "Studio Art: Paper",
+        "Graph Theory 1",
+        "Number Theory 2",
+        "Eucleadean Geometry 3",
+        "Exponents/Log/Trig A & B"
+      ]
     }
   ],
   "experience": [
@@ -36,14 +49,14 @@
       "startDate": "2023-07",
       "endDate": "2027-06",
       "summary": "Assemble and test robot controllers that allow humans from halfway around the world to teleoperate robot arms with low latency and training robot arms to perform precise tasks reliably.",
-      "highlights": [ "Controllers Assembly & Testing", "Teleoperation", "Data Labeling", "Robot Training" ]
+      "highlights": ["Controllers Assembly & Testing", "Teleoperation", "Data Labeling", "Robot Training"]
     }
   ],
   "projects": [
     {
       "name": "Monte Carlo Simulation of Somatic Twist in Ancient Marine Worms",
       "summary": "Run Monte Carlo simulation to recreate evolutionary events inside a computer; and see how the first digital C. elegans worm evolves in silico to become the ‘first fish’ — with a dorsoventrally inverted body plan after a somatic twist.",
-      "highlights": [ "Computational Biology", "OpenWorm", "Sybernetic" ],
+      "highlights": ["Computational Biology", "OpenWorm", "Sybernetic"],
       "startDate": "2025-01",
       "endDate": "2027-06",
       "url": "https://adamcheong.com/assets/pdf/HS-BCOM-145 Project Presentation.pdf"
@@ -51,7 +64,7 @@
     {
       "name": "The Cliffhanger Project",
       "summary": "A novel mountain climbing aid that brings a new mechanical advantage to mountaineers by means of a simple lever mechanism — inspired by a physics demo harnessing a setup of three toothpicks to carry a payload hanging off the edge of a table.",
-      "highlights": [ "Mechanical Advantage", "Type 2 Lever", "Mountain Climbing Aid" ],
+      "highlights": ["Mechanical Advantage", "Type 2 Lever", "Mountain Climbing Aid"],
       "startDate": "2023-03",
       "endDate": "2023-01",
       "url": "https://www.youtube.com/watch?v=0NGo5p9WzkI"
@@ -223,7 +236,7 @@
       "startDate": "2022-07-11",
       "endDate": "2022-07-15",
       "summary": "Supervising students and gain first hand experience through teaching small groups of students a new skill.",
-      "highlights": [ "Leadership Development", "CPR Training", "First Aid Certification" ]
+      "highlights": ["Leadership Development", "CPR Training", "First Aid Certification"]
     }
   ],
   "skills": [
@@ -231,39 +244,25 @@
       "name": "Hardware",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "PC Assembly",
-        "Controller Assembly & Testing",
-        "Circuit Board Soldering"
-      ]
+      "keywords": ["PC Assembly", "Controller Assembly & Testing", "Circuit Board Soldering"]
     },
     {
       "name": "Software",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python",
-        "Scratch"
-      ]
+      "keywords": ["Python", "Scratch"]
     },
     {
       "name": "DIY",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Hydroponics",
-        "3D Printing",
-        "Origami"
-      ]
+      "keywords": ["Hydroponics", "3D Printing", "Origami"]
     },
     {
       "name": "Investment",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Portfolio Management",
-        "Trading Strategies"
-      ]
+      "keywords": ["Portfolio Management", "Trading Strategies"]
     }
   ],
   "languages": [

@@ -45,7 +45,7 @@
       "location": "Portola Valley, California",
       "url": "https://www.woodland-school.org/",
       "area": "3rd to 8th Grade",
-      "studyType": "Middle School",
+      "studyType": "Middle School Graduation",
       "startDate": "2017-08-21",
       "endDate": "2023-06-08",
       "score": "5",
@@ -173,11 +173,55 @@
       "summary": "A comparative study of morphological models from ancient marine worms to the first fish inside an aquarium."
     },
     {
+      "name": "The Rise of Homo Roboticus",
+      "publisher": "Application Essay, Masason Foundation",
+      "releaseDate": "2025-01-25",
+      "url": "https://adamcheong.com/assets/pdf/TheRiseOfHomoRoboticus.pdf",
+      "summary": "10 years later, how will artificial intelligence be further developed and what kind of changes will it bring to the world?"
+    },
+    {
       "name": "People Get Essays Wrong",
       "publisher": "Global Essay Competition, John Locke Institute",
       "releaseDate": "2023-06-30",
       "url": "https://adamcheong.com/assets/pdf/Adam-Cheong-Junior-4.pdf",
       "summary": "What is something important, about which nearly everybody is wrong?"
+    }
+  ],
+  "courses": [
+    {
+      "name": "The Structure and Interpretation of Computer Programs (CompSci 61A)",
+      "date": "Summer 2025",
+      "issuer": "UC Berkeley",
+      "url": "https://classes.berkeley.edu/content/2025-summer-compsci-61a-001-lec-001",
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name": "The Mathematics of Competitive Behavior",
+      "date": "Summer 2024",
+      "issuer": "Johns Hopkins Center for Talented Youth",
+      "url": "https://adamcheong.com/assets/pdf/AY2024_1444684_1905529_SUMMEVAL_MOCB.pdf",
+      "icon": "fa-solid fa-tag"
+    },
+    {
+      "name": "Engineering and Robotics Workshop at MIT Campus",
+      "date": "Summer 2024",
+      "issuer": "National Geographic Student Travel",
+      "url": "https://goputney.com/program/mit-engineering-robotics/",
+      "icon": "fa-solid fa-envelope"
+    },
+    {
+      "name": "TCR History Camp",
+      "date": "Summer 2024",
+      "issuer": "The Concord Review",
+      "url": "https://adamcheong.com/assets/pdf/2024 Summer Boston Adam Cheong.pdf",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "Logic: Principle of Reasoning",
+      "date": "Summer 2023",
+      "issuer": "Johns Hopkins Center for Talented Youth",
+      "url": "https://adamcheong.com/assets/pdf/AY2023_1444684_1786950_SUMMEVAL_LOGC.pdf",
+      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "clubs": [
@@ -200,50 +244,6 @@
       "name": "Clock Tower Music (2023–present)",
       "icon": "fa-solid fa-tag",
       "keywords": ["Taking guitar lessons with a local musician afterschool; practice new songs in the evenings."]
-    }
-  ],
-  "summers": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "volunteer": [
@@ -269,7 +269,7 @@
       "name": "Software",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["Python", "Scratch", "AI Tools"]
+      "keywords": ["Python", "Scratch", "GitHub"]
     },
     {
       "name": "DIY",

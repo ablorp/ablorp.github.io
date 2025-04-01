@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-A high school sophomore from the San Francisco Bay Area, Adam is interested in science, engineering, math and finance. He is an intern at a robotics startup in San Francisco, and hopes to one day become a roboticist — just like his eldest brother.
+A high school sophomore from the San Francisco Bay Area, Adam is interested in science, engineering, math and finance. He is an intern at a robotics startup in San Francisco, and hopes to one day become a roboticist — just like his eldest brother whom he enjoys working with.
 
 Adam loves to climb rocks, surf waves, ski downhill, and run cross-country; he enjoys listening to music or playing the guitar on quiet evenings when there is no homework. Adam visits the farmer's market on Sundays and on occasion finds time to cook a good steak dinner for everyone.
 

@@ -25,7 +25,7 @@
       "startDate": "2023-08-21",
       "endDate": "2027-06-11",
       "score": "5",
-      "courses": ["Calculus BC", "Physics C: Mechanics", "AP Chemistry", "AP Biology", "Latin 1 & 2", "Literary Arts: Graphic Narrative", "Advanced Literature", "Graph Theory", "Number Theory", "Studio Art: Paper"]
+      "courses": ["Literary Arts: Graphic Narrative", "Calculus A,B,C,D", "AP Physics C: Mechanics", "AP Chemistry", "AP Biology", "Latin 1 & 2", "Advanced Literature", "Studio Art: Paper", "Graph Theory 1", "Number Theory 2", "Eucleadean Geometry 3", "Exponents/Log/Trig A & B" ]
     }
   ],
   "experience": [
@@ -35,8 +35,8 @@
       "url": "https://watneyrobotics.com",
       "startDate": "2023-07",
       "endDate": "2027-06",
-      "summary": "I assemble and test the robot controllers that allow humans from halfway around the world to teleoperate a pair of robot arms with precision. I alos train the robots.",
-      "highlights": [ "Data labeling", "Robot training", "Robot controller assembly & testing", "PCB soldering" ]
+      "summary": "From assembling and testing the robot controllers that allow humans from halfway around the world to teleoperate a pair of robot arms with precision to training robot arms so they can perform precise tasks reliably.",
+      "highlights": [ "Data Labeling", "Teleoperation", "Controllers Assembly & Testing", "PCB soldering" ]
     }
   ],
   "projects": [
@@ -51,7 +51,7 @@
     {
       "name": "Cliffhanger Project",
       "summary": "The cliffhanger is a novel mountain climbing aid that brings a new mechanical advantage to mountaineers by means of a simple lever mechanism. This project is inspired by a physics demo harnessing a setup of three toothpicks to carry a payload hanging off the edge of a table.",
-      "highlights": [ "Physics", "Type 2 Lever", "Mountain Climbing Aid" ],
+      "highlights": [ "Mechanical Advantage", "Type 2 Lever", "Mountain Climbing Aid" ],
       "startDate": "2023-03",
       "endDate": "2023-01",
       "url": "https://www.youtube.com/watch?v=0NGo5p9WzkI"
@@ -121,16 +121,23 @@
       "date": "2024-04",
       "awarder": "National Latin Examination",
       "url": "https://www.nle.org/",
-      "summary": "Recognition of student accomplishment in Latin language learning and the study of Greco-Roman culture."
+      "summary": "Annual recognition of student accomplishment in Latin language learning and the study of Greco-Roman culture."
     }
   ],
   "posters": [
+    {
+      "name": "Monte Carlo Simulation of Somatic Twist in Ancient Marine Worms",
+      "publisher": "25th International Worm Meeting, UC Davis",
+      "releaseDate": "2025-06-28",
+      "url": "https://adamcheong.com/assets/pdf/InvitationLetter.pdf",
+      "summary": "Progress report on design aspects of evolutionary modeling for a digital worm and computational challenges encountered."
+    },
     {
       "name": "A Twist on Decussation",
       "publisher": "Junior Science and Humanities Symposium, San Francisco State University",
       "releaseDate": "2025-02-28",
       "url": "https://adamcheong.com/assets/pdf/A Twist on Decussation—JSHS 2025-Poster.pdf",
-      "summary": "A Comparative Study of Morphological Models From Ancient Marine Worms to the First Fish Inside an Aquarium."
+      "summary": "A comparative study of morphological models from ancient marine worms to the first fish inside an aquarium."
     }
   ],
   "papers": [
@@ -139,7 +146,7 @@
       "publisher": "Junior Science and Humanities Symposium, San Francisco State University",
       "releaseDate": "2025-02-28",
       "url": "https://adamcheong.com/assets/pdf/Cheong_Adam_Paper.pdf",
-      "summary": "A Comparative Study of Morphological Models From Ancient Marine Worms to the First Fish Inside an Aquarium."
+      "summary": "A comparative study of morphological models from ancient marine worms to the first fish inside an aquarium."
     },
     {
       "name": "People Get Essays Wrong",
@@ -207,6 +214,18 @@
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
+  "volunteer": [
+    {
+      "organization": "Woodland Summer Adventures",
+      "location": "Portola Valley, California",
+      "position": "Camp Counselor",
+      "url": "https://www.woodland-school.org",
+      "startDate": "2022-07-11",
+      "endDate": "2022-07-15",
+      "summary": "Support Woodland campers in the summer by supervising students and  gain first hand experience through teaching small groups of students a new skill.",
+      "highlights": [ "Leadership development as well as CPR and first aid certification" ]
+    }
+  ],
   "skills": [
     {
       "name": "Physics",
@@ -230,12 +249,12 @@
     },
     {
       "language": "Japanese",
-      "fluency": "common phrases",
+      "fluency": "limited common phrases",
       "icon": ""
     },
     {
       "language": "Mandarin",
-      "fluency": "common phrases",
+      "fluency": "limited common phrases",
       "icon": ""
     },
     {
@@ -245,7 +264,7 @@
     },
     {
       "language": "English",
-      "fluency": "native speaker",
+      "fluency": "native speaker fluency",
       "icon": ""
     }
   ],
@@ -258,7 +277,7 @@
     {
       "name": "Professor Zvezdelina Stankova",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Founder and Director, Berkeley Math Circle"
+      "reference": "Founder and Director, Berkeley Math Circle, UC Berkeley"
     }
   ]
 }

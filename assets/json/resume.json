@@ -182,16 +182,24 @@
   ],
   "clubs": [
     {
-      "name": "Physics",
+      "name": "Berkeley Math Circle (2015–present)",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "keywords": ["Attend 2-hour evening math lectures by professors & mathematicians at UC Berkeley every Wednesday; participated in AMC 8/10/12 math contests."]
+    },
+    {
+      "name": "Benchmark Climbing (2023–present)",
+      "icon": "fa-solid fa-tag",
+      "keywords": ["Member of afterschool climbing club; practice 2 to 3 times a week regularly at an indoor bouldering gym in San Francisco."]
+    },
+    {
+      "name": "24 Hour Fitness (2024–present)",
+      "icon": "fa-solid fa-tag",
+      "keywords": ["Member of a neighborhood gym where I workout regularly in the evenings and on weekends."]
+    },
+    {
+      "name": "Clock Tower Music (2023–present)",
+      "icon": "fa-solid fa-tag",
+      "keywords": ["Afterschool guitar lessons from a local musician; practice new songs for quiet enjoyment when there is no homework."]
     }
   ],
   "summers": [

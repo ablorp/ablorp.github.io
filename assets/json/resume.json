@@ -1,7 +1,7 @@
 {
   "general": {
     "name": "Adam Cheong",
-    "title": "Rock Climber & Roboticist",
+    "headline": "Rock Climber & Roboticist",
     "image": "",
     "email": "adam@cheong.net",
     "phone": "(650) 593-8322",
@@ -25,7 +25,7 @@
       "startDate": "2023-08-21",
       "endDate": "2027-06-11",
       "score": "5",
-      "courses": ["Literary Arts: Graphic Narrative", "Calculus A,B,C,D", "AP Physics C: Mechanics", "AP Chemistry", "AP Biology", "Latin 1 & 2", "Advanced Literature", "Studio Art: Paper", "Graph Theory 1", "Number Theory 2", "Eucleadean Geometry 3", "Exponents/Log/Trig A & B" ]
+      "courses": ["Literary Arts: Graphic Narrative", "Calculus A, B, C & D", "AP Physics C: Mechanics", "AP Chemistry", "AP Biology", "Latin 1 & 2", "Advanced Literature", "Studio Art: Paper", "Graph Theory 1", "Number Theory 2", "Eucleadean Geometry 3", "Exponents/Log/Trig A & B" ]
     }
   ],
   "experience": [
@@ -35,8 +35,8 @@
       "url": "https://watneyrobotics.com",
       "startDate": "2023-07",
       "endDate": "2027-06",
-      "summary": "From assembling and testing the robot controllers that allow humans from halfway around the world to teleoperate a pair of robot arms with precision to training robot arms so they can perform precise tasks reliably.",
-      "highlights": [ "Data Labeling", "Teleoperation", "Controllers Assembly & Testing", "PCB soldering" ]
+      "summary": "Assemble and test robot controllers that allow humans from halfway around the world to teleoperate robot arms with low latency and training robot arms to perform precise tasks reliably.",
+      "highlights": [ "Controllers Assembly & Testing", "Teleoperation", "Data Labeling", "Robot Training" ]
     }
   ],
   "projects": [
@@ -228,24 +228,32 @@
   ],
   "skills": [
     {
-      "name": "Hardware",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Computer Hardware Assembly",
-        "Robot Controller Assembly & Testing",
-        "Circuit Board Soldering"
-      ]
-    },
-    {
       "name": "DIY",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Hydroponics",
         "3D Printing",
-        "TinkerCAD",
         "Origami"
+      ]
+    },
+    {
+      "name": "Hardware",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "PC Assembly",
+        "Controller Assembly & Testing",
+        "Circuit Board Soldering"
+      ]
+    },
+    {
+      "name": "Software",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Python",
+        "Scratch"
       ]
     }
   ],

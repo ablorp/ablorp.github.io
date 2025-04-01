@@ -39,6 +39,20 @@
         "Eucleadean Geometry 3",
         "Exponents/Log/Trig A & B"
       ]
+    },
+    {
+      "institution": "Woodland School",
+      "location": "Portola Valley, California",
+      "url": "https://www.woodland-school.org/",
+      "area": "3rd to 8th Grade",
+      "studyType": "Middle School",
+      "startDate": "2017-08-21",
+      "endDate": "2023-06-08",
+      "score": "5",
+      "courses": [
+        "Capstone Project: Hydroponics"
+        "Contests: Mathcounts, AMC 8, STEM Fairs"
+      ]
     }
   ],
   "experience": [

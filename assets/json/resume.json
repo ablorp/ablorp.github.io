@@ -269,7 +269,7 @@
     {
       "name": "Software",
       "level": "Master",
-      "icon": "fa-solid fa-laptop-code",
+      "icon": "fa-solid fa-code",
       "keywords": ["Python", "Scratch", "GitHub"]
     },
     {
@@ -281,7 +281,7 @@
     {
       "name": "Investment",
       "level": "Master",
-      "icon": "fa-solid fa-hand-holding-dollar",
+      "icon": "fa-solid fa-chart-line",
       "keywords": ["Portfolio Management", "Trading Strategies", "Trading Tools"]
     }
   ],

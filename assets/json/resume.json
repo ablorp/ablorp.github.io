@@ -255,7 +255,7 @@
       "startDate": "2022-07-11",
       "endDate": "2022-07-15",
       "summary": "Supervising students and gain first hand experience through teaching small groups of students a new skill.",
-      "highlights": ["Leadership Development", "CPR Training", "AED & First Aid Certification"]
+      "highlights": ["Leadership Development", "Safety Training", "CPR, AED & Basic First Aid Certified"]
     }
   ],
   "skills": [
@@ -269,7 +269,7 @@
       "name": "Software",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["Python", "Scratch"]
+      "keywords": ["Python", "Scratch", "AI Tools"]
     },
     {
       "name": "DIY",
@@ -281,7 +281,7 @@
       "name": "Investment",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["Portfolio Management", "Trading Strategies"]
+      "keywords": ["Portfolio Management", "Trading Strategies", "Trading Tools"]
     }
   ],
   "languages": [

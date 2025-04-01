@@ -64,7 +64,7 @@
       "highlights": ["Controllers Assembly & Testing", "Teleoperation", "Data Labeling", "Robot Training"]
     }
   ],
-  "volunteer": [
+  "volunteering": [
     {
       "organization": "Woodland Summer Adventures",
       "location": "Portola Valley, California",
@@ -293,12 +293,12 @@
     },
     {
       "language": "Japanese",
-      "fluency": "limited common phrases",
+      "fluency": "limited phrases",
       "icon": ""
     },
     {
       "language": "Mandarin",
-      "fluency": "limited common phrases",
+      "fluency": "limited phrases",
       "icon": ""
     },
     {

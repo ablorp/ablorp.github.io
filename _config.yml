@@ -634,6 +634,7 @@ jsonresume:
   - general
   - education
   - experience
+  - volunteer
   - projects
   - science fairs
   - contests
@@ -641,7 +642,6 @@ jsonresume:
   - papers
   - courses
   - clubs
-  - volunteer
   - skills
   - languages
   - references

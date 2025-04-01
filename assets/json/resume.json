@@ -63,6 +63,18 @@
       "highlights": ["Controllers Assembly & Testing", "Teleoperation", "Data Labeling", "Robot Training"]
     }
   ],
+  "volunteer": [
+    {
+      "organization": "Woodland Summer Adventures",
+      "location": "Portola Valley, California",
+      "position": "Camp Counselor",
+      "url": "https://adamcheong.com/assets/pdf/Adam CPR Certification.pdf",
+      "startDate": "2022-07-11",
+      "endDate": "2022-07-15",
+      "summary": "Supervising students and gain first hand experience through teaching small groups of students a new skill.",
+      "highlights": ["Leadership Development", "Safety Training", "CPR, AED & Basic First Aid Certified"]
+    }
+  ],
   "projects": [
     {
       "name": "Monte Carlo Simulation of Somatic Twist in Ancient Marine Worms",
@@ -244,18 +256,6 @@
       "name": "Clock Tower Music (2023–present)",
       "icon": "fa-solid fa-tag",
       "keywords": ["Taking guitar lessons with a local musician afterschool; practice new songs in the evenings."]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Woodland Summer Adventures",
-      "location": "Portola Valley, California",
-      "position": "Camp Counselor",
-      "url": "https://adamcheong.com/assets/pdf/Adam CPR Certification.pdf",
-      "startDate": "2022-07-11",
-      "endDate": "2022-07-15",
-      "summary": "Supervising students and gain first hand experience through teaching small groups of students a new skill.",
-      "highlights": ["Leadership Development", "Safety Training", "CPR, AED & Basic First Aid Certified"]
     }
   ],
   "skills": [

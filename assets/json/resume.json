@@ -79,7 +79,7 @@
   "projects": [
     {
       "name": "Monte Carlo Simulation of Somatic Twist in Ancient Marine Worms",
-      "summary": "Run Monte Carlo simulation to recreate evolutionary events inside a computer; and see how the first digital C. elegans worm evolves in silico to become the ‘first fish’ — with a dorsoventrally inverted body plan after a somatic twist.",
+      "summary": "Research Purpose: run Monte Carlo simulation to recreate evolutionary events inside a computer and see how the first digital worm evolves in silico to become the ‘first fish’ with a dorsoventrally inverted body plan after a somatic twist.",
       "highlights": ["Computational Biology", "OpenWorm", "Sybernetic"],
       "startDate": "2025-01",
       "endDate": "2027-06",

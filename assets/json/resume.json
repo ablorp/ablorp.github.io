@@ -202,35 +202,35 @@
   "courses": [
     {
       "name": "The Structure and Interpretation of Computer Programs",
-      "date": "2025",
+      "date": "2025-06",
       "issuer": "UC Berkeley Pre-College Scholar",
       "url": "https://classes.berkeley.edu/content/2025-summer-compsci-61a-001-lec-001",
       "icon": "fa-solid fa-location-dot"
     },
     {
       "name": "The Mathematics of Competitive Behavior",
-      "date": "2024",
+      "date": "2024-08",
       "issuer": "Johns Hopkins CTY",
       "url": "https://adamcheong.com/assets/pdf/AY2024_1444684_1905529_SUMMEVAL_MOCB.pdf",
       "icon": "fa-solid fa-tag"
     },
     {
       "name": "Engineering and Robotics Workshop at MIT Campus",
-      "date": "2024",
+      "date": "2024-07",
       "issuer": "National Geographic Student Travel",
       "url": "https://goputney.com/program/mit-engineering-robotics/",
       "icon": "fa-solid fa-envelope"
     },
     {
       "name": "TCR History Camp",
-      "date": "2024",
+      "date": "2024-06",
       "issuer": "The Concord Review",
       "url": "https://adamcheong.com/assets/pdf/2024 Summer Boston Adam Cheong.pdf",
       "icon": "fa-solid fa-hashtag"
     },
     {
       "name": "Logic: Principle of Reasoning",
-      "date": "2023",
+      "date": "2023-07",
       "issuer": "Johns Hopkins CTY",
       "url": "https://adamcheong.com/assets/pdf/AY2023_1444684_1786950_SUMMEVAL_LOGC.pdf",
       "icon": "fa-solid fa-clipboard-check"

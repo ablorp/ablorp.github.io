@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 🦾 fold!fold!fold!
+title: 🦾 fold! fold! fold!
 description: growing strong in sf mission district
 img: assets/img/fold-fold-fold.jpg
 redirect: https://adamcheong.com/assets/video/fold-fold-fold.mp4

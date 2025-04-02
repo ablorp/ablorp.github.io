@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 🤖 watney
-description: from san carlos to berkeley
+description: from mid-peninsula to berkeley & beyond
 img: assets/img/teleoperation.jpg
 importance: 1
 category: work

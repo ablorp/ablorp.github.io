@@ -82,15 +82,15 @@
       "summary": "Research Purpose: run Monte Carlo simulation to recreate evolutionary events inside a computer and see how the first digital worm evolves in silico to become the ‘first fish’ with a dorsoventrally inverted body plan after a somatic twist.",
       "highlights": ["Computational Biology", "OpenWorm", "Sybernetic"],
       "startDate": "2025-01",
-      "endDate": "2027-06",
+      "endDate": "2025-12",
       "url": "https://adamcheong.com/assets/pdf/IWM-2025 Poster.pdf"
     },
     {
       "name": "The Cliffhanger Project",
       "summary": "A novel mountain climbing aid that brings a new mechanical advantage to mountaineers by means of a simple lever mechanism — inspired by a physics demo harnessing a setup of three toothpicks to carry a payload hanging off the edge of a table.",
       "highlights": ["Mountain Climbing Aid", "Mechanical Advantage", "Type 2 Lever"],
-      "startDate": "2023-03",
-      "endDate": "2023-01",
+      "startDate": "2023-01",
+      "endDate": "2023-03",
       "url": "https://www.youtube.com/watch?v=0NGo5p9WzkI"
     }
   ],
@@ -112,7 +112,7 @@
     {
       "title": "1st Place & Bill Tobin Award, Life Sciences",
       "date": "2024-03",
-      "awarder": "9th Grade, Golden Gate STEM Fair",
+      "awarder": "9th Grade, Golden Gate STEM Fair (GGSF)",
       "url": "https://ca-ggsf.zfairs.com/app/showcase?f=4299309f-6177-47a3-abd7-4b3d88f19b31",
       "summary": "Why Do Vertebrates Have Decussated Corticospinal Tracts?"
     },
@@ -126,7 +126,7 @@
     {
       "title": "1st Place, Engineering: Electrical and Mechanical",
       "date": "2023-03",
-      "awarder": "8th Grade, Golden Gate STEM Fair",
+      "awarder": "8th Grade, Golden Gate STEM Fair (GGSF)",
       "url": "https://adamcheong.com/assets/img/gallery/Adam-GGSF-20230319.jpeg",
       "summary": "Cliffhanger: Dynamic Stability in a Mechanical Mountain Climbing Aid by Design"
     },

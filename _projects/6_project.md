@@ -2,7 +2,7 @@
 layout: page
 title: cliffhanger v2
 description: dynamically stable mechanical mountain climbing aid by design
-img: assets/img/climbing_asimo.png
+img: assets/img/climbing_asimo.jpeg
 redirect: https://adamcheong.com/assets/pdf/The%20Adam%20Cliffhanger%20Project%E2%80%94GGSF%202023.pdf
 importance: 2
 category: explore

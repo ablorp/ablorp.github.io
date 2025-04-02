@@ -1,7 +1,7 @@
 ---
 layout: page
 title: rocket fuel
-description: homemade rocket fuel with kitchen chemistry
+description: homemade rocket fuel with kitchen chemistry (i.e., kno3 + sugar etc.)
 img: assets/img/kno3.jpg
 redirect: https://www.youtube.com/watch?v=cRJPzYoi1Yw&t=5s&authuser=2
 importance: 3

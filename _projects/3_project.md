@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 💪 watney robotics
+title: 🤖 watney
 description: from san carlos to berkeley
 img: assets/img/teleoperation.jpg
 importance: 1

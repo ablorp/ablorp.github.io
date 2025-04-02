@@ -45,8 +45,8 @@ ninja.data = [{
           description: "a dynamically stable mechanical mountain climbing aid by design (8th grade)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-kno3",
-          title: 'KNO3',
+            },},{id: "projects-rocket-fuel",
+          title: 'rocket fuel',
           description: "homemade rocket fuel with kitchen chemistry (8th grade)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
@@ -60,9 +60,9 @@ ninja.data = [{
           description: "an other project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+            },},{id: "projects-go-kart",
+          title: 'go-kart',
+          description: "downhill speed-testing with my brothers — vrooom! 🏎️",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{

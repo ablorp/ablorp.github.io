@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 7
-description: with background image
-img: assets/img/4.jpg
+title: openworm
+description: Monte Carlo simulation of somatic twist in ancient marine worms
+img: assets/img/openworm.jpg
+redirect: https://adamcheong.com/assets/pdf/IWM-2025%20Poster.pdf
 importance: 1
 category: explore
-related_publications: true
+related_publications: false
 ---
 
 Every project has a beautiful feature showcase page.

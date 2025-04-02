@@ -1,8 +1,8 @@
 ---
 layout: page
-title: go-kart
-description: downhill speed-testing with my brothers — vrooom! 🏎️
-img: assets/img/6.jpg
+title: go kart
+description: downhill speeding with my brothers — vrooom! 🏎️
+img: assets/img/go_kart.jpg
 importance: 4
 category: fun
 ---

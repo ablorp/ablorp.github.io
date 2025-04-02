@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 8
-description: an other project with a background image and giscus comments
-img: assets/img/9.jpg
+title: why decussate?
+description: a twist on decussation
+img: assets/img/aquarium_fish.jpg
+redirect: https://adamcheong.com/assets/pdf/A%20Twist%20on%20Decussation%E2%80%94JSHS%202025-Poster.pdf
 importance: 2
 category: explore
-giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.

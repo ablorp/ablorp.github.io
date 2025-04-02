@@ -11,14 +11,14 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "publications",
-          description: "Drafts of my papers and essays in reversed chronological order.",
+          description: "Papers and essays in reversed chronological order.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of my cool projects.",
+          description: "A growing collection of cool projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -42,24 +42,14 @@ ninja.data = [{
               window.location.href = "/projects/2_project/";
             },},{id: "projects-kno3",
           title: 'KNO3',
-          description: "Homemade Rocket Fuel With Kitchen Chemistry (8th Grade)",
+          description: "homemade rocket fuel with kitchen chemistry (8th grade)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-cliffhanger",
+          title: 'cliffhanger',
+          description: "a dynamically stable mechanical mountain climbing aid by design (8th grade)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
             },},{id: "projects-project-7",
           title: 'project 7',
           description: "with background image",

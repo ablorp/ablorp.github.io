@@ -1,11 +1,11 @@
 ---
 layout: page
-title: rocket fuel
-description: homemade rocket fuel with kitchen chemistry (8th grade)
-img: assets/img/kno3.jpg
-redirect: https://www.youtube.com/watch?v=cRJPzYoi1Yw&t=5s&authuser=2
-importance: 3
-category: fun
+title: why decussate?
+description: why do vertebrates have decussated cortocospinal tracts?
+img: assets/img/aquarium_fish.jpg
+redirect: https://adamcheong.com/assets/pdf/A%20Twist%20on%20Decussation%E2%80%94JSHS%202025-Poster.pdf
+importance: 2
+category: explore
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: go kart
-description: downhill speeding with my brothers — vrooom! 🏎️
+description: speeding downhill — vrooom! 🏎️
 img: assets/img/go_kart.jpg
 importance: 4
 category: fun

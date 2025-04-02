@@ -31,7 +31,7 @@ ninja.data = [{
             window.location.href = "/cv/";
           },
         },{id: "projects-fold-fold-fold",
-          title: '🦾 fold! fold! fold!',
+          title: '🦾 fold,fold,fold!',
           description: "growing strong in sf mission district",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
@@ -42,7 +42,7 @@ ninja.data = [{
               window.location.href = "/projects/2_project/";
             },},{id: "projects-watney",
           title: '🤖 watney',
-          description: "from mid-peninsula to berkeley &amp; beyond",
+          description: "from mid-peninsula to berkeley",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-monte-carlo",

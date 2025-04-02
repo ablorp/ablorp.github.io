@@ -35,9 +35,9 @@ ninja.data = [{
           description: "growing strong in mission district",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-farming",
-          title: '🍓 farming',
-          description: "watney found a home in berkeley",
+            },},{id: "projects-hydroponics",
+          title: '🍓 hydroponics',
+          description: "vertical farming in berkeley",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-monte-carlo",

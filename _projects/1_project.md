@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: fold! fold! fold!
+description: teleoperated overnight from 7,000+ miles away
+img: assets/img/fold-fold-fold.jpg
+redirect: https://adamcheong.com/assets/video/fold-fold-fold.mp4
 importance: 1
 category: work
-giscus_comments: true
+giscus_comments: false
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 🍓 farming
-description: starting up watney @ berkeley
+description: watney found a home in berkeley
 img: assets/img/robot44.jpg
 importance: 1
 category: work

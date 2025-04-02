@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 3
-description: another without an image
-img:
+title: watney robotics
+description: from San Carlos to Berkeley: your journey is our adventure
+img: assets/img/robot44.jpg
 importance: 1
-category: fun
+category: work
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: watney robotics
-description: your journey is our adventure — from San Carlos to Berkeley and beyond
+description: Bay Bridge crossing: from Berkeley to San Francisco
 img: assets/img/robot44.jpg
 importance: 1
 category: work

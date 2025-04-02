@@ -40,8 +40,8 @@ ninja.data = [{
           description: "growing strong in mission district",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-openworm",
-          title: 'openworm',
+            },},{id: "projects-monte-carlo",
+          title: 'monte carlo',
           description: "Monte Carlo simulation of somatic twist in ancient marine worms",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";

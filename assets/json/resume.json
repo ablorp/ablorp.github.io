@@ -312,6 +312,28 @@
       "icon": "fa-solid fa-people-arrows"
     }
   ],
+  "assessments": [
+    {
+      "language": "SAT (10th Grade)",
+      "fluency": "Score: 1510 (730 EBRW, 780 Math)",
+      "icon": "fa-solid fa-graduation-cap"
+    },
+    {
+      "language": "SCAT (8th Grade)",
+      "fluency": "Score: 484 verbal, 501 math",
+      "icon": "fa-solid fa-graduation-cap"
+    },
+    {
+      "language": "STB (8th Grade)",
+      "fluency": "Score: 625",
+      "icon": "fa-solid fa-globe"
+    },
+    {
+      "language": "WISC-V (2nd Grade)",
+      "fluency": "Full Scale: 138 (Verbal 146)",
+      "icon": "fa-solid fa-brain"
+    }
+  ],
   "references": [
     {
       "name": "Dr. Michael Yetman",

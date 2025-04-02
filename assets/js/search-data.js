@@ -30,14 +30,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "projects-watney-berkeley",
-          title: 'watney @ berkeley',
-          description: "vertical farming strawberry hydroponics",
+        },{id: "projects-farming",
+          title: '🍓 farming',
+          description: "setting up lab @ berkeley",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-watney-sf",
           title: 'watney @ sf',
-          description: "bay bridge crossing to mission district",
+          description: "settling down in mission district 🦾",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-openworm",
@@ -60,14 +60,14 @@ ninja.data = [{
           description: "dynamically stable mechanical mountain climbing aid by design",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-rocket-fuel",
-          title: 'rocket fuel',
-          description: "homemade rocket fuel with kitchen chemistry",
+            },},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
             },},{id: "projects-little-go-kart-go",
           title: 'little go kart go',
-          description: "vrooom! an amazing team we are! 🏎️",
+          description: "🏎️ vrooom! an amazing team we are!",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{

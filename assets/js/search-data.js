@@ -36,8 +36,8 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-watney-sf",
-          title: 'watney @ sf',
-          description: "crossing the bridge to mission district 🦾",
+          title: '🦾 watney @ sf',
+          description: "bridging over to mission district",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-openworm",
@@ -62,7 +62,7 @@ ninja.data = [{
               window.location.href = "/projects/7_project/";
             },},{id: "projects-rocket-fuel",
           title: 'rocket fuel',
-          description: "homemade rocket fuel with kitchen chemistry",
+          description: "homemade rocket fuel with kitchen chemistry (i.e., kno3 + sugar etc.)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
             },},{id: "projects-little-go-kart-go",

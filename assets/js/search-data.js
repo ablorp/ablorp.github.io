@@ -37,7 +37,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-cliffhanger",
           title: 'cliffhanger',
-          description: "a dynamically stable mechanical mountain climbing aid by design (8th grade)",
+          description: "dynamically stable mechanical mountain climbing aid by design (8th grade)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-rocket-fuel",
@@ -45,19 +45,19 @@ ninja.data = [{
           description: "homemade rocket fuel with kitchen chemistry (8th grade)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-openworm",
+          title: 'openworm',
+          description: "Monte Carlo simulation of somatic twist in ancient marine worms",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
+            },},{id: "projects-why-decussate",
+          title: 'why decussate?',
+          description: "a twist on decussation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
             },},{id: "projects-go-kart",
-          title: 'go-kart',
-          description: "downhill speed-testing with my brothers — vrooom! 🏎️",
+          title: 'go kart',
+          description: "downhill speeding with my brothers — vrooom! 🏎️",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{

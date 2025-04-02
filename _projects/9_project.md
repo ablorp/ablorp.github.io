@@ -1,8 +1,9 @@
 ---
 layout: page
 title: go kart
-description: speeding downhill — vrooom! 🏎️
+description: test driving my brother's go kart — vrooom! 🏎️
 img: assets/img/go_kart.jpg
+redirect: https://youtu.be/GOHkdOWSa5U?si=L5dqB0jqARvFQ62P
 importance: 4
 category: fun
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: 🦾 watney @ sf
 description: growing strong in mission district
-img: assets/img/robot44.jpg
+img: assets/img/teleoperation.jpg
 importance: 1
 category: work
 ---

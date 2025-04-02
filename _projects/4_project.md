@@ -1,8 +1,8 @@
 ---
 layout: page
-title: openworm
+title: monte carlo
 description: Monte Carlo simulation of somatic twist in ancient marine worms
-img: assets/img/openworm.jpg
+img: assets/img/montecarlo.jpg
 redirect: https://adamcheong.com/assets/pdf/IWM-2025%20Poster.pdf
 importance: 1
 category: explore

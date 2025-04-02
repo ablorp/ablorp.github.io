@@ -31,3 +31,5 @@ A high school sophomore from the San Francisco Bay Area, Adam is interested in s
 Adam loves to climb rocks, surf waves, ski downhill, and run cross-country; he enjoys listening to music or playing the guitar on quiet evenings when there is no homework. Adam visits the farmers' market on Sundays and on occasion finds time to cook a sumptuous steak dinner, too!
 
 Adam is looking forward to taking computer science classes at UC Berkeley this summer — as a pre-college scholar right after he turns 16. He plans to start taking flying lessons soon after receiving his driver's license. Adam hopes to earn a pilot license before heading out to college, where he will double major in engineering and finance.
+
+---

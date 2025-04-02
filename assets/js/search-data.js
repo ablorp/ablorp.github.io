@@ -32,12 +32,12 @@ ninja.data = [{
           },
         },{id: "projects-farming",
           title: '🍓 farming',
-          description: "setting up lab @ berkeley",
+          description: "starting up watney @ berkeley",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-watney-sf",
           title: 'watney @ sf',
-          description: "settling down in mission district 🦾",
+          description: "crossing the bridge to mission district 🦾",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-openworm",
@@ -60,9 +60,9 @@ ninja.data = [{
           description: "dynamically stable mechanical mountain climbing aid by design",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-rocket-fuel",
+          title: 'rocket fuel',
+          description: "homemade rocket fuel with kitchen chemistry",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
             },},{id: "projects-little-go-kart-go",

@@ -30,9 +30,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "projects-watney-robotics",
-          title: 'watney robotics',
-          description: "your journey is our adventure — from San Carlos to Berkeley and beyond",
+        },{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-openworm",
@@ -52,17 +52,17 @@ ninja.data = [{
               window.location.href = "/projects/6_project/";
             },},{id: "projects-cliffhanger",
           title: 'cliffhanger',
-          description: "dynamically stable mechanical mountain climbing aid by design (8th grade)",
+          description: "dynamically stable mechanical mountain climbing aid by design",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-rocket-fuel",
-          title: 'rocket fuel',
-          description: "homemade rocket fuel with kitchen chemistry (8th grade)",
+            },},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
-            },},{id: "projects-go-kart",
-          title: 'go kart',
-          description: "test driving my brother&#39;s go kart — vrooom! 🏎️",
+            },},{id: "projects-little-go-kart-go",
+          title: 'little go kart go',
+          description: "vrooom! a racing team we are! 🏎️",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{

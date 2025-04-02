@@ -223,7 +223,7 @@
       "icon": "fa-solid fa-gears"
     },
     {
-      "name": "TCR History Camp",
+      "name": "The Concord Review History Camp",
       "date": "2024-06",
       "issuer": "The Concord Review",
       "url": "https://adamcheong.com/assets/pdf/2024 Summer Boston Adam Cheong.pdf",
@@ -289,27 +289,27 @@
     {
       "language": "Latin",
       "fluency": "2 years of study",
-      "icon": ""
+      "icon": "fa-solid fa-pen-to-square"
     },
     {
       "language": "Japanese",
       "fluency": "limited phrases",
-      "icon": ""
+      "icon": "fa-solid fa-comment"
     },
     {
       "language": "Mandarin",
       "fluency": "limited phrases",
-      "icon": ""
+      "icon": "fa-solid fa-comment"
     },
     {
       "language": "Spanish",
       "fluency": "conversational",
-      "icon": ""
+      "icon": "fa-solid fa-comments"
     },
     {
       "language": "English",
       "fluency": "native speaker fluency",
-      "icon": ""
+      "icon": "fa-solid fa-people-arrows"
     }
   ],
   "references": [

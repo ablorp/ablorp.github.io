@@ -2,7 +2,7 @@
 layout: page
 title: KNO3
 description: Homemade Rocket Fuel With Kitchen Chemistry (8th Grade)
-img: assets/img/kno3.png
+img: assets/img/kno3.jpg
 redirect: https://www.youtube.com/watch?v=cRJPzYoi1Yw&t=5s&authuser=2
 importance: 3
 category: fun

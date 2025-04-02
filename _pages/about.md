@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://proofschool.org">Proof School</a> | San Francisco, California | adam@cheong.net
+subtitle: <a href="https://proofschool.org">Proof School</a> | San Francisco, California | <adam@cheong.net>
 
 profile:
   align: right
@@ -26,10 +26,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-A high school sophomore from the San Francisco Bay Area, Adam is interested in science, engineering, math and finance. He is also an intern at a robotics startup in San Francisco, and hopes to one day become a roboticist — just like his eldest brother with whom he enjoys working.
+A high school sophomore from the San Francisco Bay Area, Adam is interested in science, engineering, math and finance. He is also an intern at a [robotics startup](https://watneyrobotics.com) in San Francisco, and hopes to one day become a roboticist — just like his eldest brother with whom he enjoys working.
 
-Adam loves to climb rocks, surf waves, ski downhill, and run cross-country; he enjoys listening to music or playing the guitar on quiet evenings when there is no homework. Adam visits the farmers' market on Sundays and on occasion finds time to cook a sumptuous steak dinner, too!
+Adam loves to climb rocks, surf waves, ski downhill, and run cross-country; he enjoys listening to music or playing the guitar on quiet evenings when there is no homework. Adam frequents the farmers' market on Sundays and on occasion finds time to cook a sumptuous steak dinner, too.
 
-Adam is looking forward to taking computer science classes at UC Berkeley this summer — as a pre-college scholar right after he turns 16. He plans to start taking flying lessons soon after receiving his driver's license. Adam hopes to earn a pilot license before heading out to college, where he will double major in engineering and finance.
+Adam is looking forward to taking a [computer science class](https://classes.berkeley.edu/content/2025-summer-compsci-61a-001-lec-001) at UC Berkeley this summer as a pre-college scholar after he turns 16. He plans to start taking [flying lessons](https://wvfc.org) soon as he is old enough to drive. Adam hopes to earn a pilot license before heading out to college, where he will pursue a double major in engineering and finance.
 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 9
-description: another project with an image 🎉
+title: go-kart
+description: downhill speed-testing with my brothers — vrooom! 🏎️
 img: assets/img/6.jpg
 importance: 4
 category: fun

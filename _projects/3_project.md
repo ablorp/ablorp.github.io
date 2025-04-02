@@ -5,7 +5,6 @@ description: bay bridge crossing to mission district
 img: assets/img/robot44.jpg
 importance: 1
 category: work
-related_publications: false
 ---
 
 Every project has a beautiful feature showcase page.

@@ -6,7 +6,6 @@ img: assets/img/openworm.jpg
 redirect: https://adamcheong.com/assets/pdf/IWM-2025%20Poster.pdf
 importance: 1
 category: explore
-related_publications: false
 ---
 
 Every project has a beautiful feature showcase page.

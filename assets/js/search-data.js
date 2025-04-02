@@ -60,9 +60,9 @@ ninja.data = [{
           description: "dynamically stable mechanical mountain climbing aid by design",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-rocket-fuel",
+          title: 'rocket fuel',
+          description: "homemade rocket fuel with kitchen chemistry",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
             },},{id: "projects-little-go-kart-go",

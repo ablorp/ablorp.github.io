@@ -30,34 +30,39 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-cliffhanger",
-          title: 'cliffhanger',
-          description: "dynamically stable mechanical mountain climbing aid by design (8th grade)",
+        },{id: "projects-watney-robotics",
+          title: 'watney robotics',
+          description: "your journey is our adventure — from San Carlos to Berkeley and beyond",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-rocket-fuel",
-          title: 'rocket fuel',
-          description: "homemade rocket fuel with kitchen chemistry (8th grade)",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
             },},{id: "projects-openworm",
           title: 'openworm',
           description: "Monte Carlo simulation of somatic twist in ancient marine worms",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
+              window.location.href = "/projects/4_project/";
             },},{id: "projects-why-decussate",
           title: 'why decussate?',
-          description: "a twist on decussation",
+          description: "why do vertebrates have decussated cortocospinal tracts?",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/5_project/";
+            },},{id: "projects-cliffhanger-v2",
+          title: 'cliffhanger v2',
+          description: "dynamically stable mechanical mountain climbing aid by design (8th grade)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/6_project/";
+            },},{id: "projects-cliffhanger",
+          title: 'cliffhanger',
+          description: "dynamically stable mechanical mountain climbing aid by design (8th grade)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/7_project/";
+            },},{id: "projects-rocket-fuel",
+          title: 'rocket fuel',
+          description: "homemade rocket fuel with kitchen chemistry (8th grade)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
             },},{id: "projects-go-kart",
           title: 'go kart',
-          description: "downhill speeding with my brothers — vrooom! 🏎️",
+          description: "speeding downhill — vrooom! 🏎️",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{

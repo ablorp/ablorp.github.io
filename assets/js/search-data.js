@@ -30,7 +30,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "projects-watney-sf",
+        },{id: "projects-fold-fold-fold",
+          title: 'fold! fold! fold!',
+          description: "teleoperated overnight from 7,000+ miles away",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_project/";
+            },},{id: "projects-watney-sf",
           title: '🦾 watney @ sf',
           description: "growing strong in mission district",
           section: "Projects",handler: () => {

@@ -31,18 +31,18 @@ ninja.data = [{
             window.location.href = "/cv/";
           },
         },{id: "projects-fold-fold-fold",
-          title: 'fold! fold! fold!',
-          description: "teleoperated overnight from 7,000+ miles away",
+          title: '🦾 fold!fold!fold!',
+          description: "growing strong in sf mission district",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-watney-sf",
-          title: '🦾 watney @ sf',
-          description: "growing strong in mission district",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
             },},{id: "projects-hydroponics",
           title: '🍓 hydroponics',
           description: "vertical farming in berkeley",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_project/";
+            },},{id: "projects-watney-robotics",
+          title: '💪 watney robotics',
+          description: "from san carlos to berkeley",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-monte-carlo",

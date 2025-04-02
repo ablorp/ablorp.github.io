@@ -1,7 +1,7 @@
 ---
 layout: page
-title: watney robotics
-description: from San Carlos to Berkeley: your journey is our adventure
+title: watney @ berkeley
+description: vertical farming strawberry hydroponics
 img: assets/img/robot44.jpg
 importance: 1
 category: work

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: watney robotics
-description: Bay Bridge crossing: from Berkeley to San Francisco
+title: watney @ sf
+description: bay bridge crossing to mission district
 img: assets/img/robot44.jpg
 importance: 1
 category: work

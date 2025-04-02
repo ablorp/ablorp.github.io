@@ -30,9 +30,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "projects-",
-          title: '',
-          description: "",
+        },{id: "projects-watney-berkeley",
+          title: 'watney @ berkeley',
+          description: "vertical farming strawberry hydroponics",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_project/";
+            },},{id: "projects-watney-sf",
+          title: 'watney @ sf',
+          description: "bay bridge crossing to mission district",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-openworm",
@@ -47,7 +52,7 @@ ninja.data = [{
               window.location.href = "/projects/5_project/";
             },},{id: "projects-cliffhanger-v2",
           title: 'cliffhanger v2',
-          description: "dynamically stable mechanical mountain climbing aid by design (8th grade)",
+          description: "dynamically stable mechanical mountain climbing aid by design",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{id: "projects-cliffhanger",

@@ -30,14 +30,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "projects-farming",
-          title: '🍓 farming',
-          description: "watney found a home in berkeley",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-watney-sf",
+        },{id: "projects-watney-sf",
           title: '🦾 watney @ sf',
           description: "growing strong in mission district",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_project/";
+            },},{id: "projects-farming",
+          title: '🍓 farming',
+          description: "watney found a home in berkeley",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-monte-carlo",

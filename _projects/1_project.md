@@ -6,7 +6,6 @@ img: assets/img/fold-fold-fold.jpg
 redirect: https://adamcheong.com/assets/video/fold-fold-fold.mp4
 importance: 1
 category: work
-giscus_comments: false
 ---
 
 Every project has a beautiful feature showcase page.

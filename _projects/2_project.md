@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 🍓 farming
-description: setting up lab @ berkeley
+description: starting up watney @ berkeley
 img: assets/img/robot44.jpg
 importance: 1
 category: work

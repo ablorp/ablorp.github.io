@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 🍓 farming
-description: watney found a home in berkeley
+title: 🍓 hydroponics
+description: vertical farming in berkeley
 img: assets/img/teleoperation.jpg
 importance: 1
 category: work

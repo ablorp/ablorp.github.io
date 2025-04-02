@@ -1,7 +1,7 @@
 ---
 layout: page
-title: watney @ berkeley
-description: vertical farming strawberry hydroponics
+title: 🍓 farming
+description: setting up lab @ berkeley
 img: assets/img/robot44.jpg
 importance: 1
 category: work

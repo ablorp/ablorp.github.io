@@ -1,7 +1,7 @@
 ---
 layout: page
 title: watney @ sf
-description: bay bridge crossing to mission district
+description: settling down in mission district 🦾
 img: assets/img/robot44.jpg
 importance: 1
 category: work

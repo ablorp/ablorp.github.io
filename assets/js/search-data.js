@@ -40,8 +40,8 @@ ninja.data = [{
           description: "indoor vertical farming in berkeley",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-watney",
-          title: '🤖 watney',
+            },},{id: "projects-watney-robotics",
+          title: 'watney robotics',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";

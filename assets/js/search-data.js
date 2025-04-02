@@ -62,7 +62,7 @@ ninja.data = [{
               window.location.href = "/projects/8_project/";
             },},{id: "projects-go-kart",
           title: 'go kart',
-          description: "speeding downhill — vrooom! 🏎️",
+          description: "test driving my brother&#39;s go kart — vrooom! 🏎️",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{

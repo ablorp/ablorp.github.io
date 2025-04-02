@@ -3,6 +3,7 @@ layout: page
 title: 🍓 hydroponics
 description: vertical farming in berkeley
 img: assets/img/teleoperation.jpg
+redirect: http://adamcheong.com/assets/video/teleoperation.mov
 importance: 1
 category: work
 ---

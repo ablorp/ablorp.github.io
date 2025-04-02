@@ -1,7 +1,7 @@
 ---
 layout: page
 title: little go kart go
-description: vrooom! a racing team we are! 🏎️ 
+description: vrooom! an amazing team we are! 🏎️ 
 img: assets/img/go_kart.jpg
 redirect: https://youtu.be/GOHkdOWSa5U?si=L5dqB0jqARvFQ62P
 importance: 4

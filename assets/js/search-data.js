@@ -37,11 +37,11 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-hydroponics",
           title: '🍓 hydroponics',
-          description: "vertical farming in berkeley",
+          description: "indoor vertical farming in berkeley",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-watney-robotics",
-          title: '💪 watney robotics',
+            },},{id: "projects-watney",
+          title: '🤖 watney',
           description: "from san carlos to berkeley",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";

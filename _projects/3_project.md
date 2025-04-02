@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 🤖 watney
-description: mid-peninsula to berkeley & beyond
+description: 
 img: assets/img/soldering.jpg
 importance: 1
 category: work

@@ -40,14 +40,14 @@ ninja.data = [{
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-kno3",
-          title: 'KNO3',
-          description: "homemade rocket fuel with kitchen chemistry (8th grade)",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
             },},{id: "projects-cliffhanger",
           title: 'cliffhanger',
           description: "a dynamically stable mechanical mountain climbing aid by design (8th grade)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project/";
+            },},{id: "projects-kno3",
+          title: 'KNO3',
+          description: "homemade rocket fuel with kitchen chemistry (8th grade)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
             },},{id: "projects-project-7",

@@ -67,7 +67,7 @@ ninja.data = [{
               window.location.href = "/projects/8_project/";
             },},{id: "projects-little-go-kart-go",
           title: 'little go kart go',
-          description: "vrooom! a racing team we are! 🏎️",
+          description: "vrooom! an amazing team we are! 🏎️",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{

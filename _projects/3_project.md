@@ -3,7 +3,7 @@ llayout: page
 title: cliffhanger
 description: a dynamically stable mechanical mountain climbing aid by design (8th grade)
 img: assets/img/cliffhanger_asimo.jpg
-redirect: https://adamcheong.com/assets/pdf/The%20Adam%20Cliffhanger%20Project—GGSF%202023.pdf
+redirect: http://www.youtube.com/watch?v=0NGo5p9WzkI
 importance: 3
 category: fun
 ---

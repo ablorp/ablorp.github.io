@@ -1,8 +1,8 @@
 {
   "general": {
     "name": "Adam Cheong",
-    "headline": "Rock Climber & Roboticist",
-    "image": "",
+    "goal": "rock climbing roboticist by day | quant trader by night",
+    "image": "assets/img/cv_profile.jpg",
     "email": "adam@cheong.net",
     "phone": "(650) 593-8322",
     "url": "https://adamcheong.com",
@@ -61,7 +61,7 @@
       "startDate": "2023-07",
       "endDate": "2027-06",
       "summary": "Assemble and test robot controllers that allow humans from halfway around the world to teleoperate robot arms with low latency and training robot arms to perform precise tasks reliably.",
-      "highlights": ["Controllers Assembly & Testing", "Teleoperation", "Data Labeling", "Robot Training"]
+      "highlights": ["Robot Controllers Assembly & Testing", "Teleoperation", "Robot Training", "Data Labeling" ]
     }
   ],
   "volunteering": [
@@ -72,7 +72,7 @@
       "url": "https://adamcheong.com/assets/pdf/Adam CPR Certification.pdf",
       "startDate": "2022-07-11",
       "endDate": "2022-07-15",
-      "summary": "Supervising students and gain first hand experience through teaching small groups of students a new skill.",
+      "summary": "Supervised students and gained first hand experience teaching small groups of students a new skill.",
       "highlights": ["Leadership Development", "Safety Training", "CPR, AED & Basic First Aid Certified"]
     }
   ],
@@ -150,7 +150,7 @@
       "title": "Honorable Mention",
       "date": "2025-03",
       "awarder": "USA Biolympiad (USABO)",
-      "url": "https://www.usabo-trc.org/sites/default/files/allfiles/USABO%20Brochure_2.pdf",
+      "url": "https://adamcheong.com/assets/pdf/2025 USABO Honorable Mention Certificate.pdf",
       "summary": "The most prestigious biology education and testing program for US high school students, participated by approximately 10,000 talented students annually."
     },
     {

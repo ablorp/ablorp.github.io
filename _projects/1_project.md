@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 🦾 fold,fold,fold!
-description: growing strong in sf mission district
+description: dynamic duo working night shifts
 img: assets/img/fold.gif
 redirect: https://adamcheong.com/assets/video/fold-fold-fold.mp4
 importance: 1

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 🍓 hydroponics
-description: indoor vertical farming in berkeley
+description: robot controller undergoing testing
 img: assets/img/teleoperation.jpg
 redirect: https://adamcheong.com/assets/video/teleoperation.mp4
 importance: 1

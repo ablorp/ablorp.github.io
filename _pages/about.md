@@ -33,3 +33,23 @@ Adam loves rock climbing because it's similar to puzzle solving where one finds 
 Adam is looking forward to taking a popular [computer science class](https://classes.berkeley.edu/content/2025-summer-compsci-61a-001-lec-001) at UC Berkeley this summer as a pre-college scholar after he turns 16. He plans to begin [flying lessons](https://wvfc.org) soon as he is old enough to drive. Adam hopes to earn a pilot license before heading out to college, where he will pursue a double major in engineering and finance.
 
 ---
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/watney.jpg" title="robotics" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/watney.jpg" title="rock climbing" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/watney.jpg" title="guitar" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/watney.jpg" title="cooking" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/watney.jpg" title="flying" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+---

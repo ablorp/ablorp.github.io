@@ -39,5 +39,5 @@ My big brother's quest in robotics — so glad I could play a small part in his 
     </div>
 </div>
 <div class="caption">
-    One fine week in Spring: from old-timey arcade machines at Playground to new-fangled educational robots at UC Berkeley (circa 2018).
+    Trying out old-timey arcade machines at Playground and new-fangled educational robots at TechCrunch Robotics (circa 2018).
 </div>

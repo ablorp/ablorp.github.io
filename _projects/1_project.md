@@ -18,16 +18,16 @@ My big brother's quest for embodied AI — so glad we could be on this adventure
     </div>
 </div>
 <div class="caption">
-    (left) Watney taking a break in the kitchen (circa April 2, 2025); (right) settling into our new offices in SF Mission District (circa June 6, 2024).
+    (left) Watney taking a break in the kitchen (circa Apr 2, 2025); (right) settling into our new offices in SF Mission District (circa Jun 6, 2024).
 </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/video/closing_the_loop_short.gif" title="Watney @ Berkeley" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/video/closing_the_loop_short.gif" title="Watney Robotics @ Berkeley" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Closing a low-latency teleoperation loop at our Berkeley offices on Telegraph Avenue (circa February 14, 2024).
+    Closing a low-latency [teleoperation loop](https://www.canva.com/design/DAGjjlWZ1Zk/ldYk6oBJX76Xp7PrI317Yg/watch) at our offices on Telegraph Avenue in B Berkeley (circa Feb 14, 2024).
 </div>
 
 <div class="row justify-content-sm-center">

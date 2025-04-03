@@ -27,7 +27,7 @@ My big brother's quest in robotics — so glad I could play a small part in his 
     </div>
 </div>
 <div class="caption">
-    Closing the teleoperation loop at at our Berkeley offices on Telegraph Avenue (circa February 14, 2024).
+    Closing a low-latency teleoperation loop at our Berkeley offices on Telegraph Avenue (circa February 14, 2024).
 </div>
 
 <div class="row justify-content-sm-center">

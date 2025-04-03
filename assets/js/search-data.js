@@ -30,19 +30,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "projects-fold-fold-fold",
+        },{id: "projects-watney-robotics",
+          title: 'watney robotics',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_project/";
+            },},{id: "projects-fold-fold-fold",
           title: '🦾 fold,fold,fold!',
           description: "dynamic duo working night shifts",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/projects/2_project/";
             },},{id: "projects-hydroponics",
           title: '🍓 hydroponics',
           description: "robot controller undergoing testing",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-watney-robotics",
-          title: 'watney robotics',
-          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-monte-carlo",

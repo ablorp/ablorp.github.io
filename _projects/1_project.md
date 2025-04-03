@@ -11,14 +11,14 @@ My big brother's quest in robotics — so glad I could play a small part in his 
 
 <div class="row">
     <div class="col-sm-5 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/team_watney.jpg" title="Team Watney" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/watney.jpg" title="Team Watney" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-7 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/lookup.jpg" title="Watney Robotics @ SF" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    (left) Watney taking a break at the kitchen (circa April 2, 2025); (right) settling into our new offices in SF Mission District (circa June 6, 2024).
+    (left) Watney taking a break in the kitchen (circa April 2, 2025); (right) settling into our new offices in SF Mission District (circa June 6, 2024).
 </div>
 
 <div class="row">

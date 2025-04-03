@@ -11,7 +11,7 @@ My big brother's quest in robotics — so glad I could play a small part in his 
 
 <div class="row">
     <div class="col-sm-5 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/watney.jpg" title="Watney" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/watney_kitchen.jpg" title="Watney" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-7 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/lookup.jpg" title="Watney Robotics @ SF" class="img-fluid rounded z-depth-1" %}

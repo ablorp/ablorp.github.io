@@ -61,7 +61,7 @@
       "startDate": "2023-07",
       "endDate": "2027-06",
       "summary": "Assemble and test robot controllers that allow humans from halfway around the world to teleoperate robot arms with low latency and training robot arms to perform precise tasks reliably.",
-      "highlights": ["Robot Controllers Assembly & Testing", "Teleoperation", "Robot Training", "Data Labeling" ]
+      "highlights": ["Robot Controllers Assembly & Testing", "Teleoperation & Robot Training", "Data Labeling for Machine Learning" ]
     }
   ],
   "volunteering": [

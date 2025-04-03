@@ -3,7 +3,6 @@ layout: page
 title: watney robotics
 description:
 img: assets/img/soldering.jpg
-# redirect: https://www.canva.com/design/DAGjjlWZ1Zk/ldYk6oBJX76Xp7PrI317Yg/watch
 importance: 1
 category: work
 ---
@@ -36,7 +35,7 @@ My big brother's quest in robotics — so glad I could play a small part in his 
         {% include figure.liquid path="assets/img/playground_20180507.jpg" title="Playground" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/lookup.jpg" title="TechCrunch" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/berkeley_20180511.jpg" title="TechCrunch" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

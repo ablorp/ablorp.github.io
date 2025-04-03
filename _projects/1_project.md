@@ -7,7 +7,7 @@ importance: 1
 category: work
 ---
 
-My big brother's quest in robotics — so glad I could play a small part in his grand adventures!
+My big brother's quest for embodied AI — so glad we are on this adventure together!
 
 <div class="row">
     <div class="col-sm-5 mt-3 mt-md-0">

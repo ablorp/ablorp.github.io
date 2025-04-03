@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 🍓 hydroponics
-description: robot controller undergoing testing
-img: assets/img/teleoperation.jpg
-redirect: https://adamcheong.com/assets/video/teleoperation.mp4
+title: 🦾 fold,fold,fold!
+description: dynamic duo working night shifts
+img: assets/img/fold.gif
+redirect: https://adamcheong.com/assets/video/fold-fold-fold.mp4
 importance: 1
 category: work
 ---

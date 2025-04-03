@@ -56,7 +56,7 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
     </div>
 </div>
 <div class="caption">
-    A fun week in May 2018: (left) Monday afterschool activity; (right) Friday skipping school to attend TechCrunch Robotics at UC Berkeley.
+    A fun week in Spring (circa 2018): (left) Monday afterschool activity; (right) Friday skipping school to attend TechCrunch Robotics at UC Berkeley.
 </div>
 
 The code is simple.

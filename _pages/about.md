@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://proofschool.org">Proof School</a> | San Francisco, California | adam@cheong.net
+subtitle: <a href="https://proofschool.org">Proof School</a> | San Francisco, California | <a href="mailto:adam@cheong.net">adam@cheong.net</a>
 
 profile:
   align: right

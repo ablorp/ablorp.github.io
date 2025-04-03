@@ -32,12 +32,12 @@ ninja.data = [{
           },
         },{id: "projects-fold-fold-fold",
           title: '🦾 fold,fold,fold!',
-          description: "growing strong in sf mission district",
+          description: "dynamic duo working night shifts",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-hydroponics",
           title: '🍓 hydroponics',
-          description: "indoor vertical farming in berkeley",
+          description: "robot controller undergoing testing",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-watney-robotics",

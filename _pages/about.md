@@ -26,9 +26,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-A high school sophomore from the San Francisco Bay Area, Adam is interested in science, engineering, math and finance. He is also an *anytime* intern at a [robotics startup](https://watneyrobotics.com) in San Francisco. Adam hopes to one day become a quant trading roboticist like his older brother whom he has always enjoyed working with.
+A high school sophomore from the San Francisco Bay Area, Adam is interested in science, engineering, math and finance. He is also an _anytime_ intern at a [robotics startup](https://watneyrobotics.com) in San Francisco. Adam hopes to one day become a quant trading roboticist like his older brother whom he has always enjoyed working with.
 
-Adam loves rock climbing because it's similar to puzzle solving where one finds a path by connecting dots on the wall. He enjoys listening to music or playing the guitar on quiet evenings when there is no homework. Adam frequents the farmers' market on Sundays and on occasion finds time to cook a sumptuous steak dinner, too.
+Adam loves rock climbing because it's similar to puzzle solving where one finds a new path connecting dots on the wall. Adam has won many prizes in science fairs, ranging from mechanical engineering to computational biology, every year since 7th grade. He enjoys listening to music and plays his favorite guitar on quiet evenings.
 
 Adam is looking forward to taking a popular [computer science class](https://classes.berkeley.edu/content/2025-summer-compsci-61a-001-lec-001) at UC Berkeley this summer as a pre-college scholar after he turns 16. He plans to begin [flying lessons](https://wvfc.org) soon as he is old enough to drive. Adam hopes to earn a pilot license before heading out to college, where he will pursue a double major in engineering and finance.
 
@@ -42,10 +42,10 @@ Adam is looking forward to taking a popular [computer science class](https://cla
         {% include figure.liquid loading="eager" path="assets/img/kabuto.jpg" title="rock climbing" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/guitar.jpg" title="guitar" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/cliffhanger_ggsf.jpg" title="science fair" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/steak.jpg" title="dinner" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/guitar.jpg" title="guitar" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/airplane.jpg" title="flying" class="img-fluid rounded z-depth-1" %}

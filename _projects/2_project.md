@@ -3,7 +3,7 @@ layout: page
 title: 🦾 fold,fold,fold!
 description: dynamic duo working night shifts
 img: assets/img/fold.gif
-redirect: https://adamcheong.com/assets/video/fold-fold-fold.mp4
+redirect: https://youtu.be/ZiD1envG_QU
 importance: 1
 category: work
 ---

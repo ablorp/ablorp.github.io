@@ -3,7 +3,7 @@ layout: page
 title: 🍓 hydroponics
 description: robot controller undergoing testing
 img: assets/img/teleoperation.jpg
-redirect: https://adamcheong.com/assets/video/teleoperation.mp4
+redirect: https://youtu.be/NGgXK1PzWXQ
 importance: 1
 category: work
 ---

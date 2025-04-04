@@ -46,17 +46,17 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-monte-carlo",
-          title: 'monte carlo 🪱',
+          title: '🏅monte carlo',
           description: "Monte Carlo simulation of somatic twist in ancient marine worms",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-why-decussate",
-          title: 'why decussate?',
+          title: '🥇why decussate?',
           description: "why do vertebrates have decussated cortocospinal tracts?",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-cliffhanger-v2-️",
-          title: 'cliffhanger v2 🧗‍♂️',
+            },},{id: "projects-cliffhanger-v2",
+          title: '🥇cliffhanger v2',
           description: "dynamically stable mechanical mountain climbing aid by design",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";

@@ -27,7 +27,7 @@ My big brother's quest for embodied AI — so glad we could be on this adventure
     </div>
 </div>
 <div class="caption">
-    [🗣]️(https://youtu.be/kYdJM-HD2Zs) Closing an ultra low-latency teleoperation loop at our Berkeley offices on Telegraph Avenue (circa Feb 14, 2024).
+    <a href="https://youtu.be/kYdJM-HD2Zs">🗣</a> Closing an ultra low-latency teleoperation loop at our Berkeley offices on Telegraph Avenue (circa Feb 14, 2024).
 </div>
 
 <div class="row justify-content-sm-center">

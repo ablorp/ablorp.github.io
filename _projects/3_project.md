@@ -11,14 +11,14 @@ My older brother and I shared a common interest in 🍓 and hydroponics. So we d
 
 <div class="row">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/teleoperation_a.jpg" title="Teleoperation" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/teleoperation.jpg" title="Teleoperation" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/automation.jpg" title="Automation" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    <a href="https://youtu.be/NGgXK1PzWXQ">teleoperation</a> from teleoperation to full automation 🦾 (circa Nov–Dec 2023).
+    Vertical Farming @ Berkeley: from <a href="https://youtu.be/NGgXK1PzWXQ">teleoperation</a> to full automation 🦾 (circa Nov–Dec 2023).
 </div>
 
 <div class="row">
@@ -30,7 +30,7 @@ My older brother and I shared a common interest in 🍓 and hydroponics. So we d
     </div>
 </div>
 <div class="caption">
-    A 🍓 hydroponics vertical farm started from scratch (circa Aug–Oct 2023).
+    Started from scratch: 🍓 hydroponics in Berkeley (circa Aug–Oct 2023).
 </div>
 
 <div class="row">

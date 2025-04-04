@@ -60,13 +60,13 @@ ninja.data = [{
           description: "dynamically stable mechanical mountain climbing aid by design",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-cliffhanger-️",
-          title: 'cliffhanger 🧗‍♂️',
+            },},{id: "projects-️-cliffhanger",
+          title: '🧗‍♂️ cliffhanger',
           description: "dynamically stable mechanical mountain climbing aid by design",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
             },},{id: "projects-rocket-fuel",
-          title: 'rocket fuel 🚀',
+          title: '🚀 rocket fuel',
           description: "homemade rocket fuel with kitchen chemistry (i.e., kno3 + sugar etc.)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";

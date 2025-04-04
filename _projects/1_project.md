@@ -18,7 +18,7 @@ My big brother's quest for embodied AI — so glad we could be on this adventure
     </div>
 </div>
 <div class="caption">
-    (left) Watney and us (circa Apr 2, 2025); (right) settling into our new offices in SF Mission District (circa Jun 6, 2024).
+    (left) Watney and us (circa April 2024) after settling into our new offices in SF Mission District (circa Jun 2024).
 </div>
 
 <div class="row">

@@ -1,8 +1,8 @@
 ---
 layout: page
 title: 🍓 hydroponics
-description: vertical farming @ Berkeley
-img: assets/img/teleoperation.jpg
+description: set up vertical farming @ Berkeley
+img: assets/img/teleoperation_b.jpg
 importance: 1
 category: work
 ---
@@ -11,7 +11,7 @@ My older brother and I shared a common interest in 🍓 and hydroponics. So we d
 
 <div class="row">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/teleoperation.jpg" title="Teleoperation" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/teleoperation_a.jpg" title="Teleoperation" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/automation.jpg" title="Automation" class="img-fluid rounded z-depth-1" %}

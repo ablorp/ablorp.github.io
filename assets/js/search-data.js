@@ -42,7 +42,7 @@ ninja.data = [{
               window.location.href = "/projects/2_project/";
             },},{id: "projects-hydroponics",
           title: '🍓 hydroponics',
-          description: "robot controller undergoing testing",
+          description: "vertical farming @ Berkeley",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-monte-carlo",

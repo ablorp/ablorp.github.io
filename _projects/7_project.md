@@ -1,6 +1,6 @@
 ---
 llayout: page
-title:  🧗‍♂️ cliffhanger
+title: 🧗‍♂️ cliffhanger
 description: dynamically stable mechanical mountain climbing aid by design
 img: assets/img/cliffhanger_asimo.gif
 redirect: http://www.youtube.com/watch?v=0NGo5p9WzkI

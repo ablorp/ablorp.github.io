@@ -7,7 +7,7 @@ importance: 1
 category: work
 ---
 
-My big brother's quest for embodied AI — so glad we could be on this adventure together!
+My big brother's adventure in embodied AI — so glad we could be on this quest together!
 
 <div class="row">
     <div class="col-sm-5 mt-3 mt-md-0">

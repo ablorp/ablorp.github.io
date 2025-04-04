@@ -26,9 +26,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-A high school sophomore from the San Francisco Bay Area, Adam has a strong interest in science, engineering, math and finance. He is also an _anytime_ intern at a [robotics startup](https://watneyrobotics.com) in San Francisco. Adam hopes to one day become a quant trading roboticist like his older brother who has inspired in Adam an interest in robotics.
+A high school sophomore from the San Francisco Bay Area with a strong interest in science, engineering, math and finance, Adam holds an internship at a [robotics startup](https://watneyrobotics.com) in San Francisco. Adam hopes to one day become a quant trading roboticist like his eldest brother, who has inspired in Adam an interest in all things robotic.
 
-Adam loves rock climbing because it's very much like puzzle solving; one connects the dots on the wall to create a new path. From mechanical engineering to computational biology, Adam's [projects](https://adamcheong.com/projects/) have won numerous STEM fair awards since 7th grade. On quiet evenings, Adam enjoys playing the guitar and listening to his favorite artists.
+Adam loves rock climbing because it's very much like solving a puzzle; one connects the dots to create a new path for ascent. From mechanical engineering to computational biology, Adam's [projects](https://adamcheong.com/projects/) since 7th grade have won numerous STEM fair awards. On quiet evenings, Adam enjoys playing the guitar and listening to his favorite artists.
 
 Adam is looking forward to taking a popular [computer science class](https://classes.berkeley.edu/content/2025-summer-compsci-61a-001-lec-001) at UC Berkeley this summer as a pre-college scholar after he turns 16. He plans to begin [flying lessons](https://wvfc.org) soon as he is old enough to drive. Adam hopes to earn a pilot license before heading out to college, where he will pursue a double major in engineering and finance.
 

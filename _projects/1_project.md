@@ -11,14 +11,14 @@ My big brother's quest for embodied AI — so glad we could be on this adventure
 
 <div class="row">
     <div class="col-sm-5 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/watney_kitchen.jpg" title="Watney" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/watney_a.jpg" title="Watney" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-7 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/lookup.jpg" title="Watney Robotics @ SF" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    (left) Watney taking a break in the kitchen (circa Apr 2, 2025); (right) settling into our new offices in SF Mission District (circa Jun 6, 2024).
+    (left) Watney and us (circa Apr 2, 2025); (right) settling into our new offices in SF Mission District (circa Jun 6, 2024).
 </div>
 
 <div class="row">

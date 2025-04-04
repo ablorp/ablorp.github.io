@@ -1,6 +1,6 @@
 ---
 layout: page
-title: monte carlo 🪱
+title: 🏅monte carlo
 description: Monte Carlo simulation of somatic twist in ancient marine worms
 img: assets/img/montecarlo.jpg
 redirect: https://adamcheong.com/assets/pdf/IWM-2025%20Poster.pdf

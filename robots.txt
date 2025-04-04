@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ablorp.github.io/sitemap.xml
+Sitemap: https://adamcheong.com/sitemap.xml

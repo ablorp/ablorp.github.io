@@ -1,6 +1,6 @@
 ---
 layout: page
-title: little go kart go!
+title: 🏎️ go kart go!
 img: assets/img/go_kart.jpg
 redirect: https://youtu.be/vsx4GC0iQ0M
 importance: 4

@@ -10,10 +10,10 @@ category: work
 We shareda common interest in 🍓 and hydroponics. So my brother and I set up vertical farming in Berkeley.
 
 <div class="row">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-9 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/teleoperation.jpg" title="Teleoperation" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/automation.jpg" title="Automation" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -22,15 +22,15 @@ We shareda common interest in 🍓 and hydroponics. So my brother and I set up v
 </div>
 
 <div class="row">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-7 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/assembly.jpg" title="Assembly" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/planting.jpg" title="Planting" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Started from scratch: 🍓 hydroponics in Berkeley (circa Aug–Oct 2023).
+    Starting from scratch: 🍓 hydroponics in Berkeley (circa Aug–Oct 2023).
 </div>
 
 <div class="row">
@@ -45,5 +45,5 @@ We shareda common interest in 🍓 and hydroponics. So my brother and I set up v
     </div>
 </div>
 <div class="caption">
-    Heavy lifting: from San Carlos home to Berkeley office (circa July 2023).
+    Heavy lifting all the way: from San Carlos home to Berkeley office (circa July 2023).
 </div>

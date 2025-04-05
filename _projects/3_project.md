@@ -10,7 +10,7 @@ category: work
 We share a common interest in 🍓 and hydroponics. So my brother and I set up vertical farming @ Berkeley.
 
 <div class="row">
-    <div class="col mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/teleoperation.jpg" title="Teleoperation" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

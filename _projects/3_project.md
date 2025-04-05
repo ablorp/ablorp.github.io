@@ -7,7 +7,7 @@ importance: 1
 category: work
 ---
 
-We share a common interest in: 🍓 and hydroponics and robotics 🦾
+We share a common interest in: strawberry 🍓 and hydroponics 💦 and robotics 🦾
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -15,7 +15,7 @@ We share a common interest in: 🍓 and hydroponics and robotics 🦾
     </div>
 </div>
 <div class="caption">
-    <a href="https://youtu.be/NGgXK1PzWXQ">Teaching Watney</a> how to become an autonomous 🍓 farmer (circa Nov–Dec 2023).
+    We took turns <a href="https://youtu.be/NGgXK1PzWXQ">teaching Watney 🦾</a> how to become a hydroponics 💦 straberry 🍓 farmer (circa Nov–Dec 2023).
 </div>
 
 <div class="row">

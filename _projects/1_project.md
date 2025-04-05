@@ -7,7 +7,7 @@ importance: 1
 category: work
 ---
 
-My big brother's adventure in embodied AI — so glad we could be on this quest together!
+My brother's big adventure in embodied AI — so glad we could be on this quest together!
 
 <div class="row">
     <div class="col-sm-5 mt-3 mt-md-0">
@@ -18,7 +18,7 @@ My big brother's adventure in embodied AI — so glad we could be on this quest 
     </div>
 </div>
 <div class="caption">
-    (left) Watney and us (circa April 2024) after settling into our new offices in SF Mission District (circa Jun 2024).
+    (left) Watney now has two arms and a wheel base after moving into our new offices in SF Mission District (circa Jun 2024 to April 2025).
 </div>
 
 <div class="row">

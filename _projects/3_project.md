@@ -33,7 +33,7 @@ We share a common interest in: 🍓 hydroponics and robotics 🦾
     Our zero-to-one journey: starting 🍓 hydroponics in Berkeley (circa Aug–Oct 2023).
 </div>
 
-<div class="row justify-content-sm-center">
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/carting.jpg" title="Hand Cart" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -46,4 +46,22 @@ We share a common interest in: 🍓 hydroponics and robotics 🦾
 </div>
 <div class="caption">
     Heavy lifting all the way: from San Carlos home garage to new offices in Berkeley (circa July 2023).
+</div>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/sean_mark.jpg" title="My two older brothers" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/adam_mom.jpg" title="Mom and me" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/sean_adam.jpg" title="My eldest brother and me" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/robot44.jpg" title="Robot 44 and my eldest brother" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    "You can't connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future" — Steve Jobs (2005).
 </div>

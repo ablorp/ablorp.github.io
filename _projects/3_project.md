@@ -18,7 +18,7 @@ We shareda common interest in 🍓 and hydroponics. So my brother and I set up v
     </div>
 </div>
 <div class="caption">
-    Vertical Farming @ Berkeley: from <a href="https://youtu.be/NGgXK1PzWXQ">teleoperation</a> to full automation 🦾 (circa Nov–Dec 2023).
+    Vertical Farming @ Berkeley: <a href="https://youtu.be/NGgXK1PzWXQ">training robot</a> to be 🍓 farmer(circa Nov–Dec 2023).
 </div>
 
 <div class="row">

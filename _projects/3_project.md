@@ -11,11 +11,11 @@ We share a common interest in: 🍓 hydroponics and robotics 🦾
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/teleoperation.jpg" title="Teleoperation" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/teleoperation.gif" title="Teleoperation" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    <a href="https://youtu.be/NGgXK1PzWXQ">Training Watney 🦾</a> to become 🍓 hydroponics farmer (circa Nov–Dec 2023).
+    🦾 Watney <a href="https://youtu.be/NGgXK1PzWXQ">learning</a> to become 🍓 hydroponics farmer (circa Nov–Dec 2023).
 </div>
 
 <div class="row">

@@ -63,5 +63,5 @@ We share a common interest in: 🍓 hydroponics and robotics 🦾
     </div>
 </div>
 <div class="caption">
-    "You can't connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future." — Steve Jobs (circa 2005).
+    "You can't connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future." — Steve Jobs (2005 Stanford commencement address).
 </div>

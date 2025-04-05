@@ -30,7 +30,7 @@ A high school sophomore from the San Francisco Bay Area with a strong interest i
 
 Adam loves rock climbing because it's very much like solving a puzzle; one connects the dots to create a new path for ascent. From mechanical engineering to computational biology, Adam's [projects](https://adamcheong.com/projects/) since 7th grade have won numerous STEM fair awards. On quiet evenings, Adam enjoys playing the guitar and listening to his favorite artists.
 
-Adam is looking forward to taking a popular [computer science class](https://classes.berkeley.edu/content/2025-summer-compsci-61a-001-lec-001) at UC Berkeley this summer as a pre-college scholar after he turns 16. He plans to begin [flying lessons](https://wvfc.org) soon as he is old enough to drive. Adam hopes to earn a pilot license before heading out to college, where he will pursue a double major in engineering and finance.
+Adam is looking forward to taking a popular [computer science class](https://classes.berkeley.edu/content/2025-summer-compsci-61a-001-lec-001) at UC Berkeley as a pre-college scholar after he turns 16 this summer. He plans to begin [flying lessons](https://wvfc.org) soon as he is old enough to drive. Adam hopes to earn a pilot license before heading out to college, where he will pursue a double major in engineering and finance.
 
 ---
 

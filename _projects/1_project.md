@@ -18,7 +18,7 @@ My brother's big adventure in embodied AI — so glad we could be on this quest 
     </div>
 </div>
 <div class="caption">
-    (left) Watney with two arms added a wheel base after moving into our new offices in SF Mission District (circa Jun 2024 to April 2025).
+    (left) Watney upgraded to two arms and a wheel base — after we moved into new offices in SF Mission District (circa Jun 2024).
 </div>
 
 <div class="row">

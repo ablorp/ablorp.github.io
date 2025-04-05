@@ -15,7 +15,7 @@ Our paths converged because we have a shared interest in: 🍓 hydroponics and r
     </div>
 </div>
 <div class="caption">
-    🦾 Watney <a href="https://youtu.be/NGgXK1PzWXQ">learning</a> to become 🍓 hydroponics farmer (circa Nov–Dec 2023).
+    🦾 Watney continuously learned to become a better 🍓 hydroponics farmer (circa Nov–Dec 2023).
 </div>
 
 <div class="row">

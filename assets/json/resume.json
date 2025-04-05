@@ -26,18 +26,19 @@
       "endDate": "2027-06-11",
       "score": "5",
       "courses": [
-        "Literary Arts: Graphic Narrative",
-        "Calculus A, B, C & D",
-        "AP Physics C: Mechanics",
-        "AP Chemistry",
-        "AP Biology",
-        "Latin 1 & 2",
-        "Advanced Literature",
-        "Studio Art: Paper",
-        "Graph Theory 1",
-        "Number Theory 2",
-        "Eucleadean Geometry 3",
-        "Exponents/Log/Trig A & B"
+        "[10th] Literary Arts: Graphic Narrative",
+        "[10th] Calculus A, B, C & D",
+        "[10th] AP Physics C: Mechanics",
+        "[10th] AP Chemistry",
+        "[10th] Latin 2",
+        "[ 9th] Latin 1",
+        "[ 9th] AP Biology",
+        "[ 9th] Advanced Literature",
+        "[ 9th] Graph Theory 1",
+        "[ 9th] Number Theory 2",
+        "[ 9th] Eucleadean Geometry 3",
+        "[ 9th] Exponents/Log/Trig A & B",
+        "[ 9th] Studio Art: Paper"
       ]
     },
     {

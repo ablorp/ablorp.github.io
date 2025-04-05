@@ -59,7 +59,7 @@ We share a common interest in: 🍓 hydroponics and robotics 🦾
         {% include figure.liquid path="assets/img/sean_adam.jpg" title="My eldest brother and me" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/robot44.jpg" title="Robot 44 and my eldest brother" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/sean_bot44.jpg" title="Bot 44 and my eldest brother" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

@@ -7,7 +7,7 @@ importance: 1
 category: work
 ---
 
-My older brother and I shared a common interest in 🍓 and hydroponics. So we decided to set up a vertical farm in Berkeley.
+We shareda common interest in 🍓 and hydroponics. So my brother and I set up vertical farming in Berkeley.
 
 <div class="row">
     <div class="col-sm-8 mt-3 mt-md-0">

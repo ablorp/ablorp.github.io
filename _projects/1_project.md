@@ -23,7 +23,7 @@ My brother's big adventure in embodied AI — so glad we could be on this quest 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/closing_the_loop_shortest.gif" title="Watney Robotics @ Berkeley" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/closing_the_loop_tinier.gif" title="Watney Robotics @ Berkeley" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

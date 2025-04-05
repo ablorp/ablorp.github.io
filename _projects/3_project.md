@@ -7,7 +7,7 @@ importance: 1
 category: work
 ---
 
-We share a common interest in 🍓 and hydroponics. So my brother and I set up vertical farming @ Berkeley.
+We share a common interest in: 🍓 and hydroponics and robotics 🦾
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -15,7 +15,7 @@ We share a common interest in 🍓 and hydroponics. So my brother and I set up v
     </div>
 </div>
 <div class="caption">
-    <a href="https://youtu.be/NGgXK1PzWXQ">Teaching Watney</a> to grow into an autonomous 🍓 farmer (circa Nov–Dec 2023).
+    <a href="https://youtu.be/NGgXK1PzWXQ">Teaching Watney</a> how to become an autonomous 🍓 farmer (circa Nov–Dec 2023).
 </div>
 
 <div class="row">
@@ -30,7 +30,7 @@ We share a common interest in 🍓 and hydroponics. So my brother and I set up v
     </div>
 </div>
 <div class="caption">
-    Starting from scratch: 🍓 hydroponics in Berkeley (circa Aug–Oct 2023).
+    Our zero-to-one journey: starting 🍓 hydroponics in Berkeley (circa Aug–Oct 2023).
 </div>
 
 <div class="row justify-content-sm-center">
@@ -45,5 +45,5 @@ We share a common interest in 🍓 and hydroponics. So my brother and I set up v
     </div>
 </div>
 <div class="caption">
-    Heavy lifting all the way: from San Carlos home to Berkeley office (circa July 2023).
+    Heavy lifting all the way: from our San Carlos home garage to new offices in Berkeley (circa July 2023).
 </div>

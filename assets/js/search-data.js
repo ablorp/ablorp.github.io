@@ -70,8 +70,8 @@ ninja.data = [{
           description: "homemade rocket fuel with kitchen chemistry (i.e., kno3 + sugar etc.)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
-            },},{id: "projects-little-go-kart-go",
-          title: 'little go kart go!',
+            },},{id: "projects-️-go-kart-go",
+          title: '🏎️ go kart go!',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";

@@ -10,26 +10,22 @@ category: work
 We share a common interest in 🍓 and hydroponics. So my brother and I set up vertical farming @ Berkeley.
 
 <div class="row">
-    <div class="col-sm-9 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/teleoperation.jpg" title="Teleoperation" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-3 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/automation.jpg" title="Automation" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
 <div class="caption">
-    Vertical Farming @ Berkeley: <a href="https://youtu.be/NGgXK1PzWXQ">training robot</a> to be 🍓 farmer (circa Nov–Dec 2023).
+    <a href="https://youtu.be/NGgXK1PzWXQ">Teaching Watney</a> to become an autonomous 🍓 farmer (circa Nov–Dec 2023).
 </div>
 
 <div class="row">
-    <div class="col-sm-5 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/vertical_farming.jpg" title="vertical farming" class="img-fluid rounded z-depth-1" %}
-    </div>
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/assembly.jpg" title="Assembly" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/planting.jpg" title="Planting" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/automation.jpg" title="Automation" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

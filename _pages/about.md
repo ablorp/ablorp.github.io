@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-A high school sophomore from the San Francisco Bay Area with a strong interest in science, engineering, math and finance, Adam holds a year-round internship at a [robotics startup](https://watneyrobotics.com) in San Francisco. Adam aspires to become a quant trading roboticist like his eldest brother, who has inspired in Adam a curiosity in all things robotic.
+A high school sophomore from the San Francisco Bay Area with a strong interest in science, engineering, math and finance, Adam holds a year-round internship at a [robotics startup](https://watneyrobotics.com) in San Francisco. Adam aspires to formulate the most important unsolved problems in robotics for his generation, so others can begin to solve them.
 
 Adam loves rock climbing because it's like solving a puzzle: connecting the dots forward to envision a new path of ascent. From mechanical engineering to computational biology, Adam's [projects](https://adamcheong.com/projects/) since 7th grade have won numerous STEM fair awards. On quiet evenings, Adam enjoys playing the guitar and listening to his favorite artists.
 

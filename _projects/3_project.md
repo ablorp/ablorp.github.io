@@ -13,6 +13,7 @@ We share a common interest in 🍓 and hydroponics. So my brother and I set up v
     <div class="col mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/teleoperation.jpg" title="Teleoperation" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
 <div class="caption">
     <a href="https://youtu.be/NGgXK1PzWXQ">Teaching Watney</a> to grow into an autonomous 🍓 farmer (circa Nov–Dec 2023).
 </div>

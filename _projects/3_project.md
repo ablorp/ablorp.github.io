@@ -10,15 +10,15 @@ category: work
 We share a common interest in 🍓 and hydroponics. So my brother and I set up vertical farming @ Berkeley.
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/teleoperation.jpg" title="Teleoperation" class="img-fluid rounded z-depth-1" %}
     </div>
 <div class="caption">
-    <a href="https://youtu.be/NGgXK1PzWXQ">Teaching Watney</a> to become an autonomous 🍓 farmer (circa Nov–Dec 2023).
+    <a href="https://youtu.be/NGgXK1PzWXQ">Teaching Watney</a> to grow into an autonomous 🍓 farmer (circa Nov–Dec 2023).
 </div>
 
 <div class="row">
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/assembly.jpg" title="Assembly" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-3 mt-3 mt-md-0">
@@ -32,7 +32,7 @@ We share a common interest in 🍓 and hydroponics. So my brother and I set up v
     Starting from scratch: 🍓 hydroponics in Berkeley (circa Aug–Oct 2023).
 </div>
 
-<div class="row">
+<div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/carting.jpg" title="Hand Cart" class="img-fluid rounded z-depth-1" %}
     </div>

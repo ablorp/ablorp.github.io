@@ -41,7 +41,7 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-hydroponics",
-          title: '🍓 hydroponics 💦',
+          title: '🍓 hydroponics',
           description: "set up vertical farming @ Berkeley",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";

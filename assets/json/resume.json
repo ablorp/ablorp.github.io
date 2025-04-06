@@ -238,11 +238,18 @@
       "icon": "fa-solid fa-brain"
     }
   ],
+  "organizations": [
+    {
+      "name": "Genetics Society of America (2025—present)",
+      "icon": "fa-solid fa-building-columns",
+      "keywords": ["Member of an international community of 6,000 biologists from 50 countries advancing the field of genetics."]
+    }
+  ],
   "clubs": [
     {
       "name": "Berkeley Math Circle (2015–present)",
       "icon": "fa-solid fa-building-columns",
-      "keywords": ["Attend evening math lectures by professors at UC Berkeley every Wednesday; participated in AMC math contests."]
+      "keywords": ["Intermediate level II member; attend evening math lectures by professors at UC Berkeley every Wednesday."]
     },
     {
       "name": "Benchmark Climbing (2023–present)",
@@ -321,7 +328,7 @@
     },
     {
       "language": "SCAT (8th Grade)",
-      "fluency": "CTY High Honors (Score: 484 Verbal, 501 Math)",
+      "fluency": "CTY High Honors (484 Verbal, 501 Math)",
       "icon": "fa-solid fa-graduation-cap"
     },
     {
@@ -331,7 +338,7 @@
     },
     {
       "language": "WISC-V (2nd Grade)",
-      "fluency": "Full Scale: 138 (Verbal 146)",
+      "fluency": "Extremely High (138 Full Scale, 146 Verbal)",
       "icon": "fa-solid fa-brain"
     }
   ],

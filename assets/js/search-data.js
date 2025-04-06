@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "projects-watney-robotics",
           title: 'watney robotics',
-          description: "",
+          description: "autonomous physical infrastructure",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-fold-fold-fold",

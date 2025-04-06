@@ -27,7 +27,7 @@
       "score": "5",
       "courses": [
         "10th: Literary Arts: Graphic Narrative",
-        "10th: Calculus A, B, C & D",
+        "10th: AP Calculus BC",
         "10th: AP Physics C: Mechanics",
         "10th: AP Chemistry",
         "10th: Latin 2",
@@ -61,8 +61,8 @@
       "url": "https://watneyrobotics.com",
       "startDate": "2023-07",
       "endDate": "2027-06",
-      "summary": "Assemble and test robot controllers that allow humans from halfway around the world to teleoperate robot arms with low latency and training robot arms to perform precise tasks reliably.",
-      "highlights": ["Robot Controllers Assembly & Testing", "Teleoperation & Robot Training", "Data Labeling for Machine Learning"]
+      "summary": "Assemble robot arms and controllers that allow humans from halfway around the world to teleoperate a robot; perform data labeling and ML training.",
+      "highlights": ["Robot Arm and Controller Assembly", "Teleoperation Testing", "Data Labeling", "ML Training"]
     }
   ],
   "volunteering": [
@@ -270,13 +270,13 @@
       "name": "Hardware",
       "level": "Master",
       "icon": "fa-solid fa-robot",
-      "keywords": ["PC Assembly", "Controller Assembly & Testing", "Circuit Board Soldering"]
+      "keywords": ["PC Assembly", "Robot Arm & Controller Assembly", "Circuit Board Soldering"]
     },
     {
       "name": "Software",
       "level": "Master",
       "icon": "fa-solid fa-code",
-      "keywords": ["Python", "Scratch", "GitHub"]
+      "keywords": ["Python", "Scratch", "ML Training"]
     },
     {
       "name": "DIY",
@@ -288,7 +288,7 @@
       "name": "Investment",
       "level": "Master",
       "icon": "fa-solid fa-chart-line",
-      "keywords": ["Portfolio Management", "Trading Strategies", "Trading Tools"]
+      "keywords": ["Trading Strategies", "Trading Tools", "Risk Management"]
     }
   ],
   "languages": [

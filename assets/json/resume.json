@@ -289,7 +289,7 @@
   "languages": [
     {
       "language": "Latin",
-      "fluency": "2 years of study",
+      "fluency": "learning (2 years)",
       "icon": "fa-solid fa-pen-to-square"
     },
     {
@@ -304,7 +304,7 @@
     },
     {
       "language": "Spanish",
-      "fluency": "conversational",
+      "fluency": "conversational (6 years)",
       "icon": "fa-solid fa-comments"
     },
     {
@@ -321,12 +321,12 @@
     },
     {
       "language": "SCAT (8th Grade)",
-      "fluency": "Score: 484 Verbal, 501 Math",
+      "fluency": "CTY High Honors (Score: 484 Verbal, 501 Math)",
       "icon": "fa-solid fa-graduation-cap"
     },
     {
       "language": "STB (8th Grade)",
-      "fluency": "Score: 625",
+      "fluency": "CTY High Honors (Score: 625)",
       "icon": "fa-solid fa-globe"
     },
     {

@@ -26,7 +26,7 @@ My brother's big adventure in embodied AI — so glad we could be on this quest 
         {% include figure.liquid loading="eager" path="assets/img/watney_working.jpg" title="Watney goes to work" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/watney_squigee.jpg" title="Watney cleans window" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/watney_squeegee.jpg" title="Watney cleans window" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/watney_shopping.jpg" title="Watney goes shopping" class="img-fluid rounded z-depth-1" %}

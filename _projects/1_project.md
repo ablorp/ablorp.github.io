@@ -23,17 +23,17 @@ My brother's big adventure in embodied AI — so glad we could be on this quest 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/watney_working.jpg" title="Watney Working" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/watney_working.jpg" title="Watney goes to work" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/watney_sweeping.jpg" title="Watney Sweeping" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/watney_squigee.jpg" title="Watney cleans window" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/watney_shopping.jpg" title="Watney Shopping" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/watney_shopping.jpg" title="Watney goes shopping" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Watney alive: goes to work, sweeps the street, and goes shopping (circa July–Aug 2024).
+    Watney alive: goes to work, cleans window, and goes shopping (circa July–Aug 2024).
 </div>
 
 <div class="row">

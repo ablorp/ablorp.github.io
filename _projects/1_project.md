@@ -1,7 +1,7 @@
 ---
 layout: page
 title: watney robotics
-description:
+description: autonomous physical infrastructure
 img: assets/img/soldering.jpg
 importance: 1
 category: work

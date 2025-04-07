@@ -26,14 +26,14 @@ My brother's big adventure in embodied AI — so glad we could be on this quest 
 
 <div class="row">
     <div class="col-sm-5 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/watney_a.jpg" title="Watney" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/watney_a.jpg" title="Watney's creator" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-7 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/lookup.jpg" title="Watney Robotics @ SF" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    (left) Watney soon upgraded to two arms and a wheel base — after we moved into new offices in SF Mission District (circa Jun 2024).
+    (left) Meet Watney's creator my eldest brother (circa April 2025); (right) our new offices in the SF Mission District (circa Jun 2024).
 </div>
 
 <div class="row">

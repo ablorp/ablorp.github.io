@@ -31,7 +31,7 @@ A high school sophomore from the San Francisco Bay Area with a strong interest i
 Adam practices bouldering, a unique skill that combines puzzle solving with physical feats — exercising both brain and brawn — as the climber places one foothold
 after another to chart a navigable course. From mechanical engineering to computational biology, Adam's [projects](https://adamcheong.com/projects/) since 7th grade have won STEM fair awards every year.
 
-Adam is taking a [computer science class](https://classes.berkeley.edu/content/2025-summer-compsci-61a-001-lec-001) at UC Berkeley as a pre-college scholar this summer. He plans to take [flying lessons](https://wvfc.org) after turning 16 and hopes to earn a pilot license before heading out to college, where he will pursue a double major in engineering and finance.
+Adam is taking a [computer science class](https://classes.berkeley.edu/content/2025-summer-compsci-61a-001-lec-001) at UC Berkeley as a pre-college scholar, while also starting [flying lessons](https://wvfc.org) this summer. He hopes to earn a pilot license before heading out to college, where he will double major in engineering and finance.
 
 ---
 

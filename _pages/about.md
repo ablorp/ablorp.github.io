@@ -26,11 +26,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-A high school sophomore from the San Francisco Bay Area with a strong interest in science, engineering, math and finance, Adam holds a year-round internship at a [robotics startup](https://watneyrobotics.com) in San Francisco. Adam resolves to formulate the most important unsolved problems in robotics today, so resources can be mobilized to solve them.
+A high school sophomore from the San Francisco Bay Area with a strong interest in science, engineering, math and finance, Adam interns at a [robotics startup](https://watneyrobotics.com) in San Francisco afterschool. Adam aspires to identify and formulate the most important unsolved problems in robotics for his generation, and to create a future in which collective intelligence and resources are mobilized to solve them.
 
-Adam loves rock climbing because it's like solving a puzzle: connecting the dots forward to envision a new path of ascent. From mechanical engineering to computational biology, Adam's [projects](https://adamcheong.com/projects/) since 7th grade have won numerous STEM fair awards. On quiet evenings, Adam enjoys playing the guitar and listening to his favorite artists.
+Adam loves bouldering, a unique skill that combines puzzle solving with physical feats — exercising both brain and brawn — as the climber places one foothold
+after another to chart a navigable course while hanging in midair. From mechanical engineering to computational biology, Adam's [projects](https://adamcheong.com/projects/) since 7th grade have won STEM fair awards every year. On quiet evenings, Adam enjoys playing the guitar and listening to his favorite artists.
 
-Adam is looking forward to taking a popular [computer science class](https://classes.berkeley.edu/content/2025-summer-compsci-61a-001-lec-001) at UC Berkeley as a pre-college scholar this summer after he turns 16. He plans to begin [flying lessons](https://wvfc.org) soon as he is old enough to drive. Adam hopes to earn a pilot license before heading out to college, where he will pursue a double major in engineering and finance.
+Adam is looking forward to taking a popular [computer science class](https://classes.berkeley.edu/content/2025-summer-compsci-61a-001-lec-001) at UC Berkeley as a pre-college scholar this summer after he turns 16. He plans to take [flying lessons](https://wvfc.org) and hopes to earn a pilot license before heading out to college, where he will pursue a double major in engineering and finance.
 
 ---
 

@@ -61,7 +61,7 @@
       "url": "https://watneyrobotics.com",
       "startDate": "2023-07",
       "endDate": "2027-06",
-      "summary": "Assemble robot arms and controllers that allow humans from halfway around the world to teleoperate a robot; perform data labeling and ML training.",
+      "summary": "Assemble robot arms and controllers that allow humans from halfway around the world to teleoperate a robot; perform data labeling and ML models training.",
       "highlights": ["Robot Arm and Controller Assembly", "Teleoperation Testing", "Data Labeling", "ML Models Training"]
     }
   ],

@@ -31,7 +31,7 @@ A high school sophomore from the San Francisco Bay Area with a strong interest i
 Adam practices bouldering, a unique skill that combines puzzle solving with physical feats — exercising both brain and brawn — as the climber places one foothold
 after another to chart a navigable course. From mechanical engineering to computational biology, Adam's [projects](https://adamcheong.com/projects/) since 7th grade have won STEM fair awards every year.
 
-Adam is taking a [computer science class](https://classes.berkeley.edu/content/2025-summer-compsci-61a-001-lec-001) at UC Berkeley as a pre-college scholar, while also starting [flying lessons](https://wvfc.org) this summer. He hopes to earn a pilot license before heading out to college, where he will double major in engineering and finance.
+Adam is taking a [computer science class](https://classes.berkeley.edu/content/2025-summer-compsci-61a-001-lec-001) at UC Berkeley this summer as a pre-college scholar, joining his older brother there, while also starting [flying lessons](https://wvfc.org). He aims to earn a pilot license before heading out to college, where he will double major in engineering and finance.
 
 ---
 
@@ -46,7 +46,7 @@ Adam is taking a [computer science class](https://classes.berkeley.edu/content/2
         {% include figure.liquid loading="eager" path="assets/img/cliffhanger_ggsf.jpg" title="science fair" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/guitar.jpg" title="guitar" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/mark_calband.jpg" title="guitar" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/airplane.jpg" title="flying" class="img-fluid rounded z-depth-1" %}

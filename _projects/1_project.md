@@ -42,7 +42,7 @@ My brother's big adventure in embodied AI — so glad we could be on this quest 
     </div>
 </div>
 <div class="caption">
-    【 <a href="https://youtu.be/kYdJM-HD2Zs">LINK 🗣</a>】Closing an ultra low-latency teleoperation loop at our Berkeley offices on Telegraph Avenue (circa Feb 14, 2024).
+    【 <a href="https://youtu.be/kYdJM-HD2Zs">LINK 🗣</a> 】Closing an ultra low-latency teleoperation loop at our Berkeley offices on Telegraph Avenue (circa Feb 14, 2024).
 </div>
 
 <div class="row justify-content-sm-center">

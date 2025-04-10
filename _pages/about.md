@@ -54,3 +54,14 @@ Adam is taking a [computer science class](https://classes.berkeley.edu/content/2
 </div>
 
 ---
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/adam_cheong.jpg" title="5-minute Presentation" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    【 <a href="https://youtu.be/q8nUbN4cRVY">Masason Foundation 🗣</a>】.
+</div>
+
+---

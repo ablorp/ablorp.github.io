@@ -61,7 +61,7 @@ Adam is taking a [computer science class](https://classes.berkeley.edu/content/2
     </div>
 </div>
 <div class="caption">
-    【 <a href="https://youtu.be/q8nUbN4cRVY">Masason Foundation 🗣</a>】.
+    【 <a href="https://youtu.be/q8nUbN4cRVY">Masason Foundation 🗣️ Presentation</a>】.
 </div>
 
 ---

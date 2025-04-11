@@ -62,7 +62,7 @@
       "startDate": "2023-07",
       "endDate": "2027-06",
       "summary": "Assemble robot arms and controllers that allow humans from halfway around the world to teleoperate a robot; perform data labeling and ML models training.",
-      "highlights": ["Robot Arm and Controller Assembly", "Teleoperation Testing", "Data Labeling", "ML Models Training"]
+      "highlights": ["Robot Arm Controller Assembly", "Teleoperation Testing", "Data Labeling", "ML Models Training"]
     }
   ],
   "volunteering": [
@@ -270,7 +270,7 @@
       "name": "Hardware",
       "level": "Master",
       "icon": "fa-solid fa-robot",
-      "keywords": ["Robot Arm & Controller Assembly", "Circuit Board Soldering", "PC Assembly"]
+      "keywords": ["Robot Arm Controller Assembly", "Circuit Board Soldering", "PC Assembly"]
     },
     {
       "name": "Software",

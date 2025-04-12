@@ -61,7 +61,7 @@ Adam is taking a [computer science class](https://classes.berkeley.edu/content/2
     </div>
 </div>
 <div class="caption">
-    【 <a href="https://youtu.be/DkePIvoGPVo">Masason Foundation 🗣️ Presentation</a> 】【 <a href="https://adamcheong.com/assets/pdf/Adam%20Cheong.pdf">PDF</a> 】
+    【 <a href="https://youtu.be/iO3w-pftHBM">Masason Foundation 🗣️ Presentation</a> 】【 <a href="https://adamcheong.com/assets/pdf/Adam%20Cheong.pdf">PDF</a> 】
 </div>
 
 ---

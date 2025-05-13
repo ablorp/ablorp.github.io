@@ -54,14 +54,3 @@ Adam is taking a [computer science class](https://classes.berkeley.edu/content/2
 </div>
 
 ---
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/adam_cheong.jpg" title="5-minute Presentation" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Masason Foundation 🗣️ Presentations:【 <a href="https://youtu.be/XnUwJxxlzSg">5 min</a> 】【 <a href="https://adamcheong.com/assets/pdf/Adam%20Cheong.pdf">PDF</a> 】 and 【 <a href="https://youtu.be/P3yEb9Zv38g">2 min</a> 】【 <a href="https://adamcheong.com/assets/pdf/%E3%80%90Profile%20Sheet%E3%80%91Adam%20Cheong.pptx">PPTX</a> 】
-</div>
-
----

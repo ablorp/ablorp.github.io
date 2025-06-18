@@ -29,7 +29,7 @@ latest_posts:
 A high school sophomore from the San Francisco Bay Area with a strong interest in science, engineering, math and finance, Adam interns afterschool at a [robotics startup](https://watneyrobotics.com) in San Francisco. Adam aspires to identify and formulate the most important unsolved problems in robotics for his generation, and to create a future in which collective intelligence and resources are mobilized to solve them.
 
 Adam practices bouldering, a unique skill that combines puzzle solving with physical feats — exercising both brain and brawn — as the climber places one foothold
-after another to chart a navigable course. From mechanical engineering to computational biology, Adam's [projects](https://adamcheong.com/projects/) since 7th grade have won STEM fair awards every year.
+after another to chart a navigable course. From hydroponics to computational biology, Adam's [projects](https://adamcheong.com/projects/) since 7th grade have won STEM fair awards every year.
 
 Adam is taking a [computer science class](https://classes.berkeley.edu/content/2025-summer-compsci-61a-001-lec-001) this summer at UC Berkeley as a pre-college scholar, joining his older brother there. Adam plans to earn a [pilot license](https://wvfc.org) before heading out to college, where he will double major in engineering and finance.
 

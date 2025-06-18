@@ -26,7 +26,14 @@
       "endDate": "2027-06-11",
       "score": "5",
       "courses": [
+        "11th: Classic Literature: The Essay",
+        "11th: Quantum Mechanics",
+        "11th: Medicinal Chemistry",
+        "11th: Anatomy & Physiology",
+        "11th: Linear Algebra",
+        "11th: US History & the American Essay",
         "10th: Literary Arts: Graphic Narrative",
+        "10th: Generating Functions",
         "10th: AP Calculus BC",
         "10th: AP Physics C: Mechanics",
         "10th: AP Chemistry",
@@ -61,7 +68,7 @@
       "url": "https://watneyrobotics.com",
       "startDate": "2023-07",
       "endDate": "2027-06",
-      "summary": "Assemble robot arms and controllers that allow humans from halfway around the world to teleoperate a robot; perform data labeling and ML models training.",
+      "summary": "Assemble robot arms and controllers that allow humans from halfway around the world to teleoperate a robot; perform data labeling and train machine learning models.",
       "highlights": ["Robot Arm Controller Assembly", "Teleoperation Testing", "Data Labeling", "Machine Learning Models Training"]
     }
   ],
@@ -147,6 +154,13 @@
     }
   ],
   "contests": [
+    {
+      "title": "Cum Laude (Honorable Mention)",
+      "date": "2025-04",
+      "awarder": "National Latin Examination",
+      "url": "https://adamcheong.com/assets/pdf/National Latin Exam Honorable Mention 2025.pdf",
+      "summary": "Annual recognition of student accomplishment in Latin language learning and the study of Greco-Roman culture."
+    },
     {
       "title": "Honorable Mention",
       "date": "2025-03",

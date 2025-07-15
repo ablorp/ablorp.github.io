@@ -28,7 +28,7 @@ A high school student from the San Francisco Bay Area with a strong interest in 
 
 Adam enjoys bouldering, a challenging skill that combines puzzle solving with physical feats — exercising both brain and brawn — as the climber places one foothold after another to chart a navigable course. Adam can be found skateboarding on campus in between classes or scuba diving in Monterey with his brother on the weekends.
 
-Adam is taking a [computer science class](https://classes.berkeley.edu/content/2025-summer-compsci-61a-001-lec-001) this summer at UC Berkeley as a pre-college scholar. Adam plans to earn a [pilot license](https://flystanford.com) before heading out to college across the pond, where he hopes to read engineering science.
+Adam is taking a [computer science class](https://classes.berkeley.edu/content/2025-summer-compsci-61a-001-lec-001) this summer at UC Berkeley as a pre-college scholar. Adam plans to earn a [pilot license](https://flystanford.com) before heading out to college across the pond, where he hopes to read engineering science and one day becomes a biomedical engineer.
 
 ---
 

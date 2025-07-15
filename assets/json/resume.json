@@ -176,6 +176,22 @@
       "summary": "Annual recognition of student accomplishment in Latin language learning and the study of Greco-Roman culture."
     }
   ],
+  "awards": [
+    {
+      "title": "Masason Foundation Scholar",
+      "date": "2025-07",
+      "awarder": "Masason Foundation",
+      "url": "https://masason-foundation.org/en/scholars/",
+      "summary": "One of 32 youths with high aspirations and exceptional talents selected for the 9th generation cohort to develop their skills, and contributing to the future of humankind."
+    },
+    {
+      "title": "AP Scholar with Honor Award",
+      "date": "2025-07",
+      "awarder": "College Board",
+      "url": "https://adamcheong.com/assets/pdf/Awards.pdf",
+      "summary": "Recognizes exemplary college-level achievement, having attained a score of 5 on all four AP exams taken."
+    }
+  ],
   "posters": [
     {
       "name": "Monte Carlo Simulation of Somatic Twist in Ancient Marine Worms",

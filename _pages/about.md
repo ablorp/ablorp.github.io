@@ -46,7 +46,7 @@ Adam is taking a [computer science class](https://classes.berkeley.edu/content/2
         {% include figure.liquid loading="eager" path="assets/img/mark_calband.jpg" title="guitar" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/airplane.jpg" title="flying" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/scuba.jpg" title="flying" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 

@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-A high school student from the San Francisco Bay Area with a strong interest in science, math, engineering and robotics. From hydroponics to computational biology, Adam's [projects](https://adamcheong.com/projects/) since 7th grade have consistently won STEM fair awards every year. Adam interns afterschool at a [robotics startup](https://watneyrobotics.com) in San Francisco.
+A high school student from the San Francisco Bay Area with a strong interest in science, math, engineering and robotics. From hydroponics to computational biology, Adam's [projects](https://adamcheong.com/projects/) since 7th grade have consistently won STEM fair awards every year. Adam interns at a [robotics startup](https://watneyrobotics.com) in San Francisco from day one.
 
 Adam is taking a [computer science course](https://classes.berkeley.edu/content/2025-summer-compsci-61a-001-lec-001) this summer at UC Berkeley as a pre-college scholar. In between classes, Adam can be found skateboarding on campus, hanging out with friends, or scuba diving in Monterey with his brother on weekends.
 

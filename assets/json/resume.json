@@ -84,6 +84,22 @@
       "highlights": ["Leadership Development", "Safety Training", "CPR, AED & Basic First Aid Certified"]
     }
   ],
+  "awards": [
+    {
+      "title": "Masason Scholar",
+      "date": "2025-07",
+      "awarder": "Masason Foundation",
+      "url": "https://masason-foundation.org/en/scholars/",
+      "summary": "9th generation cohort of 32 youths with high aspirations and exceptional talents selected to develop their skills, and contributing to the future of humankind."
+    },
+    {
+      "title": "AP Scholar with Honor",
+      "date": "2025-07",
+      "awarder": "AP Calculus BC, AP Physics C: Mechanics, AP Chemistry, and AP Biology",
+      "url": "https://adamcheong.com/assets/pdf/APScholar.pdf",
+      "summary": "Recognizes exemplary college-level achievement, having attained a score of 5 on all four AP exams taken."
+    }
+  ],
   "projects": [
     {
       "name": "Monte Carlo Simulation of Somatic Twist in Ancient Marine Worms",
@@ -174,22 +190,6 @@
       "awarder": "National Latin Examination",
       "url": "https://adamcheong.com/assets/pdf/National Latin Exam Silver Recognition 2024.pdf",
       "summary": "Annual recognition of student accomplishment in Latin language learning and the study of Greco-Roman culture."
-    }
-  ],
-  "awards": [
-    {
-      "title": "Masason Scholar",
-      "date": "2025-07",
-      "awarder": "Masason Foundation",
-      "url": "https://masason-foundation.org/en/scholars/",
-      "summary": "9th generation cohort of 32 youths with high aspirations and exceptional talents selected to develop their skills, and contributing to the future of humankind."
-    },
-    {
-      "title": "AP Scholar with Honor",
-      "date": "2025-07",
-      "awarder": "AP Calculus BC, AP Physics C: Mechanics, AP Chemistry, and AP Biology",
-      "url": "https://adamcheong.com/assets/pdf/APScholar.pdf",
-      "summary": "Recognizes exemplary college-level achievement, having attained a score of 5 on all four AP exams taken."
     }
   ],
   "posters": [

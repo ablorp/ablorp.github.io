@@ -58,7 +58,7 @@ Adam enjoys bouldering, a challenging skill that combines puzzle solving with ph
     </div>
 </div>
 <div class="caption">
-    Ellison Scholars:【 <a href="https://youtu.be/ggjZ2a70MAo">🗣️ 3-minute Presentation</a> 】
+    【 Ellison Scholars 】<a href="https://youtu.be/ggjZ2a70MAo">🗣️ Presentation</a>
 </div>
 
 ---

@@ -54,11 +54,13 @@ Adam enjoys bouldering, a challenging skill that combines puzzle solving with ph
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/watney.jpg" title="3-minute Presentation" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/watney.jpg" title="presentation" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     【 Ellison Scholars 】<a href="https://youtu.be/ggjZ2a70MAo">🗣️ Presentation</a>
 </div>
+
+[![presentation] (https://adamcheong.com/assets/img/watney.jpg)](https://youtu.be/ggjZ2a70MAo)
 
 ---

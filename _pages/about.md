@@ -50,8 +50,6 @@ Adam enjoys bouldering, a challenging skill that combines puzzle solving with ph
     </div>
 </div>
 
----
-
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/watney.jpg" title="presentation" class="img-fluid rounded z-depth-1" %}

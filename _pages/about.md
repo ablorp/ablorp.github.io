@@ -56,7 +56,7 @@ Adam enjoys bouldering, a challenging skill that combines puzzle solving with ph
     </div>
 </div>
 <div class="caption">
-    【 <a href="https://youtu.be/QKePc3amm-w">🗣️ Short Presentation</a> 】【[PDF](https://adamcheong.com/assets/pdf/【Ellison Scholar】Adam Cheong.pdf)】
+    【 <a href="https://youtu.be/QKePc3amm-w">🗣️ Short Presentation</a> 】【<a href="https://adamcheong.com/assets/pdf/%E3%80%90Ellison%20Scholar%E3%80%91Adam%20Cheong.pdf">PDF</a>】
 </div>
 
 ---

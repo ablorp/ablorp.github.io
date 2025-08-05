@@ -1,7 +1,7 @@
 {
   "general": {
     "name": "Adam Cheong",
-    "goal": "To identify the most important problems in healthcare and biomedical sciences for our generation, and to create a future in which collective intelligence and robotic resources are mobilized to solve them for the betterment of humankind.",
+    "goal": "To identify the most important problems of our times in healthcare and biomedical sciences, and to create a future in which collective intelligence and robotic resources are mobilized to solve them for the betterment of humankind.",
     "image": "assets/img/profile_pic_color.jpg",
     "email": "adam@cheong.net",
     "phone": "(650) 593-8322",
@@ -69,7 +69,7 @@
       "startDate": "2023-07",
       "endDate": "2027-06",
       "summary": "Assemble robot arms and controllers that allow humans from halfway around the world to teleoperate a robot; perform data labeling and train machine learning models.",
-      "highlights": ["Robot Arm Controller Assembly", "Data Labeling", "Machine Learning Models Training"]
+      "highlights": ["Robot Arm Controller Assembly", "Data Labeling", "ML Models Training"]
     }
   ],
   "volunteering": [
@@ -95,7 +95,7 @@
     {
       "title": "AP Scholar with Honor",
       "date": "2025-07",
-      "awarder": "AP Calculus BC, AP Physics C: Mechanics, AP Chemistry, and AP Biology",
+      "awarder": "Calculus BC, Physics C: Mechanics, Chemistry, and Biology",
       "url": "https://adamcheong.com/assets/pdf/APScholar.pdf",
       "summary": "Recognizes exemplary college-level achievement, having attained a score of 5 on all four AP exams taken."
     }

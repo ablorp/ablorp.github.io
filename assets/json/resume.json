@@ -371,6 +371,11 @@
   ],
   "assessments": [
     {
+      "language": "PSAT (11th Grade)",
+      "fluency": "Score: 1450 (700 EBRW, 750 Math)",
+      "icon": "fa-solid fa-graduation-cap"
+    },
+    {
       "language": "SAT (10th Grade)",
       "fluency": "Score: 1510 (730 EBRW, 780 Math)",
       "icon": "fa-solid fa-graduation-cap"

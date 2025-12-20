@@ -28,7 +28,7 @@ A high school student with a strong interest in science, math, engineering and r
 
 Adam has taken college-level computer science courses (e.g., [CS61A](https://classes.berkeley.edu/content/2025-summer-compsci-61a-001-lec-001)) at UC Berkeley as a pre-college scholar. Adam enjoys skateboarding around town, hanging out with friends, or scuba diving in Monterey with his brother on weekends.
 
-Adam enjoys bouldering, a challenging skill that combines puzzle solving with physical feats — exercising both brain and brawn — as the climber places one foothold after another to chart a navigable course. Adam plans to earn a [pilot license](https://flystanford.com) before heading out to college, and hopes to become a biomedical engineer harnessing AI and robotics for the betterment of humankind.
+Adam is skilled at bouldering, a challenging activity that combines puzzle solving with physical feats to chart a navigable course upon the vertical wall — exercising both brain and brawn. Adam plans to earn a [pilot license](https://flystanford.com) before heading out to college, and hopes to become a biomedical engineer harnessing AI and robotics for the betterment of humankind.
 
 ---
 

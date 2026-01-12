@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 🏎️ go kart go!
-img: assets/img/go_kart.jpg
+img: assets/img/go_kart_a.jpg
 redirect: https://youtu.be/vsx4GC0iQ0M
 importance: 4
 category: fun

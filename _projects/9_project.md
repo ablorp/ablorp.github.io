@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 🏎️ go kart go!
+description: test driving my eldest brother's creation from a young age
 img: assets/img/go_kart_a.jpg
 redirect: https://youtu.be/vsx4GC0iQ0M
 importance: 4

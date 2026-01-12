@@ -75,6 +75,17 @@
   ],
   "volunteering": [
     {
+      "organization": "UC Berkeley",
+      "location": "Berkeley, California",
+      "position": "Pre-College Student Ambassador",
+      "url": "https://adamcheong.com/assets/pdf/2026 Ambassador Info Session.pdf",
+      "startDate": "2026-02-17",
+      "endDate": "2026-08-15",
+      "summary": "Be a mentor to incoming Pre-College participants; provide guidance and support to students during the application process, post-
+admissions, and during the summer term; present UC Berkeley's Pre-College Program to prospective students at:",
+      "highlights": ["Outreach & Recruitment Events", "Info Sessions", "Alumni & Counselor Panels"]
+    },
+    {
       "organization": "Woodland Summer Adventures",
       "location": "Portola Valley, California",
       "position": "Camp Counselor",

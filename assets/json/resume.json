@@ -135,6 +135,36 @@
       "summary": "Recognizes exemplary college-level achievement, having attained a score of 5 on all four AP exams taken."
     }
   ],
+  "contests": [
+    {
+      "title": "AIME Qualifier",
+      "date": "2025-12",
+      "awarder": "Mathematical Association of America",
+      "url": "https://maa.org/news/2025-26-aime-thresholds-are-now-available/",
+      "summary": "The American Invitational Mathematics Examination (AIME) is a challenging competition offered to those who excelled on the AMC 12. The AIME is a 15 question, 3-hour examination."
+    },
+    {
+      "title": "Cum Laude (Honorable Mention)",
+      "date": "2025-04",
+      "awarder": "National Latin Examination",
+      "url": "https://adamcheong.com/assets/pdf/National Latin Exam Honorable Mention 2025.pdf",
+      "summary": "Annual recognition of student accomplishment in Latin language learning and the study of Greco-Roman culture."
+    },
+    {
+      "title": "Honorable Mention",
+      "date": "2025-03",
+      "awarder": "USA Biolympiad (USABO)",
+      "url": "https://adamcheong.com/assets/pdf/2025 USABO Honorable Mention Certificate.pdf",
+      "summary": "The most prestigious biology education and testing program for US high school students, participated by approximately 10,000 talented students annually."
+    },
+    {
+      "title": "Maxima Cum Laude (Silver Recognition)",
+      "date": "2024-04",
+      "awarder": "National Latin Examination",
+      "url": "https://adamcheong.com/assets/pdf/National Latin Exam Silver Recognition 2024.pdf",
+      "summary": "Annual recognition of student accomplishment in Latin language learning and the study of Greco-Roman culture."
+    }
+  ],
   "science fairs": [
     {
       "title": "4th Place, Bioinformatics and Computational Biology",
@@ -186,36 +216,6 @@
       "summary": "Does the Color of Light Affect Plant Growth?"
     }
   ],
-  "contests": [
-    {
-      "title": "AIME Qualifier",
-      "date": "2025-12",
-      "awarder": "Mathematical Association of America",
-      "url": "https://maa.org/news/2025-26-aime-thresholds-are-now-available/",
-      "summary": "The American Invitational Mathematics Examination (AIME) is a challenging competition offered to those who excelled on the AMC 12. The AIME is a 15 question, 3-hour examination."
-    },
-    {
-      "title": "Cum Laude (Honorable Mention)",
-      "date": "2025-04",
-      "awarder": "National Latin Examination",
-      "url": "https://adamcheong.com/assets/pdf/National Latin Exam Honorable Mention 2025.pdf",
-      "summary": "Annual recognition of student accomplishment in Latin language learning and the study of Greco-Roman culture."
-    },
-    {
-      "title": "Honorable Mention",
-      "date": "2025-03",
-      "awarder": "USA Biolympiad (USABO)",
-      "url": "https://adamcheong.com/assets/pdf/2025 USABO Honorable Mention Certificate.pdf",
-      "summary": "The most prestigious biology education and testing program for US high school students, participated by approximately 10,000 talented students annually."
-    },
-    {
-      "title": "Maxima Cum Laude (Silver Recognition)",
-      "date": "2024-04",
-      "awarder": "National Latin Examination",
-      "url": "https://adamcheong.com/assets/pdf/National Latin Exam Silver Recognition 2024.pdf",
-      "summary": "Annual recognition of student accomplishment in Latin language learning and the study of Greco-Roman culture."
-    }
-  ],
   "projects": [
     {
       "name": "Monte Carlo Simulation of Somatic Twist in Ancient Marine Worms",
@@ -257,6 +257,38 @@
       "releaseDate": "2025-02-28",
       "url": "https://adamcheong.com/assets/pdf/Cheong_Adam_Paper.pdf",
       "summary": "A comparative study of morphological models from ancient marine worms to the first fish inside an aquarium."
+    }
+  ],
+  "societies & clubs": [
+    {
+      "name": "BioCurious Lab",
+      "icon": "fa-solid fa-microscope",
+      "keywords": ["(2026—present) Student member of world's largest community lab space for biology, located in the heart of Silicon Valley."]
+    },
+    {
+      "name": "Genetics Society of America",
+      "icon": "fa-solid fa-dna",
+      "keywords": ["(2025—present) K-12 member of an international community of 6,000 biologists from 50 countries advancing the field of genetics."]
+    },
+    {
+      "name": "Berkeley Math Circle",
+      "icon": "fa-solid fa-building-columns",
+      "keywords": ["(2015–2025) Intermediate level II member; attend evening math lectures by professors at UC Berkeley campus every Wednesday."]
+    },
+    {
+      "name": "Benchmark Climbing",
+      "icon": "fa-solid fa-person-hiking",
+      "keywords": ["(2023–present) Member of afterschool climbing club; practice 2 to 3 times a week at an indoor bouldering gym in San Francisco."]
+    },
+    {
+      "name": "Clock Tower Music",
+      "icon": "fa-solid fa-guitar",
+      "keywords": ["(2023–present) Taking guitar lessons with a local musician afterschool; practice new songs in the evenings."]
+    },
+    {
+      "name": "24 Hour Fitness",
+      "icon": "fa-solid fa-dumbbell",
+      "keywords": ["(2024–present) Member of a neighborhood gym where I workout regularly in the evenings and on weekends."]
     }
   ],
   "courses": [
@@ -315,38 +347,6 @@
       "issuer": "Johns Hopkins CTY Program",
       "url": "https://adamcheong.com/assets/pdf/AY2023_1444684_1786950_SUMMEVAL_LOGC.pdf",
       "icon": "fa-solid fa-brain"
-    }
-  ],
-  "societies & clubs": [
-    {
-      "name": "BioCurious Lab",
-      "icon": "fa-solid fa-microscope",
-      "keywords": ["(2026—present) Student member of world's largest community lab space for biology, located in the heart of Silicon Valley."]
-    },
-    {
-      "name": "Genetics Society of America",
-      "icon": "fa-solid fa-dna",
-      "keywords": ["(2025—present) K-12 member of an international community of 6,000 biologists from 50 countries advancing the field of genetics."]
-    },
-    {
-      "name": "Berkeley Math Circle",
-      "icon": "fa-solid fa-building-columns",
-      "keywords": ["(2015–2025) Intermediate level II member; attend evening math lectures by professors at UC Berkeley campus every Wednesday."]
-    },
-    {
-      "name": "Benchmark Climbing",
-      "icon": "fa-solid fa-person-hiking",
-      "keywords": ["(2023–present) Member of afterschool climbing club; practice 2 to 3 times a week at an indoor bouldering gym in San Francisco."]
-    },
-    {
-      "name": "Clock Tower Music",
-      "icon": "fa-solid fa-guitar",
-      "keywords": ["(2023–present) Taking guitar lessons with a local musician afterschool; practice new songs in the evenings."]
-    },
-    {
-      "name": "24 Hour Fitness",
-      "icon": "fa-solid fa-dumbbell",
-      "keywords": ["(2024–present) Member of a neighborhood gym where I workout regularly in the evenings and on weekends."]
     }
   ],
   "skills": [

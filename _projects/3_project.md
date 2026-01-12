@@ -2,7 +2,7 @@
 layout: page
 title: 🍓 hydroponics
 description: set up vertical farming @ Berkeley
-img: assets/img/teleoperation_b.jpg
+img: assets/img/teleoperation_a.jpg
 importance: 1
 category: work
 ---

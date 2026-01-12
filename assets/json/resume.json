@@ -135,24 +135,6 @@
       "summary": "Recognizes exemplary college-level achievement, having attained a score of 5 on all four AP exams taken."
     }
   ],
-  "projects": [
-    {
-      "name": "Monte Carlo Simulation of Somatic Twist in Ancient Marine Worms",
-      "summary": "Research Purpose: run Monte Carlo simulation to recreate evolutionary events inside a computer and see how the first digital worm evolves in silico to become the ‘first fish’ with a dorsoventrally inverted body plan after a somatic twist.",
-      "highlights": ["Computational Biology", "OpenWorm", "Sybernetic"],
-      "startDate": "2025-01",
-      "endDate": "2025-12",
-      "url": "https://adamcheong.com/assets/pdf/IWM-2025 Poster.pdf"
-    },
-    {
-      "name": "The Cliffhanger Project",
-      "summary": "A novel mountain climbing aid that brings a new mechanical advantage to mountaineers by means of a simple lever mechanism — inspired by a physics demo harnessing a setup of three toothpicks to carry a payload hanging off the edge of a table.",
-      "highlights": ["Mountain Climbing Aid", "Mechanical Advantage", "Type 2 Lever"],
-      "startDate": "2023-01",
-      "endDate": "2023-03",
-      "url": "https://adamcheong.com/assets/pdf/The Adam Cliffhanger Project—GGSF 2023.pdf"
-    }
-  ],
   "science fairs": [
     {
       "title": "4th Place, Bioinformatics and Computational Biology",
@@ -232,6 +214,24 @@
       "awarder": "National Latin Examination",
       "url": "https://adamcheong.com/assets/pdf/National Latin Exam Silver Recognition 2024.pdf",
       "summary": "Annual recognition of student accomplishment in Latin language learning and the study of Greco-Roman culture."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Monte Carlo Simulation of Somatic Twist in Ancient Marine Worms",
+      "summary": "Research Purpose: run Monte Carlo simulation to recreate evolutionary events inside a computer and see how the first digital worm evolves in silico to become the ‘first fish’ with a dorsoventrally inverted body plan after a somatic twist.",
+      "highlights": ["Computational Biology", "OpenWorm", "Sybernetic"],
+      "startDate": "2025-01",
+      "endDate": "2025-12",
+      "url": "https://adamcheong.com/assets/pdf/IWM-2025 Poster.pdf"
+    },
+    {
+      "name": "The Cliffhanger Project",
+      "summary": "A novel mountain climbing aid that brings a new mechanical advantage to mountaineers by means of a simple lever mechanism — inspired by a physics demo harnessing a setup of three toothpicks to carry a payload hanging off the edge of a table.",
+      "highlights": ["Mountain Climbing Aid", "Mechanical Advantage", "Type 2 Lever"],
+      "startDate": "2023-01",
+      "endDate": "2023-03",
+      "url": "https://adamcheong.com/assets/pdf/The Adam Cliffhanger Project—GGSF 2023.pdf"
     }
   ],
   "posters": [

@@ -43,10 +43,10 @@ Adam is skilled at bouldering, a thrice weekly routine that combines puzzle solv
         {% include figure.liquid loading="eager" path="assets/img/scuba_a.jpg" title="scuba diving" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/kabuto.jpg" title="rock climbing" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/kabuto_a.jpg" title="rock climbing" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/airplane.jpg" title="flying" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/airplane_a.jpg" title="flying" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 

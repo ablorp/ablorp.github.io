@@ -255,6 +255,12 @@
   ],
   "courses": [
     {
+      "name": "Crash Course: Relativity",
+      "date": "2026-01",
+      "issuer": "Proof School Intersession",
+      "icon": "fa-solid fa-rocket"
+    },
+    {
       "name": "The Structure and Interpretation of Computer Programs",
       "date": "2025-06",
       "issuer": "UC Berkeley Pre-College Scholar",

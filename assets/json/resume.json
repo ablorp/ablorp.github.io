@@ -275,6 +275,13 @@
   ],
   "courses": [
     {
+      "name": "Foundation of Data Science",
+      "date": "2026-06",
+      "issuer": "UC Berkeley Pre-College Scholar",
+      "url": "https://classes.berkeley.edu/content/2026-summer-data-c8-001-lec-001",
+      "icon": "fa-solid fa-database"
+    },
+    {
       "name": "Data Structures and Programming Methodology",
       "date": "2026-06",
       "issuer": "UC Berkeley Pre-College Scholar",

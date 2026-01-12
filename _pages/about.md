@@ -55,8 +55,5 @@ Adam is skilled at bouldering, a thrice weekly routine that combines puzzle solv
         {% include figure.liquid path="assets/img/watney.jpg" title="presentation" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    【 <a href="https://youtu.be/9w7m8AX_FCk">🗣️ Short Presentation</a> 】【<a href="https://adamcheong.com/assets/pdf/%E3%80%90Ellison%20Scholar%E3%80%91Adam%20Cheong.pdf">PDF</a>】
-</div>
 
 ---

@@ -81,8 +81,7 @@
       "url": "https://adamcheong.com/assets/pdf/2026 Ambassador Info Session.pdf",
       "startDate": "2026-02-17",
       "endDate": "2026-08-15",
-      "summary": "Be a mentor to incoming Pre-College participants; provide guidance and support to students during the application process, post-
-admissions, and during the summer term; present UC Berkeley's Pre-College Program to prospective students at:",
+      "summary": "Mentor incoming Pre-College participants during the summer term; provide guidance and support to prospective students; present UC Berkeley's Pre-College Program at:",
       "highlights": ["Outreach & Recruitment Events", "Info Sessions", "Alumni & Counselor Panels"]
     },
     {
@@ -265,6 +264,13 @@ admissions, and during the summer term; present UC Berkeley's Pre-College Progra
     }
   ],
   "courses": [
+    {
+      "name": "Data Structures and Programming Methodology",
+      "date": "2026-06",
+      "issuer": "UC Berkeley Pre-College Scholar",
+      "url": "https://classes.berkeley.edu/content/2026-summer-compsci-61bl-001-lec-001",
+      "icon": "fa-solid fa-code"
+    },
     {
       "name": "Relativity: A Crash Course",
       "date": "2026-01",

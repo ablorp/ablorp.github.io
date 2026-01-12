@@ -234,6 +234,15 @@
       "url": "https://adamcheong.com/assets/pdf/The Adam Cliffhanger Project—GGSF 2023.pdf"
     }
   ],
+  "papers": [
+    {
+      "name": "Why Do Vertebrates Have Decussated Corticospinal Tracts?",
+      "publisher": "Junior Science and Humanities Symposium, San Francisco State University",
+      "releaseDate": "2025-02-28",
+      "url": "https://adamcheong.com/assets/pdf/Cheong_Adam_Paper.pdf",
+      "summary": "A comparative study of morphological models from ancient marine worms to the first fish inside an aquarium."
+    }
+  ],
   "posters": [
     {
       "name": "Monte Carlo Simulation of Somatic Twist in Ancient Marine Worms",
@@ -247,15 +256,6 @@
       "publisher": "Junior Science and Humanities Symposium, San Francisco State University",
       "releaseDate": "2025-02-28",
       "url": "https://adamcheong.com/assets/pdf/A Twist on Decussation—JSHS 2025-Poster.pdf",
-      "summary": "A comparative study of morphological models from ancient marine worms to the first fish inside an aquarium."
-    }
-  ],
-  "papers": [
-    {
-      "name": "Why Do Vertebrates Have Decussated Corticospinal Tracts?",
-      "publisher": "Junior Science and Humanities Symposium, San Francisco State University",
-      "releaseDate": "2025-02-28",
-      "url": "https://adamcheong.com/assets/pdf/Cheong_Adam_Paper.pdf",
       "summary": "A comparative study of morphological models from ancient marine worms to the first fish inside an aquarium."
     }
   ],

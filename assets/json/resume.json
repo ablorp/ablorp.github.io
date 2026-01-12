@@ -255,9 +255,10 @@
   ],
   "courses": [
     {
-      "name": "Crash Course: Relativity",
+      "name": "Relativity: A Crash Course",
       "date": "2026-01",
       "issuer": "Proof School Intersession",
+      "url": "https://drive.google.com/drive/folders/1ZJioe2eRTMvCWTX6libk_fuE_92dcDlt?usp=drive_link",
       "icon": "fa-solid fa-rocket"
     },
     {

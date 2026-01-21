@@ -70,8 +70,8 @@
       "url": "https://watneyrobotics.com",
       "startDate": "2023-07",
       "endDate": "2027-06",
-      "summary": "Assemble robot arms and controllers that allow humans from halfway around the world to teleoperate a robot; perform data labeling and train machine learning models.",
-      "highlights": ["CAD Modeling with Onshape", "Robot Arm Controller Assembly", "Data Labeling & ML Models Training"]
+      "summary": "Use Onshape CAD tool to build server rack peripherals; prototype wire harness; assemble robot arms and controllers that allow humans from halfway around the world to teleoperate a robot; train machine learning models.",
+      "highlights": ["CAD Modeling with Onshape", "Wire Harness Prototyping", "Robot Arm Controller Assembly", "ML Models Training"]
     }
   ],
   "volunteering": [

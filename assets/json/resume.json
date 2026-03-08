@@ -220,7 +220,7 @@
   "projects": [
     {
       "name": "How Cancer Cells Undergoing a Treatment Course Evolve to Survive Multiple Mass Extinctions",
-      "summary": "A study of cancer cells population dynamics driven by tumor growth vs. dose response within a press-pulse framework with the added complexity of somatic mutation across treatment cycles.",
+      "summary": "A study of cancer cells population dynamics driven by tumor growth vs. dose response within a press-pulse framework but with the added complexity of somatic mutation across treatment cycles.",
       "highlights": ["Mathematical Oncology", "Press-Pulse", "Mass Extinction"],
       "startDate": "2026-01",
       "endDate": "2026-12",

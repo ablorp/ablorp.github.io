@@ -24,11 +24,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-A high school student with a strong interest in biomechanical engineering and robotics, Adam interns at a seed-stage [robotics startup](https://watneyrobotics.com) in San Francisco from day one. Adam is a member of the [Masason Foundation](https://masason-foundation.org/en/scholars/?scholar_id=131274). Adam's [science projects](https://adamcheong.com/projects/) since 7th grade, from hydroponics to computational biology, have won STEM fair awards every year.
+A high school student with a strong interest in biomechanical engineering and robotics, Adam interns at a seed-stage [robotics startup](https://watneyrobotics.com) in San Francisco from day one. Adam's [science projects](https://adamcheong.com/projects/) since 7th grade, from hydroponics to computational biology, have won STEM fair awards every year. Adam is currently a member of the [Masason Foundation](https://masason-foundation.org/en/scholars/?scholar_id=131274).
 
 Adam has taken a rigorous [computer science course](https://classes.berkeley.edu/content/2025-summer-compsci-61a-001-lec-001) at UC Berkeley as a pre-college scholar. He'll be residing at [Bowles Hall](https://www.bowleshall.org/) and taking CS classes this summer. Adam enjoys the great outdoors; he is a certified scuba diver, an avid hiker and an alpinist.
 
-Adam is skilled at bouldering, a twice weekly routine that combines puzzle solving with physical feats to chart a navigable course on the vertical face of a wall — exercising both brain and brawn. Adam plans to attend the [iGEM Jamboree](https://jamboree.igem.org/2026), and aspires to become a biomedical engineer harnessing AI and robotics for the betterment of humankind.
+Adam is skilled at bouldering, a twice weekly routine that combines puzzle solving with physical feats to chart a navigable course on the vertical face of a wall — exercising both brain and brawn. Adam shall attend the [iGEM Jamboree](https://jamboree.igem.org/2026), and aspires to become a biomedical engineer harnessing AI and robotics for the betterment of humankind.
 
 ---
 
@@ -59,5 +59,5 @@ Adam is skilled at bouldering, a twice weekly routine that combines puzzle solvi
 ---
 
 <div class="caption">
-    【 <a href="https://youtu.be/cUytpLkByp4?t=2s"></a><a href="https://adamcheong.com/assets/pdf/%E3%80%90Adam%20Cheong%E3%80%91Presentation.pdf">📝</a>】
+    【 <a href="https://youtu.be/cUytpLkByp4?t=2s"></a><a href="https://adamcheong.com/assets/pdf/%E3%80%90Adam%20Cheong%E3%80%91Presentation.pdf">📝</a> 】
 </div>

@@ -28,16 +28,16 @@ A high school student with a strong interest in biomechanical engineering and ro
 
 Adam has taken a rigorous [computer science course](https://classes.berkeley.edu/content/2025-summer-compsci-61a-001-lec-001) at UC Berkeley as a pre-college scholar. He'll be residing at [Bowles Hall](https://www.bowleshall.org/) and taking CS classes this summer. Adam enjoys the great outdoors; he is a certified scuba diver, an avid hiker and an alpinist.
 
-Adam is skilled at bouldering, a twice weekly routine that combines puzzle solving with physical feats to chart a navigable course on the vertical face of a wall — exercising both brain and brawn. Adam plans to earn a [pilot license](https://flystanford.com) before heading out to college, and aspires to become a biomedical engineer harnessing AI and robotics for the betterment of humankind.
+Adam is skilled at bouldering, a twice weekly routine that combines puzzle solving with physical feats to chart a navigable course on the vertical face of a wall — exercising both brain and brawn. Adam plans to attend the [iGEM Jamboree](https://jamboree.igem.org/2026), and aspires to become a biomedical engineer harnessing AI and robotics for the betterment of humankind.
 
 ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/soldering_a.jpg" title="robotics" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/cliffhanger_ggsf_a.jpg" title="science fair" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/cliffhanger_ggsf_a.jpg" title="science fair" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/soldering_a.jpg" title="robotics" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/scuba_a.jpg" title="scuba diving" class="img-fluid rounded z-depth-1" %}

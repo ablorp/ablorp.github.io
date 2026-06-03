@@ -28,7 +28,7 @@ A high school student with a strong interest in biomechanical engineering and ro
 
 Adam has taken a rigorous [computer science course](https://classes.berkeley.edu/content/2025-summer-compsci-61a-001-lec-001) at UC Berkeley as a pre-college scholar. This summer, he'll reside at [Bowles Hall](https://www.bowleshall.org/) while taking additional [CS](https://classes.berkeley.edu/content/2026-summer-compsci-61bl-001-lec-001) and [data science](https://classes.berkeley.edu/content/2026-summer-data-c8-001-lec-001) classes. Adam enjoys the great outdoors. He's a certified scuba diver as well as avid alpinist who has summited Mt. Shasta, Mt. Hood, and the Brokeoff Mountain.
 
-Adam is skilled at bouldering; his twice weekly routine combines puzzle solving with physical feats to chart a navigable course on the vertical face of a wall — exercising brain and brawn. Adam aspires to become a biomedical engineer harnessing AI and robotics for the betterment of humankind; he looks forward to [iGEM 2026 Jamboree](https://jamboree.igem.org/2026).
+Adam is skilled at bouldering; his twice weekly routine combines puzzle solving with physical feats to chart a navigable course on the vertical face of a wall — exercising brain and brawn. Adam aspires to become a biomedical engineer harnessing AI and robotics for the betterment of humankind. He looks forward to [iGEM 2026 Jamboree](https://jamboree.igem.org/2026).
 
 ---
 

@@ -6,7 +6,7 @@ subtitle: <a href="https://proofschool.org">Proof School</a> | San Francisco, Ca
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: proof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: # <p>adam@cheong.net</p>
 

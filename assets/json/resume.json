@@ -119,7 +119,7 @@
       "awarder": "Physics C: Electricity and Magnetism, Statistics, Calculus BC, Physics C: Mechanics, Chemistry, and Biology",
       "url": "https://adamcheong.com/assets/pdf/APScholar (Distinction).pdf",
       "summary": "Recognizes exemplary college-level achievement, having attained a score of 4 or 5 on six AP exams taken."
-    }
+    },
     {
       "title": "Ellison Scholar (Semi-Finalist)",
       "date": "2026",
@@ -293,6 +293,11 @@
       "name": "BioCurious Lab",
       "icon": "fa-solid fa-microscope",
       "keywords": ["(2026—present) Student member of world's largest community lab space for biology, located in the heart of Silicon Valley."]
+    },
+    {
+      "name": "Biomedical Engineering Society",
+      "icon": "fa-solid fa-dna",
+      "keywords": ["(2026—present) Student member of a biomedical engineering community of 6,000 researchers, educators, and industry professionals."]
     },
     {
       "name": "Genetics Society of America",

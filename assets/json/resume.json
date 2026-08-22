@@ -305,14 +305,14 @@
       "keywords": ["(2025—present) Student member of an international community of 6,000 biologists from 50 countries advancing the field of genetics."]
     },
     {
-      "name": "Berkeley Math Circle",
-      "icon": "fa-solid fa-building-columns",
-      "keywords": ["(2015–2025) Intermediate level II member; attend evening math lectures by professors at UC Berkeley campus every Wednesday."]
-    },
-    {
       "name": "Benchmark Climbing / Dogpatch Boulders / Hyperion Climbing",
       "icon": "fa-solid fa-person-hiking",
       "keywords": ["(2023–present) Member of afterschool climbing club; practice 2 to 3 times a week at indoor bouldering gyms around the Bay Area."]
+    },
+    {
+      "name": "24 Hour Fitness",
+      "icon": "fa-solid fa-dumbbell",
+      "keywords": ["(2024–present) Member of a neighborhood gym where I workout regularly in the evenings and on weekends."]
     },
     {
       "name": "Clock Tower Music",
@@ -320,9 +320,9 @@
       "keywords": ["(2023–present) Taking guitar lessons with a local musician afterschool; practice new songs in the evenings."]
     },
     {
-      "name": "24 Hour Fitness",
-      "icon": "fa-solid fa-dumbbell",
-      "keywords": ["(2024–present) Member of a neighborhood gym where I workout regularly in the evenings and on weekends."]
+      "name": "Berkeley Math Circle",
+      "icon": "fa-solid fa-building-columns",
+      "keywords": ["(2015–2025) Intermediate level II member; attend evening math lectures by professors at UC Berkeley campus every Wednesday."]
     }
   ],
   "courses": [

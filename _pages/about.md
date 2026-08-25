@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-A high school student with a strong interest in biomechanical engineering and robotics, Adam interns at a [robotics startup](https://watneyrobotics.com) in San Francisco from day one. Adam's [science projects](https://adamcheong.com/projects/) since 7th grade, from hydroponics to computational biology, have won multiple STEM fair awards. Adam has been a member of the [Masason Foundation](https://masason-foundation.org/en/scholars/?scholar_id=131274) since 2025.
+A high school senior with a strong interest in biomechanical engineering and robotics, Adam interns at a [robotics startup](https://watneyrobotics.com) in San Francisco from day one. Adam's [science projects](https://adamcheong.com/projects/) since 7th grade, from hydroponics to computational biology, have won multiple STEM fair awards. Adam has been a member of the [Masason Foundation](https://masason-foundation.org/en/scholars/?scholar_id=131274) since 2025.
 
 As a pre-college scholar, Adam has taken rigorous undergraduate courses in: [program structure](https://classes.berkeley.edu/content/2025-summer-compsci-61a-001-lec-001), [data structure](https://classes.berkeley.edu/content/2026-summer-compsci-61bl-001-lec-001) and [data science](https://classes.berkeley.edu/content/2026-summer-data-c8-001-lec-001) at UC Berkeley over the past two summers. Adam enjoys the great outdoors — a certified scuba diver and avid alpinist who has summited Mt. Fuji and Mt. Shasta after hiking Mt. Hood and the Brokeoff Mountain.
 

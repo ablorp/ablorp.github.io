@@ -247,27 +247,43 @@
   "projects": [
     {
       "name": "How to Train Your C. Elegans: Inducing Thermotaxis Behavior in a Digitally Simulated Worm",
-      "summary": "An OpenWorm simulation of C. elegans with the connectome to faithfully reproduce biomechanical behavior such as thermotaxis.",
-      "highlights": ["Computational Biology", "OpenWorm", "C. Elegans"],
+      "summary": "An OpenWorm simulation of C. elegans, with all of its 302 biological neurons in the connectome surgically replaced by artificial neurons, trained to faithfully reproduce biomechanical behavior such as thermotaxis.",
+      "highlights": ["Neuroscience", "OpenWorm", "C. Elegans"],
       "startDate": "2026-08",
       "endDate": "2026-12",
       "url": "https://www.societyforscience.org/regeneron-sts/"
     },
     {
+      "name": "The Cluck is Ticking: A color-changing biosensor to indicate spoiled meat",
+      "summary": "A team project participated by students from 9 Bay Area high schools for the iGEM competition to engineer a biosensor that responds to rising level of cadaverine, an organic compound from decomposing meat, by producing a blue chromoprotein.",
+      "highlights": ["Biosensor", "Cadaverine", "Blue Chromoprotein"],
+      "startDate": "2026-11",
+      "endDate": "2026-01",
+      "url": "https://youtu.be/rgisGI0LNps"
+    },
+    {
       "name": "How Cancer Cells Undergoing a Treatment Course Evolve to Survive Multiple Mass Extinctions",
-      "summary": "A study of cancer cells population dynamics driven by tumor growth vs. dose response within a press-pulse framework but with the added complexity of somatic mutation across treatment cycles.",
+      "summary": "A proposed study (in collaboration with two student researchers) of cancer cells population dynamics driven by tumor growth vs. dose response within a press-pulse framework but with the added complexity of somatic mutation across treatment cycles.",
       "highlights": ["Mathematical Oncology", "Press-Pulse", "Mass Extinction"],
       "startDate": "2026-01",
-      "endDate": "2026-06",
+      "endDate": "2026-04",
       "url": "https://adamcheong.com/assets/pdf/PEQG-2026 Presentation.pdf"
     },
     {
       "name": "Monte Carlo Simulation of Somatic Twist in Ancient Marine Worms",
-      "summary": "Research Purpose: run Monte Carlo simulation to recreate evolutionary events inside a computer and see how the first digital worm evolves in silico to become the ‘first fish’ with a dorsoventrally inverted body plan after a somatic twist.",
+      "summary": "Monte Carlo simulation attempt to recreate evolutionary events inside a computer and see how the first digital worm evolves in silico to become the ‘first fish’ with a dorsoventrally inverted body plan after a somatic twist.",
       "highlights": ["Computational Biology", "OpenWorm", "Sybernetic"],
       "startDate": "2025-01",
-      "endDate": "2025-12",
+      "endDate": "2025-04",
       "url": "https://adamcheong.com/assets/pdf/IWM-2025 Presentation.pdf"
+    },
+    {
+      "name": "Why Do Vertebrates Have Decussated Corticospinal Tracts?",
+      "summary": "A comparative study of morphological models from ancient marine worms to the first fish inside an aquarium.",
+      "highlights": ["Decussation", "Corticospinal Tracts", "Dorsoventral Inversion"],
+      "startDate": "2024-01",
+      "endDate": "2024-03",
+      "url": "https://adamcheong.com/assets/pdf/A Twist on Decussation—JSHS 2025-Poster.pdf"
     },
     {
       "name": "The Cliffhanger Project",
@@ -284,7 +300,7 @@
       "publisher": "Regeneron Science Talent Search 2027",
       "releaseDate": "2026-11-05",
       "url": "https://www.societyforscience.org/regeneron-sts/",
-      "summary": "An OpenWorm simulation of C. elegans with the connectome to faithfully reproduce biomechanical behavior such as thermotaxis."
+      "summary": "An OpenWorm simulation of C. elegans with a bionic connectome to faithfully reproduce biomechanical behavior such as thermotaxis."
     },
     {
       "name": "Why Do Vertebrates Have Decussated Corticospinal Tracts?",
@@ -503,7 +519,7 @@
     {
       "name": "Dr. Michael Yetman",
       "icon": "fa-solid fa-microscope",
-      "reference": "Director of Science Curricula and Programs, Proof School"
+      "reference": "Director of Science Programs, Proof School"
     },
     {
       "name": "Ryan Gannon",

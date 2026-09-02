@@ -181,6 +181,13 @@
   ],
   "science fairs": [
     {
+      "title": "Regeneron Science Talent Search 2027",
+      "date": "2026-11",
+      "awarder": "Society for Science",
+      "url": "https://www.societyforscience.org/regeneron-sts/",
+      "summary": "How to Train Your C. Elegans: Inducing Thermotaxis Behavior in a Digitally Simulated Worm."
+    },
+    {
       "title": "2026 International Genetically Engineered Machine (iGEM) Competition",
       "date": "2026-11",
       "awarder": "iGEM Competition for High School Teams (Paris Grand Jamboree)",
@@ -239,11 +246,19 @@
   ],
   "projects": [
     {
+      "name": "How to Train Your C. Elegans: Inducing Thermotaxis Behavior in a Digitally Simulated Worm",
+      "summary": "An OpenWorm simulation of C. elegans with the connectome to faithfully reproduce biomechanical behavior such as thermotaxis.",
+      "highlights": ["Computational Biology", "OpenWorm", "C. Elegans"],
+      "startDate": "2026-08",
+      "endDate": "2026-12",
+      "url": "https://www.societyforscience.org/regeneron-sts/"
+    },
+    {
       "name": "How Cancer Cells Undergoing a Treatment Course Evolve to Survive Multiple Mass Extinctions",
       "summary": "A study of cancer cells population dynamics driven by tumor growth vs. dose response within a press-pulse framework but with the added complexity of somatic mutation across treatment cycles.",
       "highlights": ["Mathematical Oncology", "Press-Pulse", "Mass Extinction"],
       "startDate": "2026-01",
-      "endDate": "2026-12",
+      "endDate": "2026-08",
       "url": "https://adamcheong.com/assets/pdf/PEQG-2026 Presentation.pdf"
     },
     {
@@ -265,6 +280,13 @@
   ],
   "papers": [
     {
+      "name": "How to Train Your C. Elegans: Inducing Thermotaxis Behavior in a Digitally Simulated Worm",
+      "publisher": "Regeneron Science Talent Search 2027",
+      "releaseDate": "2026-11-05",
+      "url": "https://www.societyforscience.org/regeneron-sts/",
+      "summary": "An OpenWorm simulation of C. elegans with the connectome to faithfully reproduce biomechanical behavior such as thermotaxis."
+    },
+    {
       "name": "Why Do Vertebrates Have Decussated Corticospinal Tracts?",
       "publisher": "Junior Science and Humanities Symposium, San Francisco State University",
       "releaseDate": "2025-02-28",
@@ -273,6 +295,13 @@
     }
   ],
   "posters": [
+    {
+      "name": "How Cancer Cells Undergoing a Treatment Course Evolve to Survive Multiple Mass Extinctions",
+      "publisher": "Biomedical Engineering Society 2026 Annual Meeting",
+      "releaseDate": "2026-11-24",
+      "url": "https://www.bmes.org/2026/annualmeeting",
+      "summary": "A study of cancer cells population dynamics driven by tumor growth vs. dose response within a press-pulse framework."
+    },
     {
       "name": "How Cancer Cells Undergoing a Treatment Course Evolve to Survive Multiple Mass Extinctions",
       "publisher": "2026 Population, Evolutionary, and Quantitative Genetics Conference, Asilomar Conference Grounds",

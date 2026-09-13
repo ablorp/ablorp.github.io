@@ -195,7 +195,7 @@
       "date": "2026-11",
       "awarder": "Society for Science",
       "url": "https://www.societyforscience.org/regeneron-sts/",
-      "summary": "How to Train Your C. Elegans: Inducing Thermotaxis Behavior in a Digitally Simulated Worm."
+      "summary": "How to Train Your C. Elegans: Inducing Thermotactic Behavior in a Digitally Simulated Worm."
     },
     {
       "title": "2026 International Genetically Engineered Machine (iGEM) Competition",
@@ -256,11 +256,11 @@
   ],
   "papers": [
     {
-      "name": "How to Train Your C. Elegans: Inducing Thermotaxis Behavior in a Digitally Simulated Worm",
+      "name": "How to Train Your C. Elegans: Inducing Thermotactic Behavior in a Digitally Simulated Worm",
       "publisher": "Regeneron Science Talent Search 2027",
       "releaseDate": "2026-11-05",
       "url": "https://www.societyforscience.org/regeneron-sts/",
-      "summary": "An OpenWorm simulation of C. elegans with a bionic connectome to faithfully reproduce biomechanical behavior such as thermotaxis."
+      "summary": "An OpenWorm simulation of C. elegans with an instrumented connectome to faithfully reproduce biomechanical behavior such as thermotaxis."
     },
     {
       "name": "Why Do Vertebrates Have Decussated Corticospinal Tracts?",
@@ -302,8 +302,8 @@
   ],
   "projects": [
     {
-      "name": "How to Train Your C. Elegans: Inducing Thermotaxis Behavior in a Digitally Simulated Worm",
-      "summary": "An OpenWorm simulation of C. elegans, with all of its 302 biological neurons in the connectome surgically replaced by artificial neurons, trained to faithfully reproduce biomechanical behavior such as thermotaxis.",
+      "name": "How to Train Your C. Elegans: Inducing Thermotactic Behavior in a Digitally Simulated Worm",
+      "summary": "An OpenWorm simulation of C. elegans, within an experimental setup for studying a well-chosen subset of its neurons in the connectome, trained to faithfully reproduce biomechanical behavior such as thermotaxis.",
       "highlights": ["Neuroscience", "OpenWorm", "C. Elegans"],
       "startDate": "2026-08",
       "endDate": "2026-12",

@@ -58,6 +58,3 @@ Adam is skilled at bouldering; his twice weekly routine combines puzzle solving 
 
 ---
 
-<div class="caption">
-    【 <a href="https://youtu.be/cUytpLkByp4?t=2s"></a><a href="https://adamcheong.com/assets/pdf/%E3%80%90Adam%20Cheong%E3%80%91Presentation.pdf">📝</a> 】
-</div>

@@ -191,10 +191,10 @@
   ],
   "science fairs": [
     {
-      "title": "Regeneron Science Talent Search 2027",
-      "date": "2026-11",
-      "awarder": "Society for Science",
-      "url": "https://www.societyforscience.org/regeneron-sts/",
+      "title": "˜Neuroscience Project (in Progress), Biological Sciences",
+      "date": "2027-02",
+      "awarder": "12th Grade, Golden Gate STEM Fair (GGSF)",
+      "url": "https://adamcheong.com/assets/pdf/The Adam OpenWorm Project.pdf",
       "summary": "How to Train Your C. Elegans: Inducing Thermotactic Behavior in a Digitally Simulated Worm."
     },
     {
@@ -257,10 +257,10 @@
   "papers": [
     {
       "name": "How to Train Your C. Elegans: Inducing Thermotactic Behavior in a Digitally Simulated Worm",
-      "publisher": "Regeneron Science Talent Search 2027",
-      "releaseDate": "2026-11-05",
-      "url": "https://www.societyforscience.org/regeneron-sts/",
-      "summary": "An OpenWorm simulation of C. elegans with an instrumented connectome to faithfully reproduce biomechanical behavior such as thermotaxis."
+      "publisher": "Golden Gate STEM Fair 2027",
+      "releaseDate": "2027-02-28",
+      "url": "https://adamcheong.com/assets/pdf/The Adam OpenWorm Project.pdf",
+      "summary": "An OpenWorm simulation of C. elegans with an instrumented connectome to faithfully reproduce full biomechanical thermotactic behavior."
     },
     {
       "name": "Why Do Vertebrates Have Decussated Corticospinal Tracts?",
@@ -275,7 +275,7 @@
       "name": "How Cancer Cells Undergoing a Treatment Course Evolve to Survive Multiple Mass Extinctions",
       "publisher": "Biomedical Engineering Society 2026 Annual Meeting",
       "releaseDate": "2026-11-24",
-      "url": "https://www.bmes.org/2026/annualmeeting",
+      "url": "https://adamcheong.com/assets/pdf/BMES-2026 Acceptance.pdf",
       "summary": "A study of cancer cells population dynamics driven by tumor growth vs. dose response within a press-pulse framework."
     },
     {
@@ -306,8 +306,8 @@
       "summary": "An OpenWorm simulation of C. elegans, within an experimental setup for studying a well-chosen subset of its neurons in the connectome, trained to faithfully reproduce biomechanical behavior such as thermotaxis.",
       "highlights": ["Neuroscience", "OpenWorm", "C. Elegans"],
       "startDate": "2026-08",
-      "endDate": "2026-12",
-      "url": "https://www.societyforscience.org/regeneron-sts/"
+      "endDate": "2027-05",
+      "url": "https://adamcheong.com/assets/pdf/The Adam OpenWorm Project.pdf"
     },
     {
       "name": "The Cluck is Ticking: A Color-Changing Biosensor to Indicate Spoiled Meat",
@@ -372,14 +372,14 @@
       "keywords": ["(2023–present) Member of afterschool climbing club; practice 2 to 3 times a week at indoor bouldering gyms around the Bay Area."]
     },
     {
+      "name": "Berkeley Scuba Club",
+      "icon": "fa-solid fa-fish-fins",
+      "keywords": ["(2023–present) PADI-certified advanced open water diver with over 50 dives off Catalina Island and Monterey Bay."]
+    },
+    {
       "name": "24 Hour Fitness",
       "icon": "fa-solid fa-dumbbell",
       "keywords": ["(2024–present) Member of a neighborhood gym where I workout regularly in the evenings and on weekends."]
-    },
-    {
-      "name": "Clock Tower Music",
-      "icon": "fa-solid fa-guitar",
-      "keywords": ["(2023–present) Taking guitar lessons with a local musician afterschool; practice new songs in the evenings."]
     },
     {
       "name": "Berkeley Math Circle",

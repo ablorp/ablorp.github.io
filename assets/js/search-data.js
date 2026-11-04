@@ -35,8 +35,8 @@ ninja.data = [{
           description: "autonomous physical infrastructure",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-openworm-training",
-          title: '🪱 openworm training',
+            },},{id: "projects-openworm",
+          title: '🪱 openworm',
           description: "how to train your C. elegans",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";

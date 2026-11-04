@@ -4,7 +4,7 @@ title: 🍓 hydroponics
 description: set up vertical farming @ Berkeley
 img: assets/img/teleoperation_a.jpg
 importance: 1
-category: quest
+category: side quest
 ---
 
 Our paths converged because we have a shared interest in: 🍓 hydroponics and robotics 🦾

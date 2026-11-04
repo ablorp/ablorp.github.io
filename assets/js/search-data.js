@@ -36,8 +36,8 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-fold-fold-fold",
-          title: '🦾 fold,fold,fold!',
-          description: "dynamic duo working night shifts",
+          title: '🪱 fold,fold,fold!',
+          description: "how to train your C. elegans",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-hydroponics",

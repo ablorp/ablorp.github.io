@@ -30,14 +30,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "projects-watney-robotics",
-          title: 'watney robotics',
-          description: "autonomous physical infrastructure",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-openworm",
+        },{id: "projects-openworm",
           title: '🪱 openworm',
           description: "how to train your C. elegans",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_project/";
+            },},{id: "projects-watney-robotics",
+          title: 'watney robotics',
+          description: "autonomous physical infrastructure",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-hydroponics",

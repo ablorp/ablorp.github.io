@@ -4,7 +4,7 @@ title: 🧗‍♂️ cliffhanger
 description: dynamically stable mechanical mountain climbing aid by design
 img: assets/img/cliffhanger_asimo.gif
 redirect: https://youtu.be/0NGo5p9WzkI
-importance: 3
+importance: 1
 category: fun stuff
 ---
 

@@ -3,7 +3,7 @@ layout: page
 title: 🍓 hydroponics
 description: set up vertical farming @ Berkeley
 img: assets/img/teleoperation_a.jpg
-importance: 1
+importance: 2
 category: side quests
 ---
 

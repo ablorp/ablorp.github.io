@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 🪱 fold,fold,fold!
+title: 🪱 openworm training
 description: how to train your C. elegans
 img: assets/img/publication_preview/worm_crawling.gif
 importance: 1

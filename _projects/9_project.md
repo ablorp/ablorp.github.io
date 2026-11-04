@@ -5,7 +5,7 @@ description: test driving my eldest brother's creation from a young age
 img: assets/img/go_kart_a.jpg
 redirect: https://youtu.be/vsx4GC0iQ0M
 importance: 4
-category: fun
+category: fun stuff
 ---
 
 Every project has a beautiful feature showcase page.

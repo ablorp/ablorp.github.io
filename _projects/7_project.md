@@ -5,7 +5,7 @@ description: dynamically stable mechanical mountain climbing aid by design
 img: assets/img/cliffhanger_asimo.gif
 redirect: https://youtu.be/0NGo5p9WzkI
 importance: 3
-category: fun
+category: fun stuff
 ---
 
 Every project has a beautiful feature showcase page.

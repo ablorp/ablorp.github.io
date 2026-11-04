@@ -5,7 +5,7 @@ description: dynamically stable mechanical mountain climbing aid by design
 img: assets/img/climbing_asimo.jpg
 redirect: https://adamcheong.com/assets/pdf/The%20Adam%20Cliffhanger%20Project%E2%80%94GGSF%202023.pdf
 importance: 2
-category: explore
+category: stem fairs
 ---
 
 Every project has a beautiful feature showcase page.

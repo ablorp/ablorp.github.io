@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of cool projects in science and engineering.
 nav: true
 nav_order: 3
-display_categories: [side quest, explore stem, fun stuff]
+display_categories: [side quests, stem fairs, fun stuff]
 horizontal: false
 ---
 

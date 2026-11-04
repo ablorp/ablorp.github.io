@@ -4,7 +4,7 @@ title: 🪱 fold,fold,fold!
 description: how to train your C. elegans
 img: assets/img/publication_preview/worm_crawling.gif
 importance: 1
-category: side quest
+category: side quests
 ---
 
 Every project has a beautiful feature showcase page.

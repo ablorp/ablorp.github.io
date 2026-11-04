@@ -4,7 +4,7 @@ title: watney robotics
 description: autonomous physical infrastructure
 img: assets/img/soldering.jpg
 importance: 1
-category: side quest
+category: side quests
 ---
 
 My brother's big adventure in embodied AI — so glad we could be on this quest together!

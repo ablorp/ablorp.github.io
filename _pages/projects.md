@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of cool projects in science and engineering.
 nav: true
 nav_order: 3
-display_categories: [work, explore, fun]
+display_categories: [quest, explore, fun]
 horizontal: false
 ---
 

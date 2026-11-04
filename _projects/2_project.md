@@ -1,9 +1,8 @@
 ---
 layout: page
-title: 🦾 fold,fold,fold!
-description: dynamic duo working night shifts
-img: assets/img/fold.gif
-redirect: https://youtu.be/ZiD1envG_QU
+title: 🪱 fold,fold,fold!
+description: how to train your C. elegans
+img: assets/img/publication_preview/worm_crawling.gif
 importance: 1
 category: work
 ---

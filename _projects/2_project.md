@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 🪱 openworm training
+title: 🪱 openworm
 description: how to train your C. elegans
 img: assets/img/publication_preview/worm_crawling.gif
 importance: 1

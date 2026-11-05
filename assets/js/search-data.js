@@ -76,10 +76,10 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{id: "projects-openworm",
-          title: '🪱 openworm',
+          title: '🪱 openworm ⏳',
           description: "simulate biomechanical behaviors",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/openworm/";
+              window.location.href = "/projects/ongoing/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',

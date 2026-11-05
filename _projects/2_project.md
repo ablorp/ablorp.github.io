@@ -1,7 +1,7 @@
 ---
 layout: page
 title: watney robotics
-description: autonomous physical infrastructure
+description: founding intern since 2023
 img: assets/img/soldering.jpg
 importance: 1
 category: side quests

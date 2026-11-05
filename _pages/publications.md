@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: conferences
 description: Poster sessions and conference papers in reverse chronological order.
 nav: true
 nav_order: 2

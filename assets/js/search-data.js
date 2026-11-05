@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-conferences",
           title: "conferences",
-          description: "Poster sessions and conference papers in reverse chronological order.",
+          description: "Conferences, meetings and symposiums I&#39;ve attended in the past.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/conferences/";

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 🍓 hydroponics
-description: start a vertical farm @ Berkeley
+description: started a vertical farm @ Berkeley
 img: assets/img/teleoperation_a.jpg
 importance: 2
 category: side quests

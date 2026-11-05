@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 🪱 openworm
-description: how to train your C. elegans
+description: simulate c. elegans biomechanically
 img: assets/img/publication_preview/worm_crawling.gif
 importance: 1
 category: side quests

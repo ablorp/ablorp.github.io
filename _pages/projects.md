@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of cool projects in science and engineering.
+description: A cool collection of hot projects in science and engineering — past and present.
 nav: true
 nav_order: 3
 display_categories: [side quests, stem fairs, fun stuff]

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 🪱 openworm
+title: 🪱 openworm ⏳
 description: simulate biomechanical behaviors
 img: assets/img/publication_preview/worm_crawling.gif
 importance: 1

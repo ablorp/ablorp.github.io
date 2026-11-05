@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /publications/
+permalink: /conferences/
 title: conferences
 description: Poster sessions and conference papers in reverse chronological order.
 nav: true

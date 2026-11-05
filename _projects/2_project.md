@@ -10,10 +10,10 @@ category: side quests
 Watney's big adventure: going from strawberry farm to server farms with four nines reliability round the clock.
 
 <div class="row">
-    <div class="col-sm-9 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/watney_cabling.avif" title="Watney cabling at server farm" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-3 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/watney_learning.jpg" title="Teaching Watney" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

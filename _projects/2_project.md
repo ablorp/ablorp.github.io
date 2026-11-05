@@ -18,7 +18,7 @@ Watney's big adventure: going from strawberry farm to server farms with four nin
     </div>
 </div>
 <div class="caption">
-    (left) Introducing Watney to server farms at the world's largest hyperscalers; (right) Teaching Watney how to plug in cables (circa Dec 2024).
+    (left) Introducing Watney to server farms; (right) Teaching Watney new cabling skills (circa Dec 2024).
 </div>
 
 <div class="row">

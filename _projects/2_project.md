@@ -18,7 +18,7 @@ Watney's big adventure: going from one strawberry farm to server farms everywher
     </div>
 </div>
 <div class="caption">
-    (left) Watney goes to work at data centers; (right) Watney learning new cabling skills (circa Dec 2024).
+    Watney goes to work at data centers after learning new cabling skills (circa Dec 2024).
 </div>
 
 <div class="row">

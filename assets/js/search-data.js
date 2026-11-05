@@ -37,7 +37,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-watney-robotics",
           title: 'watney robotics',
-          description: "🦾 founding intern since 9th grade",
+          description: "🦾  founding intern since 9th grade",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-hydroponics",

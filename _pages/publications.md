@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /conferences/
+permalink: /publications/
 title: conferences
 description: Poster sessions and conference papers in reverse chronological order.
 nav: true
@@ -13,7 +13,7 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
-<div class="conferences">
+<div class="publications">
 
 {% bibliography %}
 

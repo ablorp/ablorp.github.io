@@ -7,7 +7,19 @@ importance: 1
 category: side quests
 ---
 
-My brother's big adventure in embodied AI — so glad we could be on this quest together!
+Watney's big adventure: going from strawberry farm to server farms with four nines reliability round the clock.
+
+<div class="row">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/watney_cabling.avif" title="Watney cabling at server farm" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/watney_learning.jpg" title="Teaching Watney" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    (left) Introducing Watney to server farms at the world's largest hyperscalers; (right) Teaching Watney how to plug in cables (circa Dec 2024).
+</div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -38,7 +50,7 @@ My brother's big adventure in embodied AI — so glad we could be on this quest 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/closing_the_loop_teeniest.gif" title="Watney Robotics @ Berkeley" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/closing_the_loop_teeniest.gif" title="Watney Robotics at Berkeley" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -47,10 +59,10 @@ My brother's big adventure in embodied AI — so glad we could be on this quest 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/playground_20180507.jpg" title="Playground" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/playground_20180507.jpg" title="Playground Global" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/berkeley_20180511.jpg" title="TechCrunch" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/berkeley_20180511.jpg" title="TechCrunch Robotics Berkeley" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

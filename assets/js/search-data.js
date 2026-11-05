@@ -14,7 +14,7 @@ ninja.data = [{
           description: "Poster sessions and conference papers in reverse chronological order.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/publications/";
+            window.location.href = "/conferences/";
           },
         },{id: "nav-projects",
           title: "projects",

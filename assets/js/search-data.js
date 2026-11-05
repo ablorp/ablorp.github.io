@@ -75,9 +75,9 @@ ninja.data = [{
           description: "test driving my eldest brother&#39;s creation from a young age",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "projects-openworm",
-          title: '🪱 openworm ⏳',
-          description: "simulate biomechanical behaviors",
+            },},{id: "projects-ongoing",
+          title: '⏳ ongoing',
+          description: "agentic workflow capture",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ongoing/";
             },},{

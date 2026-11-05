@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 🪱 openworm
-description: simulate c. elegans biomechanically
+description: simulate biomechanical behaviors
 img: assets/img/publication_preview/worm_crawling.gif
 importance: 1
 category: side quests

@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "projects-openworm",
           title: '🪱 openworm',
-          description: "how to train your C. elegans",
+          description: "simulate c. elegans biomechanically",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-watney-robotics",

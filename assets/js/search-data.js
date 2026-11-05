@@ -75,6 +75,11 @@ ninja.data = [{
           description: "test driving my eldest brother&#39;s creation from a young age",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-openworm",
+          title: '🪱 openworm',
+          description: "simulate biomechanical behaviors",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/openworm/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',

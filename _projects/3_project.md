@@ -59,7 +59,7 @@ Our paths converged because we have a shared interest in: 🍓 hydroponics and r
         {% include figure.liquid path="assets/img/sean_adam.jpg" title="My eldest brother and me" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/sean_bot44.jpg" title="Bot 44 and my eldest brother" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/sean_robot44.jpg" title="My eldest brother and Bot44" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

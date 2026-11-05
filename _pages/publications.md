@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Papers and essays in reversed chronological order.
+description: Poster sessions and conference papers in reverse chronological order.
 nav: true
 nav_order: 2
 ---

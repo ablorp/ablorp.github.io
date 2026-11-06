@@ -9,6 +9,8 @@ category: ongoing
 
 ---
 
+---
+
 **🪱 Training: in Progress**
 
 (2026 Nov 5)  🪱 Regeneron STS 2027 submission deadline passed; try to finish before GGSF drop-off (Feb 28, 2027).

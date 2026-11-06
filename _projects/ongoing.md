@@ -9,7 +9,7 @@ category: ongoing
 
 **OpenWorm Training (in Progress):**
 
-(2026 Nov 5)  Regeneron STS 2027 submission deadline passed; try to finish before GGSF drop-off (Feb 28, 2027).
+(2026 Nov 5)  🪱 Regeneron STS 2027 submission deadline passed; try to finish before GGSF drop-off (Feb 28, 2027).
 
 (2026 Nov 4)  🪱 movement: 5 secs of crawling <=> 14167 secs (~4hrs) of compute on MacBook Pro (M5 Max + 128 GB).
 
@@ -27,7 +27,15 @@ category: ongoing
 
 (2026 Oct 28) Dockerfile change: replace "ubuntu:24.04" (for x86_64) to "arm64v8/ubuntu:24.04" (for aarch64).
 
-(2026 Oct 28) Decided to run OpenWorm on native Apple arm64 CPU (instead of emulation of x86_64 code with Rosetta).
+(2026 Oct 28) Prepare to run OpenWorm on native Apple arm64 CPU (instead of emulation of x86_64 code with Rosetta).
+
+(2026 Sep 20) 🪱 Revised project proposal: construct "transducer" for AFD and monitor AFD-AIY connectivity.
+
+(2026 Sep 14) 🪱 Simplifying project proposal after extensive literature review.
+
+(2026 Sep 1)  🪱 Rough project proposal drafted (holes to be filled later).
+
+(2026 Aug 28) 🪱 Drafting started on a new project proposal.
 
 ---
 

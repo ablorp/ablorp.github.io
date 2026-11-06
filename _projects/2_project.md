@@ -45,7 +45,7 @@ Watney's big adventure: going from one strawberry farm to server farms everywher
     </div>
 </div>
 <div class="caption">
-    (left) Dynamic duo working night shifts (circa Nov 2024); (right) Dynamic duo working at our new SF Mission District offices (circa Jun 2024).
+    (left) Dynamic duo working night shifts (circa Nov 2024); (right) Dynamic duo moved to a live-work space in the Mission District (circa Jun 2024).
 </div>
 
 <div class="row">

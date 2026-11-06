@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A series of projects converging upon to biomechanical engineering and robotics.",
+          description: "A series of projects converging at biomechanical engineering and robotics.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -42,7 +42,7 @@ ninja.data = [{
               window.location.href = "/projects/2_project/";
             },},{id: "projects-hydroponics",
           title: '🍓 hydroponics',
-          description: "set up vertical farm at Berkeley",
+          description: "help setup vertical farm at Berkeley",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-monte-carlo",

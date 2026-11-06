@@ -7,7 +7,7 @@ importance: 1
 category: side quests
 ---
 
-🙋🏻‍♂️ **A neuroscience biomechanical simulation project proposal:**
+🙋🏻‍♂️ **A compute-intensive biomechanical behavioral simulation project proposal:**
 
 🧐 Target completion date: Feb 28, 2027 (<a href="https://ggstemfair.org/">GGSF</a> drop-off date).
 

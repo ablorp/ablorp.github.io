@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 🤖 ongoing
-description: agentic workflow capture
+description: 🪱 already in motion (on Nov 4): 5 secs of crawling required 14167 seconds (~4hrs) of simulation time on M5 Max chip
 img: assets/img/publication_preview/worm_crawling.gif
 importance: 1
 category: ongoing

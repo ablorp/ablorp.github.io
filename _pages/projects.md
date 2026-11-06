@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A collection of interesting STEM projects going back in time.
+description: A series of projects converging upon to biomechanical engineering and robotics.
 nav: true
 nav_order: 3
 display_categories: [side quests, stem fairs, fun stuff]

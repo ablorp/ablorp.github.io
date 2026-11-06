@@ -17,7 +17,7 @@ category: ongoing
 
 (2026 Nov 2)  Remove warning message for non-existent MVL24 (in 3rd muscle quadrant).
 
-(2026 Nov 1)  Dynamic linking issue for PoCL kernels (resolved): subprocess runtime environment for clang & aarch64.
+(2026 Nov 1)  Dynamic linking of PoCL kernel 'hashParticles' resolved: environ passed to clang subprocess on aarch64.
 
 (2026 Oct 30) Reconfigure makefile: now build Sibernetic using clang++ and OpenCL 1.2 (no GPU support for PoCL).
 

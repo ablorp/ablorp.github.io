@@ -1,13 +1,15 @@
 ---
 layout: page
 title: 🪱 training ⏳
-description: 🪱 in motion, finally...
+description: Already in motion 🪱 🔍 👀
 img: assets/img/publication_preview/worm_crawling.gif
 importance: 1
 category: ongoing
 ---
 
-**OpenWorm Training (in Progress):**
+---
+
+**🪱 Training: in Progress**
 
 (2026 Nov 5)  🪱 Regeneron STS 2027 submission deadline passed; try to finish before GGSF drop-off (Feb 28, 2027).
 
@@ -39,7 +41,7 @@ category: ongoing
 
 ---
 
-**OpenWorm Workflow (Edit-Debug Cycle):**
+**Workflow: Edit-Debug Cycle**
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -49,7 +51,7 @@ category: ongoing
 
 ---
 
-**OpenWorm Training Project Proposal (Revised):**
+**Project Proposal: Updated**
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

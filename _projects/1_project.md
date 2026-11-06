@@ -15,7 +15,7 @@ category: side quests
 
 😢 No GPU support for PoCL (OpenCL v1.2) from Apple, so kernel code runs only on CPU.
 
-🪱 movement: 5 secs of crawling <=> 14167 secs (~4hrs) of simulation.
+🪱 movement: 5 secs of crawling <=> 14167 secs (~4hrs) of simulation on MacBook Pro (M5 Max + 128 GB).
 
 🪱 crawling vs 💻 simulation: 3000x difference in time scale.
 

@@ -11,7 +11,7 @@ category: ongoing
 
 (2026 Nov 5)  Regeneron STS 2027 submission deadline passed; try to finish before GGSF drop-off (Feb 28, 2027).
 
-(2026 Nov 4)  🪱 movement: 5 secs of crawling <=> 14167 seconds (~4hrs) of compute on MacBook Pro (M5 Max + 128 GB).
+(2026 Nov 4)  🪱 movement: 5 secs of crawling <=> 14167 secs (~4hrs) of compute on MacBook Pro (M5 Max + 128 GB).
 
 (2026 Nov 3)  Dockerfile ready: simulation runs using image ("openworm/openworm") and container ("openworm_0.9.8").
 
@@ -28,6 +28,8 @@ category: ongoing
 (2026 Oct 28) Dockerfile change: replace "ubuntu:24.04" (for x86_64) to "arm64v8/ubuntu:24.04" (for aarch64).
 
 (2026 Oct 28) Decided to run OpenWorm on native Apple arm64 CPU (instead of emulation of x86_64 code with Rosetta).
+
+---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

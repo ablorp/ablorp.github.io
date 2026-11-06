@@ -7,11 +7,23 @@ importance: 1
 category: side quests
 ---
 
-A neuroscience biomechanical simulation project proposal. Target completion date: Feb 28, 2027 (<a href="https://ggstemfair.org/">GGSF</a> drop-off date).
+🙋🏻‍♂️ **A neuroscience biomechanical simulation project proposal:**
 
-Sibernetic now runs natively on Apple M5 chips, replacing Rosetta emulation of AMD64 code.
+🧐 Target completion date: Feb 28, 2027 (<a href="https://ggstemfair.org/">GGSF</a> drop-off date).
 
-No GPU support for PoCL (OpenCL v1.2) from Apple, so kernel code runs only on CPU.
+😊 Sibernetic now runs natively on Apple M5 chips, replacing Rosetta emulation of AMD64 code.
+
+😢 No GPU support for PoCL (OpenCL v1.2) from Apple, so kernel code runs only on CPU.
+
+🪱 movement: 5 secs of crawling <=> 14167 secs (~4hrs) of simulation.
+
+🪱 crawling vs 💻 simulation: 3000x difference in time scale.
+
+🪱 movement time realizable on: 1 MacBook Pro (M5 Max + 96 GB) + 1 MacMini (M5 Pro + 64 GB)?
+
+🤔 What are the odds of completing this project by Feb 28, 2027 target date?
+
+---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

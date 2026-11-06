@@ -7,7 +7,7 @@ importance: 1
 category: side quests
 ---
 
-Watney's big adventure: going from one strawberry farm to server farms everywhere with four nines reliability round the clock.
+Watney's adventure: from one strawberry farm in Berkeley to the largest server farms running on four nines round the clock.
 
 <div class="row">
     <div class="col-sm-8 mt-3 mt-md-0">

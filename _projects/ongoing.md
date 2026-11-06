@@ -27,7 +27,7 @@ category: ongoing
 
 (2026 Oct 28) Dockerfile change: replace "ubuntu:24.04" (for x86_64) to "arm64v8/ubuntu:24.04" (for aarch64).
 
-(2026 Oct 28) Decided to run OpenWorm on native Apple ARM64 CPU (instead of emulation of x86_64 with Rosetta).
+(2026 Oct 28) Decided to run OpenWorm on native Apple arm64 CPU (instead of emulation of x86_64 code with Rosetta).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

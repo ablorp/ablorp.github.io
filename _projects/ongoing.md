@@ -1,7 +1,7 @@
 ---
 layout: page
-title: ⏳ ongoing
-description: capture agentic workflow
+title: 🤖 ongoing
+description: agentic workflow capture
 img: assets/img/publication_preview/worm_crawling.gif
 importance: 1
 category: ongoing

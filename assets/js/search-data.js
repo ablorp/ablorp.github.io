@@ -77,7 +77,7 @@ ninja.data = [{
               window.location.href = "/projects/9_project/";
             },},{id: "projects-ongoing",
           title: '🤖 ongoing',
-          description: "🪱 already in motion",
+          description: "🪱 in motion, finally!",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ongoing/";
             },},{

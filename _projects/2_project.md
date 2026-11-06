@@ -1,7 +1,7 @@
 ---
 layout: page
-title: watney robotics
-description: 🦾  founding intern since 9th grade
+title: 🦾 watney
+description: founding intern since 9th grade
 img: assets/img/soldering.jpg
 importance: 1
 category: side quests

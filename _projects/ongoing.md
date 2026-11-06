@@ -1,11 +1,13 @@
 ---
 layout: page
 title: 🤖 ongoing
-description: 🪱 already in motion (on Nov 4): 5 secs of crawling required 14167 seconds (~4hrs) of simulation time on M5 Max chip
+description: 🪱 already in motion
 img: assets/img/publication_preview/worm_crawling.gif
 importance: 1
 category: ongoing
 ---
+
+2026 Nov 4: 🪱 already in motion: 5 secs of crawling required 14167 seconds (~4hrs) of simulation time on M5 Max chip.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

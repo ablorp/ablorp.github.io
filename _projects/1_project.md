@@ -19,7 +19,7 @@ category: side quests
 
 🪱 crawling vs 💻 simulation: 3000x difference in time scale.
 
-🪱 total movement time realizable on: 1 MacBook Pro (M5 Max + 96 GB) + 1 MacMini (M5 Pro + 64 GB)?
+🪱 total movement realizable on: 1 MacBook Pro (M5 Max + 96 GB) + 1 MacMini (M5 Pro + 64 GB)?
 
 🤔 What are the odds of completing this project by Feb 28, 2027 target date?
 

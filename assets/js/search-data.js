@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A series of projects converging at biomechanical engineering and robotics.",
+          description: "All roads lead to biomechanical engineering and robotics.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "projects-openworm",
           title: '🪱 openworm',
-          description: "induce biomechanical behaviors",
+          description: "inducing biomechanical behaviors",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-watney",

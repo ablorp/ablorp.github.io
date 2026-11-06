@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A collection of interesting STEM projects going back in time.",
+          description: "A series of projects converging upon to biomechanical engineering and robotics.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";

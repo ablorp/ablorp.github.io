@@ -7,6 +7,8 @@ importance: 1
 category: side quests
 ---
 
+A neuroscience biomechanical simulation project proposal. Target completion date: Feb 28, 2027.
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/ow/1.jpg" title="slide 1" class="img-fluid rounded z-depth-1" %}

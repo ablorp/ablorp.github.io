@@ -75,9 +75,9 @@ ninja.data = [{
           description: "test driving my eldest brother&#39;s creation from a young age",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-ongoing",
+          title: '🤖 ongoing',
+          description: "🪱 already in motion",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ongoing/";
             },},{

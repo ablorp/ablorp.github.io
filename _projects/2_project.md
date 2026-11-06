@@ -18,7 +18,7 @@ Watney's big adventure: going from one strawberry farm to server farms everywher
     </div>
 </div>
 <div class="caption">
-    Watney goes to work at data centers (finally!) after learning new cabling skills at our lab (circa Dec 2024).
+    Watney goes to work at data centers after learning new cabling skills (circa Dec 2024).
 </div>
 
 <div class="row">
@@ -33,7 +33,7 @@ Watney's big adventure: going from one strawberry farm to server farms everywher
     </div>
 </div>
 <div class="caption">
-    Watney working odd jobs: picking up towels poolside, cleansing window, and shopping for groceries around the neighborhood (circa July–Aug 2024).
+    Watney working odd jobs: picks up poolside towels, squeegees window, and shops for groceries (circa July–Aug 2024).
 </div>
 
 <div class="row">
@@ -45,7 +45,7 @@ Watney's big adventure: going from one strawberry farm to server farms everywher
     </div>
 </div>
 <div class="caption">
-    (left) Dynamic duo working night shifts (circa Nov 2024); (right) Dynamic duo working day and night at our new SF Mission District offices (circa Jun 2024).
+    (left) Dynamic duo working night shifts (circa Nov 2024); (right) Dynamic duo working at our new SF Mission District offices (circa Jun 2024).
 </div>
 
 <div class="row">

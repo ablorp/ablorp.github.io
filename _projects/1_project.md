@@ -7,7 +7,7 @@ importance: 1
 category: side quests
 ---
 
-🙋🏻‍♂️ **A compute-intensive biomechanical behavioral simulation project proposal:**
+🙋🏻‍♂️ **A compute-intensive biomechanical and behavioral simulation project proposal:**
 
 🧐 Target completion date: Feb 28, 2027 (<a href="https://ggstemfair.org/">GGSF</a> drop-off date).
 
@@ -85,3 +85,5 @@ category: side quests
         {% include figure.liquid loading="eager" path="assets/img/ow/12.jpg" title="slide 12" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+---

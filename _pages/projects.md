@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A series of projects converging at biomechanical engineering and robotics.
+description: All roads lead to biomechanical engineering and robotics.
 nav: true
 nav_order: 3
 display_categories: [side quests, stem fairs, fun stuff]

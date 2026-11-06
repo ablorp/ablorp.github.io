@@ -1,13 +1,13 @@
 ---
 layout: page
-title: 🏋🏻 training
-description: 🪱 in motion, finally!
+title: 🪱 training
+description: 🪱 in motion, finally...
 img: assets/img/publication_preview/worm_crawling.gif
 importance: 1
 category: ongoing
 ---
 
-OpenWorm Training (in Progress):
+**OpenWorm Training (in Progress):**
 
 (2026 Nov 5)  Regeneron STS 2026 submission deadline passed; next try to finish before GGSF (Feb 28, 2027).
 

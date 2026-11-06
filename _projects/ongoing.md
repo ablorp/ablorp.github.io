@@ -9,11 +9,17 @@ category: ongoing
 
 ---
 
----
-
 **🪱 Training: in Progress**
 
-(2026 Nov 5)  🪱 Regeneron STS 2027 submission deadline passed; try to finish before GGSF drop-off (Feb 28, 2027).
+(2027 May 8–14) ISEF 2027: Los Angeles, CA.
+
+(2027 Apr __) CSEF 2027: USC, Los Angeles, CA.
+
+(2027 Mar 7)  GGSF 2027: high school event, judging and ceremony.
+
+(2027 Feb 28) GGSF 2027: project drop-off at Randall Museum.
+
+(2026 Nov 5)  🪱 Regeneron STS 2027 submission deadline passed; aim to finish before GGSF drop-off (Feb 28, 2027).
 
 (2026 Nov 4)  🪱 movement: 5 secs of crawling <=> 14167 secs (~4hrs) of compute on MacBook Pro (M5 Max + 128 GB).
 
@@ -33,13 +39,15 @@ category: ongoing
 
 (2026 Oct 28) Prepare to run OpenWorm on native Apple arm64 CPU (instead of emulation of x86_64 code with Rosetta).
 
-(2026 Sep 20) 🪱 Revised project proposal: construct "transducer" for AFD and monitor AFD-AIY connectivity.
+(2026 Sep 20) 🪱 Experimental setup: temperature gradient in aquarium, "transducer" for AFD, monitoring of AFD-AIY link.
 
-(2026 Sep 14) 🪱 Simplifying project proposal after extensive literature review.
+(2026 Sep 14) 🪱 Project plan revised after literature review.
 
-(2026 Sep 1)  🪱 Rough project proposal drafted (holes to be filled later).
+(2026 Sep 1)  🪱 Project proposal ready for review (by Dr. Yetman).
 
-(2026 Aug 28) 🪱 Drafting started on a new project proposal.
+(2026 Aug 28) 🪱 Drafting started on a neuroscience project proposal.
+
+---
 
 ---
 

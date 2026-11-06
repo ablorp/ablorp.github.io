@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 🏋🏻 ongoing
+title: 🏋🏻 training
 description: 🪱 in motion, finally!
 img: assets/img/publication_preview/worm_crawling.gif
 importance: 1

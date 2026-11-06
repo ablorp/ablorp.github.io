@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "projects-openworm",
           title: '🪱 openworm',
-          description: "inducing biomechanical behaviors",
+          description: "induce biomechanical behaviors",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-watney",

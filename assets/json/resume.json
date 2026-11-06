@@ -90,7 +90,7 @@
       "highlights": ["Neuroscience", "OpenWorm", "C. Elegans"],
       "startDate": "2026-08",
       "endDate": "2027-05",
-      "url": "https://adamcheong.com/assets/pdf/OpenWorm Trainer.pdf"
+      "url": "https://adamcheong.com/assets/pdf/OpenWorm Training.pdf"
     },
     {
       "name": "The Cluck is Ticking: A Color-Changing Biosensor to Indicate Spoiled Meat",
@@ -209,10 +209,10 @@
   ],
   "science fairs": [
     {
-      "title": "OpenWorm Trainer (in Progress), Biological Sciences",
+      "title": "OpenWorm Training (in Progress), Biological Sciences",
       "date": "2027-02",
       "awarder": "12th Grade, Golden Gate STEM Fair (GGSF)",
-      "url": "https://adamcheong.com/assets/pdf/OpenWorm Trainer.pdf",
+      "url": "https://adamcheong.com/assets/pdf/OpenWorm Training.pdf",
       "summary": "How to Train Your C. Elegans: Inducing Thermotactic Behavior in a Digitally Simulated Worm."
     },
     {
@@ -277,7 +277,7 @@
       "name": "How to Train Your C. Elegans: Inducing Thermotactic Behavior in a Digitally Simulated Worm",
       "publisher": "Golden Gate STEM Fair 2027",
       "releaseDate": "2027-02-28",
-      "url": "https://adamcheong.com/assets/pdf/OpenWorm Trainer.pdf",
+      "url": "https://adamcheong.com/assets/pdf/OpenWorm Training.pdf",
       "summary": "Biomechanical simulations of a digital worm inside an artificial aquarium to study AFD-AIY connectivity along the worm's thermosensory pathway known to drive thermotactic behavior in response to a temperature gradient."
     },
     {

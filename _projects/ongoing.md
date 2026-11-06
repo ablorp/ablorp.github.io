@@ -19,7 +19,7 @@ category: ongoing
 
 (2026 Nov 1)  Dynamic linking of PoCL kernel 'hashParticles' resolved: environ passed to clang subprocess on aarch64.
 
-(2026 Oct 30) Reconfigure makefile: now build Sibernetic using clang++ and OpenCL 1.2 (no GPU support for PoCL).
+(2026 Oct 30) Reconfigure makefile to build Sibernetic using clang++ and OpenCL 1.2 (no GPU support for PoCL).
 
 (2026 Oct 29) Priorotize Ubuntu system tools over Nix tools (to resolve environment path errors).
 

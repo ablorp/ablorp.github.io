@@ -9,7 +9,7 @@ category: ongoing
 
 **OpenWorm Training (in Progress):**
 
-(2026 Nov 5)  Regeneron STS 2026 submission deadline passed; next try to finish before GGSF drop-off (Feb 28, 2027).
+(2026 Nov 5)  Regeneron STS 2026 submission deadline passed; try to finish before GGSF drop-off (Feb 28, 2027).
 
 (2026 Nov 4)  🪱 movement: 5 secs of crawling <=> 14167 seconds (~4hrs) of compute on MacBook Pro (M5 Max + 128 GB).
 

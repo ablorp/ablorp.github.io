@@ -77,7 +77,7 @@ ninja.data = [{
               window.location.href = "/projects/9_project/";
             },},{id: "projects-ongoing",
           title: '⏳ ongoing',
-          description: "agentic workflow capture",
+          description: "capture agentic workflow",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ongoing/";
             },},{

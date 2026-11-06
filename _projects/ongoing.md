@@ -10,15 +10,24 @@ category: ongoing
 OpenWorm Training (in Progress):
 
 (2026 Nov 5)  Regeneron STS 2026 submission deadline passed; next try to finish before GGSF (Feb 28, 2027).
+
 (2026 Nov 4)  🪱 movement: 5 secs of crawling <=> 14167 seconds (~4hrs) of compute on MacBook Pro (M5 Max + 128 GB).
+
 (2026 Nov 3)  Dockerfile ready: simulation runs using image ("openworm/openworm") and container ("openworm_0.9.8").
+
 (2026 Nov 2)  Remove warning message for non-existent MVL24 (in 3rd muscle quadrant).
+
 (2026 Nov 1)  Dynamic linking issue for PoCL kernels (resolved): subprocess runtime environment for clang & aarch64.
-(2026 Oct 30) Reconfigure makefile: now build Sibernetic using clang++ and OpenCL 1.2 (for PoCL on Apple M5 chip)
+
+(2026 Oct 30) Reconfigure makefile: now build Sibernetic using clang++ and OpenCL 1.2 (no GPU support for PoCL).
+
 (2026 Oct 29) Priorotize Ubuntu system tools over Nix tools (to resolve environment path errors).
-(2026 Oct 28) Replace AMD's OpenCL drivers (AMD-APP-SDK 3.0 for x86_64) with PoCL dev packages and runtime for aarch64.
+
+(2026 Oct 28) Replace AMD OpenCL drivers (AMD-APP-SDK 3.0 for x86_64) with PoCL dev packages and runtime for aarch64.
+
 (2026 Oct 28) Dockerfile change: replace "ubuntu:24.04" (for x86_64) to "arm64v8/ubuntu:24.04" (for aarch64).
-(2026 Oct 28) Decided to run OpenWorm on native Apple ARM64 cpu (instead of emulation of x86_64 with Rosetta).
+
+(2026 Oct 28) Decided to run OpenWorm on native Apple ARM64 CPU (instead of emulation of x86_64 with Rosetta).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

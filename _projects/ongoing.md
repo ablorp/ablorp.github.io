@@ -17,9 +17,9 @@ category: ongoing
 
 (2027 Mar 7)  🥇 [GGSF 2027](https://ggstemfair.org/): Biological Sciences category, judging and ceremony.
 
-(2027 Feb 28) 🤞 Randall Museum in San Francisco: project drop-off for GGSF.
+(2027 Feb 28) 🍀 Randall Museum in San Francisco: project drop-off for GGSF.
 
-(2027 Feb 1–21)  ⏳ Prepare project presentation and poster for GGSF & CSEF.
+(2027 Feb 1–21)  ⏳ Prepare final project presentation and poster for GGSF & CSEF.
 
 (2027 Jan 11–15) 🛫 High school trip to NYC.
 

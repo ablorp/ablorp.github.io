@@ -30,9 +30,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/conferences/";
           },
-        },{id: "projects-openworm",
-          title: '🪱 openworm',
-          description: "inducing biomechanical behaviors",
+        },{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-watney",
@@ -42,7 +42,7 @@ ninja.data = [{
               window.location.href = "/projects/2_project/";
             },},{id: "projects-hydroponics",
           title: '🍓 hydroponics',
-          description: "helped setup my brother&#39;s vertical farm at Berkeley, where my robotics journey began",
+          description: "setting up my brother&#39;s vertical farm at Berkeley, where my robotics journey began",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-monte-carlo",

@@ -66,5 +66,5 @@ Watney's adventure: from one strawberry farm in Berkeley to the largest server f
     </div>
 </div>
 <div class="caption">
-    Trying out old-timey arcade machines at Playground and skipping school to check out robots at TechCrunch Robotics (circa 2018).
+    Trying out old-timey arcade machines at Playground and skipping school for cool robots at TechCrunch Robotics (circa 2018).
 </div>

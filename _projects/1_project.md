@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 🪱 openworm
-description: inducing thermotactic behavior in a digitally simulated C. elegans equipped with thermosensory transducers for an artificially designed aquarium with programmable temperature gradients
+description: inducing thermotactic behavior in a digitally simulated C. elegans equipped with thermosensory transducers for an artificially designed aquarium with pre-programmed temperature gradients (🪱 training in progress)
 img: assets/img/publication_preview/worm_crawling.gif
 importance: 1
 category: side quests
@@ -9,7 +9,7 @@ category: side quests
 
 ---
 
-**Project Proposal: Compute-Intensive Biomechanical & Behavioral Simulations**
+**A Computational Neuroscience and Biomechanical Simulations Project**
 
 🎯 Target completion date: Feb 28, 2027 ([GGSF](https://ggstemfair.org/") drop-off date).
 

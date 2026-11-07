@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 🪱 openworm
-description: inducing thermotactic behavior in a digitally simulated C. elegans equipped with thermosensory transducers for an artificially designed aquarium with pre-programmed temperature gradients (Aug 2026–May 2027)
+description: inducing thermotactic behavior in a digitally simulated C. elegans equipped with thermosensory transducers for an artificially designed aquarium with pre-programmed temperature gradients (demo by feb 2027)
 img: assets/img/publication_preview/worm_crawling.gif
 importance: 1
 category: side quests

@@ -23,7 +23,7 @@ category: ongoing
 
 (2027 Jan 11–15) 🛫 High school trip to NYC.
 
-(2027 Jan 1–9)   🎉 Experimental session 4: visual confirmation of thermotactic behaviors?
+(2027 Jan 1–9)   🪱 Experimental session 4: visual confirmation of thermotactic behaviors?
 
 (2026 Dec 25–31) 🎄 Experimental session 3: monitoring of AFD-AIY connectivity.
 
@@ -65,7 +65,7 @@ category: ongoing
 
 (2026 Sep 1)  📝 Project proposal ready for review by Dr. Yetman.
 
-(2026 Aug 28) 💡 Drafting a senior year project proposal based on a novel neuroscience experimental idea.
+(2026 Aug 28) 🧠 A project with cool visuals based on a novel computational neuroscience idea.
 
 ---
 

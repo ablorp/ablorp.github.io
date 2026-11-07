@@ -77,7 +77,7 @@ category: ongoing
 
 ---
 
-**Project Proposal: Updated**
+**Project Proposal:**
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

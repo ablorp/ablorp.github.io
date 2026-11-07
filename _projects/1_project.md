@@ -11,7 +11,7 @@ category: side quests
 
 **Project Proposal: Compute-intensive Biomechanical & Behavioral Simulations**
 
-🧐 Target completion date: Feb 28, 2027 (<a href="https://ggstemfair.org/">GGSF</a> drop-off date).
+⌛️ Target completion date: Feb 28, 2027 (<a href="https://ggstemfair.org/">GGSF</a> drop-off date).
 
 😊 Sibernetic now runs natively on Apple M5 chips, replacing Rosetta emulation of AMD64 code.
 

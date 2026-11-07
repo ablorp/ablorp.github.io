@@ -19,7 +19,7 @@ category: ongoing
 
 (2027 Feb 28) 🤞 GGSF 2027: project drop-off at Randall Museum, San Francisco.
 
-(2026 Nov 5)  🪱 STS 2027 submission deadline passed; aim to finish before GGSF drop-off (Feb 28, 2027).
+(2026 Nov 5)  ⌛️ STS 2027 submission deadline passed; aim to finish before GGSF drop-off (Feb 28, 2027).
 
 (2026 Nov 4)  🪱 movement: 5 secs of crawling <=> 14167 secs (~4hrs) of compute on MacBook Pro (M5 Max + 128 GB).
 
@@ -41,7 +41,7 @@ category: ongoing
 
 (2026 Sep 20) 🪱 Research design: temperature gradient in aquarium, transducers for AFD, monitoring of AFD-AIY link.
 
-(2026 Sep 14) 📝 Revise project plan after feedback and background review of literature.
+(2026 Sep 14) 📝 Revise research plan after feedback and background review of literature.
 
 (2026 Sep 1)  📝 Project proposal ready for review by Dr. Yetman.
 

@@ -11,11 +11,11 @@ category: side quests
 
 **Project Proposal: Compute-intensive Biomechanical & Behavioral Simulations**
 
-⌛️ Target completion date: Feb 28, 2027 (<a href="https://ggstemfair.org/">GGSF</a> drop-off date).
+🎯 Target completion date: Feb 28, 2027 [GGSF](https://ggstemfair.org/") drop-off date).
 
-😊 Sibernetic now runs natively on Apple M5 chips, replacing Rosetta emulation of AMD64 code.
+😊 [Sibernetic](https://github.com/openworm/sibernetic) now runs natively on Apple M5 chips, replacing Rosetta emulation of AMD64 code.
 
-😢 No GPU support for PoCL (OpenCL v1.2) from Apple, so kernel code runs only on CPU.
+😢 No GPU support for [PoCL](https://portablecl.org/) ([OpenCL v1.2 from Apple](https://support.apple.com/en-us/101525)), so kernel code runs only on CPU.
 
 🪱 movement: 5 secs of crawling <=> 14167 secs (~4hrs) of simulation on MacBook Pro (M5 Max + 128 GB).
 

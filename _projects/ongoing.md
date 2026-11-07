@@ -41,13 +41,13 @@ category: ongoing
 
 (2026 Nov 1)  🤖 Dynamic linking of PoCL kernel 'hashParticles' resolved: environ passed to clang subprocess on aarch64.
 
-(2026 Oct 30) 🤖 Reconfigure makefile to build Sibernetic using clang++ and OpenCL 1.2 (no GPU support for PoCL).
+(2026 Oct 30) 🤖 Reconfigure makefile to build [Sibernetic](https://github.com/openworm/sibernetic) using clang++ and [OpenCL 1.2](https://support.apple.com/en-us/101525).
 
 (2026 Oct 29) 🤖 Priorotize Ubuntu system tools over Nix tools (to resolve environment path errors).
 
-(2026 Oct 28) 🤖 Replace AMD OpenCL drivers (AMD-APP-SDK 3.0 for x86_64) with PoCL dev packages and runtime for aarch64.
+(2026 Oct 28) 🤖 Replace AMD OpenCL drivers ([AMD-APP-SDK 3.0](https://github.com/arturxz/AMD-APP-SDK-v3.0) for x86_64) with [PoCL](https://portablecl.org/) dev packages and runtime for aarch64 (e.g., [LLVM](https://llvm.org/) and [Clang](https://clang.llvm.org/)).
 
-(2026 Oct 28) 🤖 Install latest neuron simulatior version 9.0.2 (instead of default 8.2.6) for compatibility.
+(2026 Oct 28) 🤖 Install the latest NEURON simulatior [version 9.0.2]((https://www.neuronsimulator.org/en/9.0.2/) (instead of default 8.2.6) for compatibility.
 
 (2026 Oct 28) 🤖 Dockerfile change: replace "ubuntu:24.04" (for x86_64) to "arm64v8/ubuntu:24.04" (for aarch64).
 

@@ -35,6 +35,8 @@ category: ongoing
 
 (2026 Oct 28) 🤖 Replace AMD OpenCL drivers (AMD-APP-SDK 3.0 for x86_64) with PoCL dev packages and runtime for aarch64.
 
+(2026 Oct 28) 🤖 Install latest neuron simulatior version 9.0.2 (instead of default 8.2.6) for compatibility.
+
 (2026 Oct 28) 🤖 Dockerfile change: replace "ubuntu:24.04" (for x86_64) to "arm64v8/ubuntu:24.04" (for aarch64).
 
 (2026 Oct 28) 🪱 Prepare to run openworm on Apple arm64 CPU (instead of Rosetta emulation of x86_64 code by default).

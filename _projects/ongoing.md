@@ -11,13 +11,13 @@ category: ongoing
 
 **🪱 Training: in Progress**
 
-(2027 May 8–14) 🏆 ISEF 2027: Computational Neuroscience (NEU) subcategory, Los Angeles, California.
+(2027 May 8–14) 🏆 [ISEF 2027](https://www.societyforscience.org/isef/): Computational Neuroscience (NEU) subcategory, Los Angeles, California.
 
-(2027 Apr __) 🥇 CSEF 2027: Zoology category, USC, Los Angeles, California.
+(2027 Apr __) 🥇 [CSEF 2027](https://csef.usc.edu/): Zoology category, USC, Los Angeles, California.
 
-(2027 Mar 7)  🥇 GGSF 2027: Biological Sciences category, judging and ceremony.
+(2027 Mar 7)  🥇 [GGSF 2027](https://ggstemfair.org/): Biological Sciences category, judging and ceremony.
 
-(2027 Feb 28) 🤞 GGSF 2027: project drop-off at Randall Museum, San Francisco.
+(2027 Feb 28) 🤞 Randall Museum in San Francisco: project drop-off for GGSF.
 
 (2027 Feb 1–21)  ⏳ Prepare project presentation and poster for GGSF & CSEF.
 
@@ -35,11 +35,11 @@ category: ongoing
 
 (2026 Nov 11–17) 🗓️ Finalize research design and implementation schedule; estimate simulation runtime.
 
-(2026 Nov 5)  ⌛️ STS 2027 submission deadline passed; aim to finish before GGSF drop-off (Feb 28, 2027).
+(2026 Nov 5)  ⌛️ [STS 2027](https://www.societyforscience.org/regeneron-sts/) submission deadline passed; aim to finish before GGSF drop-off (Feb 28, 2027).
 
 (2026 Nov 4)  🪱 movement: 5 secs of crawling <=> 14167 secs (~4hrs) of compute on MacBook Pro (M5 Max + 128 GB).
 
-(2026 Nov 3)  🧙🏻‍♂️ Dockerfile ready: simulation runs using image ("openworm/openworm") and container ("openworm_0.9.8").
+(2026 Nov 3)  🧙🏻‍♂️ Dockerfile ready to run simulations using image ("openworm/openworm") and container ("openworm_0.9.8").
 
 (2026 Nov 2)  🧙🏻‍♂️ Remove warning message for non-existent MVL24 (in [3rd muscle quadrant](https://adamcheong.com/assets/img/ow/worm_muscles.jpg)).
 
@@ -49,13 +49,13 @@ category: ongoing
 
 (2026 Oct 29) 🤖 Priorotize Ubuntu system tools over Nix tools (to resolve environment path errors).
 
-(2026 Oct 28) 🤖 Remove AMD OpenCL drivers ([AMD-APP-SDK 3.0](https://github.com/arturxz/AMD-APP-SDK-v3.0) for x86_64).
+(2026 Oct 28) 🤖 Remove AMD OpenCL drivers [AMD-APP-SDK 3.0](https://github.com/arturxz/AMD-APP-SDK-v3.0) (for x86_64).
 
 (2026 Oct 28) 🤖 Install [PoCL](https://portablecl.org/) development packages and runtime for arm64 (e.g., [LLVM](https://llvm.org/) and [Clang](https://clang.llvm.org/)).
 
-(2026 Oct 28) 🤖 Install NEURON simulator [version 9.0.2](https://www.neuronsimulator.org/en/9.0.2/) (default 8.2.6) for compatibility.
+(2026 Oct 28) 🤖 Install [NEURON simulator version 9.0.2](https://www.neuronsimulator.org/en/9.0.2/) (default 8.2.6) for compatibility.
 
-(2026 Oct 28) 🤖 Dockerfile change: replace "ubuntu:24.04" (for x86_64) to "arm64v8/ubuntu:24.04" (for aarch64).
+(2026 Oct 28) 🤖 Edit Dockerfile to replace "ubuntu:24.04" (for x86_64) with "arm64v8/ubuntu:24.04" (for aarch64).
 
 (2026 Oct 28) 🧙🏻‍♂️ Configure openworm to run on Apple arm64 CPU (instead of [Rosetta emulation of AMD64](https://ddev.com/blog/amd64-with-rosetta-on-macos/) by default).
 
@@ -65,7 +65,7 @@ category: ongoing
 
 (2026 Sep 1)  📝 Project proposal ready for review by Dr. Yetman.
 
-(2026 Aug 28) 💡 Drafting a senior year project proposal based on a novel neuroscience project idea.
+(2026 Aug 28) 💡 Drafting a senior year project proposal based on a novel neuroscience experimental idea.
 
 ---
 

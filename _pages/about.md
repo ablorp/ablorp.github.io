@@ -50,10 +50,4 @@ Adam is skilled at bouldering; his twice weekly routine combines puzzle solving 
     </div>
 </div>
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/watney.jpg" title="my biomechanical engineering and robotics journey" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
 ---

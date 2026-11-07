@@ -35,7 +35,7 @@ category: ongoing
 
 (2026 Nov 11–17) 🗼 iGEM Grand Jamboree in Paris: finalize research design and implementation schedule.
 
-(2026 Nov 5)  ⌛️ [STS 2027](https://www.societyforscience.org/regeneron-sts/) submission time already past (5pm); revised target date: Feb 28, 2027.
+(2026 Nov 5)  ⌛️ [STS 2027](https://www.societyforscience.org/regeneron-sts/) already past 5pm submission time; revised target date: Feb 28, 2027.
 
 (2026 Nov 5) 🍀 Looking for *C. elegans* already in motion? 🪱 🔍 👀 Founding Class Fellowship submitted before 8pm.
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 🦾 watney
-description: founding intern at robotics startup
+description: founding intern of robotics startup
 img: assets/img/soldering.jpg
 importance: 1
 category: side quests

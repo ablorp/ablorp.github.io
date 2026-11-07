@@ -35,7 +35,7 @@ category: ongoing
 
 (2026 Nov 11–17) 🗼 iGEM Grand Jamboree in Paris: finalize research design and implementation schedule.
 
-(2026 Nov 5)  ⌛️ [STS 2027](https://www.societyforscience.org/regeneron-sts/) submission deadline already past; revised target date: Feb 28, 2027.
+(2026 Nov 5)  ⌛️ [STS 2027](https://www.societyforscience.org/regeneron-sts/) submission time already past (5pm); revised target date: Feb 28, 2027.
 
 (2026 Nov 5)  🙋🏻‍♂️ Looking for *C. elegans* already in motion? 🪱 🔍 👀 Founding Class Fellowship submitted before 8pm.
 
@@ -69,7 +69,7 @@ category: ongoing
 
 (2026 Aug 28) 🧠 Revisiting biomechanical simulations from a neuroscience perspective (with a new twist).
 
-**Acknowledgement:** This computational neuroscience project is made possible with generous technical support from 🧙🏻‍ my dad, a computer scientist who in turn wishes to acknowledge the technical assistance provided by 🤖 coding agents (e.g., OpenAI/codex), in configuring the underlying software packages (originally written for Linux on AMD64) to run efficiently on Apple M5 chips.
+**Acknowledgement:** This computational neuroscience project would not be possible without generous computing support from my dad, a computer scientist 🧙🏻‍♂️ who in turn wishes to acknowledge the technical assistance provided by OpenAI coding agents 🤖 in configuring OpenWorm software packages originally written for Linux on AMD64 to run efficiently on our new Macs with M5 chips.
 
 ---
 

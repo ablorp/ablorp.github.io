@@ -41,7 +41,7 @@ category: ongoing
 
 (2026 Nov 4)  🪱 movement: 5 secs of crawling <=> 14167 secs (~4hrs) of compute on MacBook Pro (M5 Max + 128 GB).
 
-(2026 Nov 3)  🧙🏻‍♂️ Dockerfile ready to run simulations using image ("openworm/openworm") and container ("openworm_0.9.8").
+(2026 Nov 3)  🧙🏻‍♂️ Dockerfile ready for use: image ("openworm/openworm") and container ("openworm_0.9.8").
 
 (2026 Nov 2)  🧙🏻‍♂️ Remove warning message for non-existent MVL24 (in [3rd muscle quadrant](https://adamcheong.com/assets/img/ow/worm_muscles.jpg)).
 

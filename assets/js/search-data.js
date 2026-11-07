@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-conferences",
-          title: "conferences",
-          description: "Conferences, meetings and symposiums I&#39;ve attended in the past.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/conferences/";
-          },
-        },{id: "nav-projects",
+  },{id: "nav-projects",
           title: "projects",
           description: "All roads lead to biomechanical engineering and robotics.",
           section: "Navigation",
@@ -29,6 +22,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
+          },
+        },{id: "nav-conferences",
+          title: "conferences",
+          description: "Conferences, meetings and symposiums I&#39;ve attended in the past.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/conferences/";
           },
         },{id: "projects-openworm",
           title: '🪱 openworm',

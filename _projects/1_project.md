@@ -13,9 +13,9 @@ category: side quests
 
 🎯 Target completion date: Feb 28, 2027 [GGSF](https://ggstemfair.org/") drop-off date).
 
-😊 [Sibernetic](https://github.com/openworm/sibernetic) now runs natively on Apple M5 chips, replacing Rosetta emulation of AMD64 code.
+😊 [Sibernetic](https://github.com/openworm/sibernetic) now runs on Apple M5 chips, replacing [Rosetta emulation of AMD64](https://ddev.com/blog/amd64-with-rosetta-on-macos/).
 
-😢 No GPU support for [PoCL](https://portablecl.org/) ([OpenCL v1.2 from Apple](https://support.apple.com/en-us/101525)), so kernel code runs only on CPU.
+😢 No GPU support for [PoCL](https://portablecl.org/) (beyond OpenCL v1.2) [from Apple](https://support.apple.com/en-us/101525), so kernel code runs only on CPU.
 
 🪱 movement: 5 secs of crawling <=> 14167 secs (~4hrs) of simulation on MacBook Pro (M5 Max + 128 GB).
 

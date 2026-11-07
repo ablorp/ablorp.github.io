@@ -63,7 +63,7 @@ category: ongoing
 
 (2026 Sep 20) 🪱 Research design: temperature gradient in aquarium, transducers for AFD, monitoring of AFD-AIY link.
 
-(2026 Sep 14) 📝 Revise research plan upon further review of literature after receiving feedback.
+(2026 Sep 14) 📝 Revise research plan upon further review of literature with feedback.
 
 (2026 Sep 1)  📝 Project proposal ready for review by Dr. Yetman.
 

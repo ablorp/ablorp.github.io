@@ -21,17 +21,17 @@ category: ongoing
 
 (2027 Feb 1–21)  ⏳ Prepare project presentation and poster for GGSF & CSEF.
 
-(2027 Jan 11–15) 🛫 High school trip to NYC
+(2027 Jan 11–15) 🛫 High school trip to NYC.
 
 (2027 Jan 1–9)   🎉 Experimental session 4: visual confirmation of thermotactic behaviors?
 
-(2026 Dec 25–31) 🎄 Experimental session 3: monitoring of AFD-AIY link
+(2026 Dec 25–31) 🎄 Experimental session 3: monitoring of AFD-AIY connectivity.
 
 (2026 Dec 21) 🎊 Masason Annual Activity Report Session 2026 and End of the Year Party in Tokyo.
 
-(2026 Dec 17–20) 🎄 Experimental session 2: transducers for AFD
+(2026 Dec 17–20) 🎄 Experimental session 2: transducers for AFD.
 
-(2026 Nov 22–29) 🦃 Experimental session 1: aquarium design
+(2026 Nov 22–29) 🦃 Experimental session 1: aquarium design.
 
 (2026 Nov 11–17) 🗓️ Finalize research design and implementation schedule; estimate simulation runtime.
 
@@ -41,7 +41,7 @@ category: ongoing
 
 (2026 Nov 3)  🧙🏻‍♂️ Dockerfile ready: simulation runs using image ("openworm/openworm") and container ("openworm_0.9.8").
 
-(2026 Nov 2)  🧙🏻‍♂️ Remove warning message for non-existent MVL24 (in 3rd muscle quadrant).
+(2026 Nov 2)  🧙🏻‍♂️ Remove warning message for non-existent MVL24 (in [3rd muscle quadrant](https://adamcheong.com/assets/img/ow/worm_muscles.jpg)).
 
 (2026 Nov 1)  🤖 Dynamic linking of PoCL kernel 'hashParticles' resolved: environ passed to clang subprocess on aarch64.
 
@@ -51,7 +51,7 @@ category: ongoing
 
 (2026 Oct 28) 🤖 Remove AMD OpenCL drivers ([AMD-APP-SDK 3.0](https://github.com/arturxz/AMD-APP-SDK-v3.0) for x86_64).
 
-(2026 Oct 28) 🤖 Install [PoCL](https://portablecl.org/) dev packages and runtime for aarch64 (e.g., [LLVM](https://llvm.org/) and [Clang](https://clang.llvm.org/)).
+(2026 Oct 28) 🤖 Install [PoCL](https://portablecl.org/) development packages and runtime for arm64 (e.g., [LLVM](https://llvm.org/) and [Clang](https://clang.llvm.org/)).
 
 (2026 Oct 28) 🤖 Install NEURON simulator [version 9.0.2](https://www.neuronsimulator.org/en/9.0.2/) (default 8.2.6) for compatibility.
 
@@ -61,7 +61,7 @@ category: ongoing
 
 (2026 Sep 20) 🪱 Research design: temperature gradient in aquarium, transducers for AFD, monitoring of AFD-AIY link.
 
-(2026 Sep 14) 📝 Revise research plan after feedback and background review of literature.
+(2026 Sep 14) 📝 Revise research plan upon further review of literature after receiving feedback.
 
 (2026 Sep 1)  📝 Project proposal ready for review by Dr. Yetman.
 

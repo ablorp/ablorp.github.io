@@ -23,11 +23,11 @@ category: ongoing
 
 (2027 Jan 11–15) 🛫 High school trip to NYC
 
-(2027 Jan 1–9) 🎉 Run experiment (session 3): visual confirmation of thermotactic behaviors?
+(2027 Jan 1–9) 🎉 Conduct experiment (session 3): visual confirmation of thermotactic behaviors?
 
-(2026 Dec 17–31) 🎄 Run experiment (session 2): transducers for AFD and monitoring of AFD-AIY link
+(2026 Dec 17–31) 🎄 Conduct experiment (session 2): transducers for AFD and monitoring of AFD-AIY link
 
-(2026 Nov 22–29) 🦃 Run experiment (session 1): aquarium design
+(2026 Nov 22–29) 🦃 Conduct experiment (session 1): aquarium design
 
 (2026 Nov 11–17) 🗓️ Finalize research design and implementation schedule; estimate simulation runtime.
 

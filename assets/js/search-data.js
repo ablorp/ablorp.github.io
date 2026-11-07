@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "projects-openworm",
           title: '🪱 openworm',
-          description: "inducing thermotactic behavior in a digitally simulated C. elegans",
+          description: "inducing thermotactic behavior in a digitally simulated C. elegans with thermosensory transducers",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-watney",

@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "All roads lead to biomechanical engineering and robotics.",
+          description: "All roads through stem fairs and side quests lead to a biomechanical engineering and robotics future.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "projects-openworm",
           title: '🪱 openworm',
-          description: "inducing thermotactic behavior in a digitally simulated C. elegans with thermosensory transducers",
+          description: "inducing thermotactic behavior in a digitally simulated C. elegans equipped with thermosensory transducers",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-watney",
@@ -72,7 +72,7 @@ ninja.data = [{
               window.location.href = "/projects/8_project/";
             },},{id: "projects-️-go-kart-go",
           title: '🏎️ go kart go!',
-          description: "test driving my eldest brother&#39;s creation from a young age",
+          description: "accruing experience test driving my brother&#39;s creation from a young age",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{id: "projects-training",

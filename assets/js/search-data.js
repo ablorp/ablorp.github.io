@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-conferences",
           title: "conferences",
-          description: "Conferences, meetings and symposiums I&#39;ve attended in the past.",
+          description: "Conferences, meetings and symposiums where I&#39;d present at poster sessions and have conversations with experts.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/conferences/";

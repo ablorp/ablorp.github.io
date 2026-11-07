@@ -51,7 +51,7 @@ category: ongoing
 
 (2026 Oct 28) 🤖 Dockerfile change: replace "ubuntu:24.04" (for x86_64) to "arm64v8/ubuntu:24.04" (for aarch64).
 
-(2026 Oct 28) 🧙🏻‍♂️ Set up openworm to run on Apple arm64 CPU (instead of Rosetta emulation of x86_64 code by default).
+(2026 Oct 28) 🧙🏻‍♂️ Configure openworm to run on Apple arm64 CPU (instead of Rosetta emulation of x86_64 code by default).
 
 (2026 Sep 20) 🪱 Research design: temperature gradient in aquarium, transducers for AFD, monitoring of AFD-AIY link.
 

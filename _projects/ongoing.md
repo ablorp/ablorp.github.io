@@ -29,9 +29,9 @@ category: ongoing
 
 (2026 Dec 21) 🎊 Masason Annual Activity Report Session 2026 and End of the Year Party in Tokyo.
 
-(2026 Dec 17–20) 🎄 Experimental session 2: transducers for AFD.
+(2026 Dec 17–20) 🎄 Experimental session 2: develop and test transducers for AFD.
 
-(2026 Nov 22–29) 🦃 Experimental session 1: aquarium design.
+(2026 Nov 22–29) 🦃 Experimental session 1: aquarium temperature gradient design.
 
 (2026 Nov 11–17) 🗓️ Finalize research design and implementation schedule; estimate simulation runtime.
 

@@ -59,7 +59,7 @@ category: ongoing
 
 (2026 Sep 1)  📝 Project proposal ready for review by Dr. Yetman.
 
-(2026 Aug 28) 💡 Drafting a project proposal based on a neuroscience project idea.
+(2026 Aug 28) 💡 Drafting a senior year project proposal based on a novel neuroscience project idea.
 
 ---
 

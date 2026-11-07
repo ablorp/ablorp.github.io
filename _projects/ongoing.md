@@ -37,7 +37,7 @@ category: ongoing
 
 (2026 Nov 5)  ⌛️ [STS 2027](https://www.societyforscience.org/regeneron-sts/) already past deadline; aim to finish before GGSF drop-off (Feb 28, 2027).
 
-(2026 Nov 5)  🙋🏻‍♂️ Looking for *C. elegans* already in motion? 🪱 🔍 👀 Founding Class Fellowship application submitted before 8pm.
+(2026 Nov 5)  🙋🏻‍♂️ Looking for *C. elegans* already in motion? 🪱 🔍 👀 Founding Class Fellowship applied before 8pm.
 
 (2026 Nov 4)  🪱 movement: 5 secs of crawling <=> 14167 secs (~4hrs) of compute on MacBook Pro (M5 Max + 128 GB).
 

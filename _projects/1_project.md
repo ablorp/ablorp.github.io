@@ -11,7 +11,7 @@ category: side quests
 
 **Project Proposal: Compute-Intensive Biomechanical & Behavioral Simulations**
 
-🎯 Target completion date: Feb 28, 2027 [GGSF](https://ggstemfair.org/") drop-off date).
+🎯 Target completion date: Feb 28, 2027 ([GGSF](https://ggstemfair.org/") drop-off date).
 
 😊 [Sibernetic](https://github.com/openworm/sibernetic) now runs on Apple M5 chips, replacing [Rosetta emulation of AMD64](https://ddev.com/blog/amd64-with-rosetta-on-macos/).
 
@@ -19,11 +19,11 @@ category: side quests
 
 🪱 movement: 5 secs of crawling <=> 14167 secs (~4hrs) of simulation on MacBook Pro (M5 Max + 128 GB).
 
-🪱 crawling vs 💻 simulation: 3000x difference in time scale.
+🪱 crawling vs simulation: 3000x difference in time scale.
 
 🪱 movement realizable on: 1 MacBook Pro (M5 Max + 96 GB) + 1 MacMini (M5 Pro + 64 GB)?
 
-⏳ What are the odds of completing this project by Feb 28, 2027 target date?
+⏳ What are the odds of completing this project by Feb 28, 2027 target completion date?
 
 ---
 

@@ -30,19 +30,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/conferences/";
           },
-        },{id: "projects-openworm",
-          title: '🪱 openworm',
-          description: "inducing thermotactic behavior in a digitally simulated worm",
+        },{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-watney",
           title: '🦾 watney',
-          description: "founding intern since 9th grade",
+          description: "founding intern of robotics startup",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-hydroponics",
           title: '🍓 hydroponics',
-          description: "setting up my brother&#39;s vertical farm at Berkeley, where my robotics journey began (circa 2023)",
+          description: "setting up my brother&#39;s vertical farming club at Berkeley, where my robotics journey began (circa 2023)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-monte-carlo",

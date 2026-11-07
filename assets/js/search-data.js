@@ -30,9 +30,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/conferences/";
           },
-        },{id: "projects-",
-          title: '',
-          description: "",
+        },{id: "projects-openworm",
+          title: '🪱 openworm',
+          description: "inducing thermotactic behavior in a digitally simulated C. elegans",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-watney",

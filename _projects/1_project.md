@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 🪱 openworm
-description: inducing thermotactic behavior in a digitally simulated C. elegans with thermosensory transducers
+description: inducing thermotactic behavior in a digitally simulated C. elegans equipped with thermosensory transducers
 img: assets/img/publication_preview/worm_crawling.gif
 importance: 1
 category: side quests

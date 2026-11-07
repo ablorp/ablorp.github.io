@@ -1,11 +1,11 @@
 ---
 layout: page
 title: 🏎️ go kart go!
-description: test driving my eldest brother's creation from a young age
+description: accruing experience test driving my brother's creation from a young age
 img: assets/img/go_kart_a.jpg
 redirect: https://youtu.be/vsx4GC0iQ0M
 importance: 4
-category: fun stuff
+category: starting line
 ---
 
 Every project has a beautiful feature showcase page.

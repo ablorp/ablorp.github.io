@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: All roads lead to biomechanical engineering and robotics.
+description: All roads through stem fairs and side quests lead to a biomechanical engineering and robotics future.
 nav: true
 nav_order: 2
-display_categories: [side quests, stem fairs, fun stuff]
+display_categories: [side quests, stem fairs, starting line]
 horizontal: false
 ---
 

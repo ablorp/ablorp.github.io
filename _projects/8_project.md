@@ -5,7 +5,7 @@ description: homemade rocket fuel with kitchen chemistry (i.e., kno3 + sugar etc
 img: assets/img/kno3_a.jpg
 redirect: https://youtu.be/cRJPzYoi1Yw?t=5
 importance: 3
-category: fun stuff
+category: starting line
 ---
 
 Every project has a beautiful feature showcase page.

@@ -79,7 +79,7 @@ category: ongoing
 
 ---
 
-**[Edit-Debug Cycle](https://github.com/openworm/OpenWorm/blob/master/README.md#quickstart):**
+**AI-Assisted [Edit-Debug Cycle](https://github.com/openworm/OpenWorm/blob/master/README.md#quickstart):**
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

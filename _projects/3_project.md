@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 🍓 hydroponics
-description: helped setup my brother's vertical farm at Berkeley, where my robotics journey began
+description: setting up my brother's vertical farm at Berkeley, where my robotics journey began
 img: assets/img/teleoperation_a.jpg
 importance: 2
 category: side quests

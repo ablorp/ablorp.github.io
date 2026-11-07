@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 🦾 watney
-description: founding intern since 9th grade
+description: founding intern at venture-backed startup
 img: assets/img/soldering.jpg
 importance: 1
 category: side quests

@@ -67,7 +67,7 @@ category: ongoing
 
 (2026 Sep 1)  📝 Project proposal ready for review by Dr. Yetman.
 
-(2026 Aug 28) 🧠 Revisiting a 2yo computational neuroscience idea, but with a new twist.
+(2026 Aug 28) 🧠 Revisiting a 2yo computational neuroscience idea, with a new twist.
 
 ---
 

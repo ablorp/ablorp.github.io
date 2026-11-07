@@ -23,9 +23,13 @@ category: ongoing
 
 (2027 Jan 11–15) 🛫 High school trip to NYC
 
-(2027 Jan 1–9)   🎉 Experimental session 3: visual confirmation of thermotactic behaviors?
+(2027 Jan 1–9)   🎉 Experimental session 4: visual confirmation of thermotactic behaviors?
 
-(2026 Dec 17–31) 🎄 Experimental session 2: transducers for AFD and monitoring of AFD-AIY link
+(2026 Dec 25–31) 🎄 Experimental session 3: monitoring of AFD-AIY link
+
+(2026 Dec 21) 🎊 Masason Annual Activity Report Session 2026 and End of the Year Party in Tokyo.
+
+(2026 Dec 17–20) 🎄 Experimental session 2: transducers for AFD
 
 (2026 Nov 22–29) 🦃 Experimental session 1: aquarium design
 

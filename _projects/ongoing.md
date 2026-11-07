@@ -69,7 +69,7 @@ category: ongoing
 
 (2026 Aug 28) 🧠 Revisiting biomechanical simulations from a neuroscience perspective (with a new twist).
 
-**Acknowledgement:** This project would not be possible without additional computing resources from my dad, a computer scientist 🧙🏻‍♂️ who wishes to acknowledge OpenAI's 🤖 assistance in persuading OpenWorm 🪱 to play nice with our new Macs running on M5 chips.
+**Acknowledgement:** This project would not be possible without the additional computing resources from my dad, a computer scientist 🧙🏻‍♂️ who wishes to acknowledge OpenAI's 🤖 assistance in persuading OpenWorm 🪱 to play nice with our new Macs.
 
 ---
 

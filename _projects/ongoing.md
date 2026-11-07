@@ -41,9 +41,9 @@ category: ongoing
 
 (2026 Sep 20) 🪱 Research design: temperature gradient in aquarium, transducers for AFD, monitoring of AFD-AIY link.
 
-(2026 Sep 14) 🪱 Project plan revision started after feedback and background review of literature.
+(2026 Sep 14) 📝 Revise project plan after feedback and background review of literature.
 
-(2026 Sep 1)  🪱 Project proposal ready for review by Dr. Yetman.
+(2026 Sep 1)  📝 Project proposal ready for review by Dr. Yetman.
 
 (2026 Aug 28) 💡 Drafting a project proposal based on a neuroscience project idea.
 

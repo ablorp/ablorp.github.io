@@ -28,7 +28,7 @@ A high school senior with a strong interest in biomechanical engineering and rob
 
 Adam has taken undergraduate courses in [program structure](https://classes.berkeley.edu/content/2025-summer-compsci-61a-001-lec-001), [data structure](https://classes.berkeley.edu/content/2026-summer-compsci-61bl-001-lec-001) and [data science](https://classes.berkeley.edu/content/2026-summer-data-c8-001-lec-001) at UC Berkeley over two summers, and is a pre-college student ambassador. An avid alpinist who enjoys the great outdoors, Adam climbed the Brokeoff Mountain and Mt. Hood, and had summited Mt. Fuji and Mt. Shasta. Adam is a certified scuba diver.
 
-Adam is skilled at bouldering; his twice weekly routine combines puzzle solving with physical feats to chart a navigable course on the vertical face of a wall — exercising brain and brawn. Adam aspires to become an expert in biomechanics harnessing physical AI for the betterment of humankind. He looks forward to [2026 iGEM Jamboree](https://jamboree.igem.org/2026).
+Adam is skilled at bouldering; his twice weekly routine combines puzzle solving with physical feats to chart a navigable course on the vertical face of a wall — exercising brain and brawn. Adam aspires to become an expert in biomechanics harnessing physical AI for the betterment of humankind. He participated in [2026 iGEM Jamboree](https://jamboree.igem.org/2026).
 
 ---
 

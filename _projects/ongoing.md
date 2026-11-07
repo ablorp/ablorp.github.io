@@ -9,7 +9,7 @@ category: ongoing
 
 ---
 
-**🪱 Training: in Progress**
+**🪱 Training in Progress (Aug 2026 to May 2027):**
 
 (2027 May 8–14) 🏆 [ISEF 2027](https://www.societyforscience.org/isef/): Computational Neuroscience (NEU) subcategory, Los Angeles, California.
 

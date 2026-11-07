@@ -49,9 +49,11 @@ category: ongoing
 
 ---
 
+**Software Toolchain:**
+
 ---
 
-**Workflow: Edit-Debug Cycle**
+**Edit-Debug Cycle:**
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

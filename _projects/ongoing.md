@@ -19,6 +19,18 @@ category: ongoing
 
 (2027 Feb 28) 🤞 GGSF 2027: project drop-off at Randall Museum, San Francisco.
 
+(2027 Feb 1–21) ⏳ Prepare project presentation and poster for GGSF & CSEF.
+
+(2027 Jan 11–15) 🛫 High school trip to NYC
+
+(2027 Jan 1–9) 🎉 Sprint session 3: visual confirmation of thermotactic behaviors?
+
+(2026 Dec 17–31) 🎄 Sprint session 2: transducers for AFD and monitoring of AFD-AIY link
+
+(2026 Nov 22–29) 🦃 Sprint session 1: aquarium design
+
+(2026 Nov 11–17) 🗓️ Finalize research design and implementation schedule.
+
 (2026 Nov 5)  ⌛️ STS 2027 submission deadline passed; aim to finish before GGSF drop-off (Feb 28, 2027).
 
 (2026 Nov 4)  🪱 movement: 5 secs of crawling <=> 14167 secs (~4hrs) of compute on MacBook Pro (M5 Max + 128 GB).

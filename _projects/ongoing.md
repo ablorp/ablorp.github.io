@@ -11,9 +11,9 @@ category: ongoing
 
 **🪱 Training: in Progress**
 
-(2027 May 8–14) ISEF 2027: Los Angeles, CA.
+(2027 May 8–14) ISEF 2027: Computational Neuroscience (NEU), Los Angeles, California.
 
-(2027 Apr __) CSEF 2027: USC, Los Angeles, CA.
+(2027 Apr __) CSEF 2027: USC, Los Angeles, California.
 
 (2027 Mar 7)  GGSF 2027: high school event, judging and ceremony.
 

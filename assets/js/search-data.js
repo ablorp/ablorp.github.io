@@ -37,7 +37,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-watney",
           title: '🦾 watney',
-          description: "founding intern at venture-backed startup",
+          description: "founding intern at robotics startup",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-hydroponics",

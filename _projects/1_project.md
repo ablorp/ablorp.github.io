@@ -1,8 +1,7 @@
 ---
 layout: page
 title: 🪱 openworm
-description: inducing biomechanical behaviors: How is it that the OpenWorm project, running since 2011, has not
-produced a digital C. elegans that crawls towards food the way a real animal does?
+description: inducing thermotactic behavior in a digitally simulated worm
 img: assets/img/publication_preview/worm_crawling.gif
 importance: 1
 category: side quests

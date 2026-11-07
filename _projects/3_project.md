@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 🍓 hydroponics
-description: setting up my brother's vertical farm at Berkeley, where my robotics journey began
+description: setting up my brother's vertical farm at Berkeley, where my robotics journey began (circa 2023)
 img: assets/img/teleoperation_a.jpg
 importance: 2
 category: side quests

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 🪱 openworm
-description: how to train your c. elegans: inducing thermotactic behavior in a digitally simulated worm
+description: inducing thermotactic behavior in a digitally simulated C. elegans
 img: assets/img/publication_preview/worm_crawling.gif
 importance: 1
 category: side quests

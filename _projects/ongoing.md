@@ -69,7 +69,7 @@ category: ongoing
 
 (2026 Aug 28) 🧠 Revisiting biomechanical simulations from a neuroscience perspective (with a new twist).
 
-**Acknowledgement:** This computational neuroscience project would not be possible without generous computing resource support from my dad, a computer scientist 🧙🏻‍♂️ who in turn wishes to acknowledge the technical assistance provided by OpenAI coding agents 🤖 in configuring OpenWorm software packages originally written for Linux on AMD64 to run efficiently on our new Macs with M5 chips.
+**Acknowledgement:** This computational neuroscience project would not be possible without extra computing resources from my dad, a computer scientist 🧙🏻‍♂️ who wishes to acknowledge the superb technical assistance provided by OpenAI 🤖 in configuring software packages (originally written for Linux on AMD64) to play nice with our new Macs with M5 chips.
 
 ---
 

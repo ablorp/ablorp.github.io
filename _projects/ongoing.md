@@ -33,7 +33,7 @@ category: ongoing
 
 (2026 Nov 22–29) 🦃 Experimental session 1: aquarium temperature gradient design.
 
-(2026 Nov 11–17) 🗼 Finalize research design and implementation schedule (during iGEM Grand Jamboree in Paris).
+(2026 Nov 11–17) 🗼 Finalize research design and implementation schedule (iGEM Grand Jamboree in Paris).
 
 (2026 Nov 5)  ⌛️ [STS 2027](https://www.societyforscience.org/regeneron-sts/) already past deadline; aim to finish before GGSF drop-off (Feb 28, 2027).
 

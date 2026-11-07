@@ -54,7 +54,7 @@ Watney's adventure: from one strawberry farm in Berkeley to the largest server f
     </div>
 </div>
 <div class="caption">
-    【 <a href="https://youtu.be/kYdJM-HD2Zs">LINK 🗣</a> 】Closing an ultra low-latency teleoperation loop at our lab on Telegraph Avenue (circa Feb 14, 2024).
+    【 <a href="https://youtu.be/kYdJM-HD2Zs">LINK 🗣</a> 】Closing an ultra low-latency teleoperation loop at our lab on Telegraph Avenue in Berkeley (circa Feb 14, 2024).
 </div>
 
 <div class="row justify-content-sm-center">

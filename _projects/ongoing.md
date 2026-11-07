@@ -35,9 +35,9 @@ category: ongoing
 
 (2026 Nov 11–17) 🗼 Finalize research design and implementation schedule (during iGEM Grand Jamboree in Paris).
 
-(2026 Nov 5)  ⌛️ [STS 2027](https://www.societyforscience.org/regeneron-sts/) past deadline; aim to finish before GGSF drop-off (Feb 28, 2027).
+(2026 Nov 5)  ⌛️ [STS 2027](https://www.societyforscience.org/regeneron-sts/) already past deadline; aim to finish before GGSF drop-off (Feb 28, 2027).
 
-(2026 Nov 5)  🙋🏻‍♂️ Looking for *C. elegans* already in motion? 🪱 🔍 👀 Founding Class Fellowship application submitted at 8pm.
+(2026 Nov 5)  🙋🏻‍♂️ Looking for *C. elegans* already in motion? 🪱 🔍 👀 Founding Class Fellowship application submitted before 8pm.
 
 (2026 Nov 4)  🪱 movement: 5 secs of crawling <=> 14167 secs (~4hrs) of compute on MacBook Pro (M5 Max + 128 GB).
 
@@ -67,7 +67,7 @@ category: ongoing
 
 (2026 Sep 1)  📝 Project proposal ready for review by Dr. Yetman.
 
-(2026 Aug 28) 🧠 Revisiting a two-year-old computational neuroscience idea, this time with a newer twist.
+(2026 Aug 28) 🧠 Revisiting a 2yo computational neuroscience idea, but with a new twist.
 
 ---
 

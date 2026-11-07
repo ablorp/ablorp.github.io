@@ -26,7 +26,7 @@ latest_posts:
 
 A high school senior with a strong interest in biomechanical engineering and robotics, Adam interns at a [robotics startup](https://watney.com) in San Francisco from day one. Adam's [science projects](https://adamcheong.com/projects/) since 7th grade, from hydroponics to computational biology, have won multiple STEM fair awards. Adam has been a member of the [Masason Foundation](https://masason-foundation.org/en/scholars/?scholar_id=131274) since 2025.
 
-As a pre-college scholar, Adam has taken rigorous undergraduate courses in: [program structure](https://classes.berkeley.edu/content/2025-summer-compsci-61a-001-lec-001), [data structure](https://classes.berkeley.edu/content/2026-summer-compsci-61bl-001-lec-001) and [data science](https://classes.berkeley.edu/content/2026-summer-data-c8-001-lec-001) at UC Berkeley over the past two summers. Adam enjoys the great outdoors — a certified scuba diver and avid alpinist who has summited Mt. Fuji and Mt. Shasta after hiking Mt. Hood and the Brokeoff Mountain.
+Adam has taken undergraduate courses in: [program structure](https://classes.berkeley.edu/content/2025-summer-compsci-61a-001-lec-001), [data structure](https://classes.berkeley.edu/content/2026-summer-compsci-61bl-001-lec-001) and [data science](https://classes.berkeley.edu/content/2026-summer-data-c8-001-lec-001) at UC Berkeley over two summers, and is now its pre-college program's  student ambassador. Adam enjoys the great outdoors — an avid alpinist who has summited Mt. Fuji and Mt. Shasta after hiking Mt. Hood and the Brokeoff Mountain, as well as a PADI-certified scuba diver.
 
 Adam is skilled at bouldering; his twice weekly routine combines puzzle solving with physical feats to chart a navigable course on the vertical face of a wall — exercising brain and brawn. Adam aspires to become an expert in biomechanics harnessing physical AI for the betterment of humankind. He looks forward to [iGEM 2026 Jamboree](https://jamboree.igem.org/2026).
 
@@ -40,10 +40,10 @@ Adam is skilled at bouldering; his twice weekly routine combines puzzle solving 
         {% include figure.liquid loading="eager" path="assets/img/a_twist.jpg" title="symposium" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/scuba_a.jpg" title="scuba diving" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/alpinist.jpg" title="alpine climbing" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/alpinist.jpg" title="alpinism" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/scuba_a.jpg" title="scuba diving" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/bouldering.jpg" title="bouldering" class="img-fluid rounded z-depth-1" %}
@@ -52,7 +52,7 @@ Adam is skilled at bouldering; his twice weekly routine combines puzzle solving 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/watney.jpg" title="presentation" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/watney.jpg" title="my biomechanical engineering and robotics journey" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 

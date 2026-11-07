@@ -45,13 +45,15 @@ category: ongoing
 
 (2026 Oct 29) 🤖 Priorotize Ubuntu system tools over Nix tools (to resolve environment path errors).
 
-(2026 Oct 28) 🤖 Replace AMD OpenCL drivers ([AMD-APP-SDK 3.0](https://github.com/arturxz/AMD-APP-SDK-v3.0) for x86_64) with [PoCL](https://portablecl.org/) dev packages and runtime for aarch64 (e.g., [LLVM](https://llvm.org/) and [Clang](https://clang.llvm.org/)).
+(2026 Oct 28) 🤖 Remove AMD OpenCL drivers ([AMD-APP-SDK 3.0](https://github.com/arturxz/AMD-APP-SDK-v3.0) for x86_64).
 
-(2026 Oct 28) 🤖 Install the latest NEURON simulatior [version 9.0.2]((https://www.neuronsimulator.org/en/9.0.2/) (instead of default 8.2.6) for compatibility.
+(2026 Oct 28) 🤖 Install [PoCL](https://portablecl.org/) dev packages and runtime for aarch64 (e.g., [LLVM](https://llvm.org/) and [Clang](https://clang.llvm.org/)).
+
+(2026 Oct 28) 🤖 Install NEURON simulator [version 9.0.2](https://www.neuronsimulator.org/en/9.0.2/) (default 8.2.6) for compatibility.
 
 (2026 Oct 28) 🤖 Dockerfile change: replace "ubuntu:24.04" (for x86_64) to "arm64v8/ubuntu:24.04" (for aarch64).
 
-(2026 Oct 28) 🧙🏻‍♂️ Configure openworm to run on Apple arm64 CPU (instead of Rosetta emulation of x86_64 code by default).
+(2026 Oct 28) 🧙🏻‍♂️ Configure openworm to run on Apple arm64 CPU (instead of [Rosetta emulation of AMD64](https://ddev.com/blog/amd64-with-rosetta-on-macos/) by default).
 
 (2026 Sep 20) 🪱 Research design: temperature gradient in aquarium, transducers for AFD, monitoring of AFD-AIY link.
 

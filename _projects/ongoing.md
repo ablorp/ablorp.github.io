@@ -13,7 +13,7 @@ category: ongoing
 
 (2027 May 8–14) 🏆 [ISEF 2027](https://www.societyforscience.org/isef/): Computational Neuroscience (NEU) subcategory, Los Angeles, California.
 
-(2027 Apr __) 🍀 [CSEF 2027](https://csef.usc.edu/): Zoology category, USC, Los Angeles, California.
+(2027 Apr __) 🥇 [CSEF 2027](https://csef.usc.edu/): Zoology category, USC, Los Angeles, California.
 
 (2027 Mar 7)  🍀 [GGSF 2027](https://ggstemfair.org/): Biological Sciences category, judging and ceremony.
 

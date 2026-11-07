@@ -39,7 +39,7 @@ category: ongoing
 
 (2026 Oct 28) 🪱 Prepare to run openworm on Apple arm64 CPU (instead of Rosetta emulation of x86_64 code by default).
 
-(2026 Sep 20) 🪱 Finalize setup: temperature gradient in aquarium, transducers for AFD, monitoring of AFD-AIY link.
+(2026 Sep 20) 🪱 Research design: temperature gradient in aquarium, transducers for AFD, monitoring of AFD-AIY link.
 
 (2026 Sep 14) 🪱 Project plan revision started after feedback and background review of literature.
 

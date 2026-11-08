@@ -97,7 +97,7 @@ category: ongoing
 
 ---
 
-**Project Proposal:**
+🙋🏻‍♂️ **Project Proposal:**
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -161,7 +161,7 @@ category: ongoing
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/ow/c.jpg" title="slide c" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/ow/z.jpg" title="slide z" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 

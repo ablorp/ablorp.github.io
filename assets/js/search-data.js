@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "All roads through stem fairs and side quests leading me to an exciting biomechanical engineering and robotics future ahead.",
+          description: "All roads through stem fairs and side quests leading me to a promising biomechanical engineering and robotics future ahead.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";

@@ -65,7 +65,7 @@ category: ongoing
 
 (2026 Sep 20) 🪱 Research design: temperature gradient in aquarium, transducers for AFD, monitoring of AFD-AIY link.
 
-(2026 Sep 14) 📝 Revise research plan upon further review of literature with feedback.
+(2026 Sep 14) 📝 Revise research plan after review of literature.
 
 (2026 Sep 1)  📝 Project proposal ready for review by Dr. Yetman.
 
@@ -77,17 +77,23 @@ category: ongoing
 
 ---
 
-**AI-Assisted [Edit-Debug Cycle](https://github.com/openworm/OpenWorm/blob/master/README.md#quickstart):**
+🤖 **AI-Assisted [Edit-Debug Cycle](https://github.com/openworm/OpenWorm/blob/master/README.md#quickstart):**
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/ow/a.jpg" title="slide a" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+---
+
+🧙🏻‍♂️ **Human-Assisted Toolchain Mapping:**
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/ow/b.jpg" title="slide b" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
----
-
-**Software Toolchain:**
 
 ---
 

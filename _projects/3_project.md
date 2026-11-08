@@ -30,7 +30,7 @@ Our paths converged because we have a shared interest in: 🍓 hydroponics and r
     </div>
 </div>
 <div class="caption">
-    Our zero-to-one journey: starting 🍓 hydroponics in Berkeley (circa Aug–Oct 2023).
+    Starting a 🍓 hydroponics vertical farm in Berkeley (circa Aug–Oct 2023).
 </div>
 
 <div class="row">

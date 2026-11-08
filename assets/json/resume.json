@@ -275,8 +275,8 @@
   "papers": [
     {
       "name": "How to Train Your C. Elegans: Inducing Thermotactic Behavior in a Digitally Simulated Worm",
-      "publisher": "Golden Gate STEM Fair 2027",
-      "releaseDate": "2027-02-28",
+      "publisher": "26th International Worm Meeting",
+      "releaseDate": "2027-07-18",
       "url": "https://adamcheong.com/assets/pdf/OpenWorm Training.pdf",
       "summary": "Biomechanical simulations of a digital worm inside an artificial aquarium to study AFD-AIY connectivity along the worm's thermosensory pathway known to drive thermotactic behavior in response to a temperature gradient."
     },
@@ -289,6 +289,13 @@
     }
   ],
   "posters": [
+    {
+      "name": "How to Train Your C. Elegans: Inducing Thermotactic Behavior in a Digitally Simulated Worm",
+      "publisher": "26th International Worm Meeting, Kobe, Japan",
+      "releaseDate": "2027-07-18",
+      "url": "https://adamcheong.com/assets/pdf/OpenWorm Training.pdf",
+      "summary": "Biomechanical simulations of a digital worm inside an artificial aquarium to study AFD-AIY connectivity along the worm's thermosensory pathway known to drive thermotactic behavior in response to a temperature gradient."
+    },
     {
       "name": "How Cancer Cells Undergoing a Treatment Course Evolve to Survive Multiple Mass Extinctions",
       "publisher": "Biomedical Engineering Society 2026 Annual Meeting, High School Poster Expo, Orlando, Florida",

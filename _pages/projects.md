@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: All roads leading me — through stem fairs and side quests — to pursue a biomechanical engineering and robotics future.
+description: In pursuit of a biomechanical engineering and robotics future — by way of side quests and STEM fairs.
 nav: true
 nav_order: 2
 display_categories: [side quests, stem fairs, starting line]

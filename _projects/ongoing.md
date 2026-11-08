@@ -75,10 +75,6 @@ category: ongoing
 
 ---
 
-**Software Toolchain:**
-
----
-
 **AI-Assisted [Edit-Debug Cycle](https://github.com/openworm/OpenWorm/blob/master/README.md#quickstart):**
 
 <div class="row">
@@ -86,6 +82,10 @@ category: ongoing
         {% include figure.liquid loading="eager" path="assets/img/ow/b.jpg" title="slide b" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+---
+
+**Software Toolchain:**
 
 ---
 

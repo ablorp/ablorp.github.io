@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 🍓 hydroponics
-description: setting up a vertical farm at Berkeley (circa 2023), and kickstarted an exciting robotics journey with my brother
+description: setting up a vertical farm at Berkeley (circa 2023), and kickstarted a new robotics journey with my brother
 img: assets/img/teleoperation_a.jpg
 importance: 2
 category: side quests

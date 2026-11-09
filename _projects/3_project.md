@@ -30,7 +30,7 @@ My brother and I are passionate about strawberry hydroponics and robotics. We ha
     </div>
 </div>
 <div class="caption">
-    Starting a strawberry hydroponics vertical farm in Berkeley (circa Aug–Oct 2023).
+    Setting up a strawberry hydroponics vertical farm in Berkeley (circa Aug–Oct 2023).
 </div>
 
 <div class="row">

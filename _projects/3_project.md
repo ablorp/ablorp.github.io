@@ -7,7 +7,9 @@ importance: 2
 category: side quests
 ---
 
-My brother and I are passionate about strawberry hydroponics and robotics. We had this idea to grow strawberries year-round in 40-feet shipping containers. So, I helped set up his vertical farm in Berkeley (inside a 3rd-floor office next to Moe's Books) over the summer of 2023 after graduating middle school. Starting 9th grade, I constructed the arms of the robots, assembled the remote controllers for teleoperation, and trained the robot arm, often staying up late and sleeping overnight on the office couch. We named our one-arm strawberry farmer *Watney*, from a movie called *The Martian*, because we dreamed of growing strawberries on Mars someday.
+My brother and I are passionate about strawberry hydroponics and robotics. We had this idea to grow strawberries year-round in 40-feet shipping containers. So, I helped set up his vertical farm in Berkeley (inside a 3rd-floor office next to Moe's Books) over the summer of 2023 after graduating middle school. Throughout 9th grade, I crossed the Bay Bridge after school to work on Watney a few times a week.
+
+I stayed up late soldering every new batch of controllers early into the next day, and sleeping overnight on the office couch. Too many times, design updates made my previous day's work obsolete. I had to disassemble them all to salvage the expensive servos for the next iteration. I constructed the arms of the robots, assembled the remote controllers for teleoperation, and trained the robot arms with machine learning. We named our one-arm strawberry farmer *Watney*, from a movie called *The Martian*, because we dreamed of growing strawberries on Mars someday.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

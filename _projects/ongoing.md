@@ -7,6 +7,8 @@ importance: 1
 category: ongoing
 ---
 
+Inducing thermotactic behavior in a digitally simulated C. elegans equipped with thermosensory transducers for an artificially designed aquarium with pre-programmed temperature gradients is a work-in-progress...
+
 ---
 
 **🪱 Training in Progress (Aug 2026 to May 2027):**

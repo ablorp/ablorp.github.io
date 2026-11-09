@@ -1,19 +1,19 @@
 ---
 layout: page
-title: 🪱 training ⏳
-description: Lookie here... already in motion 🪱 🔍 👀
+title: 🪱 training 🔍 👀
+description: Lookie here... already in motion
 img: assets/img/publication_preview/worm_crawling.gif
 importance: 1
 category: ongoing
 ---
 
-Inducing thermotactic behavior in a digitally simulated *C. elegans*, equipped with thermosensory transducers for an artificially designed aquarium with pre-programmed temperature gradients, is my second most ambitious project (that first one had failed). It is built on top of OpenWorm, a computational model of a microscopic roundworm called *Caenorhabditis elegans* which has less than 1,000 cells and only 302 neurons. Available since 2011, I'm curious about why in the past 15 years no one has produced a digital *C. elegans* that crawls towards food the way a real animal does? Thermotaxis may be a better starting point, I thought.
+Inducing thermotactic behavior in a digitally simulated *C. elegans*, equipped with thermosensory transducers for an artificially designed aquarium with pre-programmed temperature gradients, is my *second* most ambitious project (that first one had failed). It is built on top of OpenWorm, a computational model of a microscopic roundworm called *Caenorhabditis elegans* which has less than 1,000 cells and only 302 neurons. Available since 2011, I'm curious about why in the past 15 years no one has produced a digital *C. elegans* that crawls towards food the way a real animal does? Thermotaxis may be a better starting point, I thought.
 
-My project uses a bottom-up approach to observe how worm behaviors emerge from a simulation of empirical data derived from scientific experiments. These data has been incorporated into software models. Underlying tools such as [Sibernetic](https://github.com/openworm/sibernetic) and [c302](https://github.com/openworm/c302) are open-source simulation platforms that run these different models. A unified [Docker simulation stack](https://openworm.org/downloads.html#docker) brings all these packages together to run on your local *x86_64* machine. But our newest Macs run on Apple M5 chips. So, I must first find a way to have all these software packages properly configured for *arm64* CPU.
+My project uses a bottom-up approach to observe how worm behaviors emerge from a simulation of empirical data derived from scientific experiments. These data has been incorporated into software models. Underlying tools such as [Sibernetic](https://github.com/openworm/sibernetic) and [c302](https://github.com/openworm/c302) are open-source simulation platforms that run these different models. A unified [Docker simulation stack](https://openworm.org/downloads.html#docker) brings all these packages together to run on your local *x86_64* machine. But our newest Macs run on Apple M5 chips. So, I must first find a way to have all these software packages properly configured for the *arm64* CPU.
 
 The following sections show: (i) project planning and progression in reverse chronological order, (ii) acknowledgement of help received from both AI and human, (iii) edit-debug cycle for software configuration, (iv) software toolchain mapping, and finally (v) the most recent draft of my project proposal.
 
-The biggest challenge for me, of course, is juggling school and work and extracurriculars while finding time for my 🪱 project in between submitting applications to college (and The Academy).
+The biggest challenge for me as a senior, of course, is juggling school and work and extracurriculars while finding time for my 🪱 project in between submitting applications to college (and *The Academy*).
 
 ---
 
@@ -33,15 +33,15 @@ The biggest challenge for me, of course, is juggling school and work and extracu
 
 (2027 Jan 11–15) 🛫 High school trip to NYC.
 
-(2027 Jan 1–9)   🪱 Experimental session 4: visual confirmation of thermotactic behaviors?
+(2027 Jan 1–9)   🪱 Worm session 4: visual confirmation of thermotactic behaviors?
 
-(2026 Dec 25–31) 🎄 Experimental session 3: monitoring of AFD-AIY connectivity.
+(2026 Dec 25–31) 🎄 Worm session 3: monitoring of AFD-AIY connectivity.
 
 (2026 Dec 21) 🎊 Masason Annual Activity Report Session 2026 and End of the Year Party in Tokyo.
 
-(2026 Dec 17–20) 🎄 Experimental session 2: develop and test transducers for AFD.
+(2026 Dec 17–20) 🎄 Worm session 2: develop and test transducers for AFD.
 
-(2026 Nov 22–29) 🦃 Experimental session 1: aquarium temperature gradient design.
+(2026 Nov 22–29) 🦃 Worm session 1: aquarium temperature gradient design.
 
 (2026 Nov 11–17) 🗼 iGEM Grand Jamboree in Paris: finalize research design and implementation schedule.
 
@@ -81,7 +81,7 @@ The biggest challenge for me, of course, is juggling school and work and extracu
 
 ---
 
-🙇🏻‍♂️ **Acknowledgement:** This project would not be possible without the additional computing resources from my dad, a computer scientist 🧙🏻‍♂️ who wishes to acknowledge OpenAI's 🤖 assistance in persuading OpenWorm 🪱 to play nice with our newest Macs.
+🙇🏻‍♂️ **Acknowledgement:** This project would not be possible without the additional computing resources from my dad, a computer scientist 🧙🏻‍♂️ who wishes to acknowledge OpenAI's 🤖 assistance in persuading OpenWorm 🪱 to play nice with our new Macs.
 
 ---
 

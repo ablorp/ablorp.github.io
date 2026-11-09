@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "In pursuit of a biomechanical and robotics future in the physical world — by way of side quests (since 2023) alongside six years of STEM fairs (2022–2027).",
+          description: "In pursuit of a biomechanical and robotics future — by way of serendipitous side quests (since 2023) alongside STEM fairs (7th to 12th grade).",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -42,7 +42,7 @@ ninja.data = [{
               window.location.href = "/projects/2_project/";
             },},{id: "projects-hydroponics",
           title: '🍓 hydroponics',
-          description: "setting up a vertical farming club at Berkeley (circa 2023), and thus began my robotics journey...",
+          description: "setting up a vertical farming club at Berkeley (circa 2023), and kickstarted my robotics journey",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-monte-carlo",

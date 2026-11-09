@@ -7,7 +7,11 @@ importance: 1
 category: ongoing
 ---
 
-Inducing thermotactic behavior in a digitally simulated C. elegans equipped with thermosensory transducers for an artificially designed aquarium with pre-programmed temperature gradients is a work-in-progress...
+Inducing thermotactic behavior in a digitally simulated C. elegans equipped with thermosensory transducers for an artificially designed aquarium with pre-programmed temperature gradients is my senior year captone project. It is built on top of OpenWorm, the first comprehensive computational model of a microscopic roundworm called *Caenorhabditis elegans*. With less than a thousand cells, this worm solves basic problems such as feeding, mate-finding and predator avoidance using just 302 neurons.
+
+OpenWorm uses a bottom-up approach, aimed at observing the worm behavior emerge from a simulation of data derived from scientific experiments. These data are incorporated into software models. Underlying tools such as Sibernetic and c302 are open-source simulation platforms that run these different models in concert. A unified [Docker simulation stack](https://openworm.org/downloads.html#docker) brings all these parts together to run on your local x86_64 machine.
+
+But our Macs run on Apple M5 chips (arm64v8).
 
 ---
 

@@ -42,7 +42,7 @@ ninja.data = [{
               window.location.href = "/projects/2_project/";
             },},{id: "projects-hydroponics",
           title: '🍓 hydroponics',
-          description: "setting up a vertical farming club at Berkeley with my brother (circa 2023), and kickstarted my robotics journey",
+          description: "setting up a vertical farming club at Berkeley (circa 2023), and kickstarted a robotics journey with my brother",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-monte-carlo",

@@ -69,7 +69,7 @@ category: ongoing
 
 (2026 Sep 1)  📝 Project proposal ready for review by Dr. Yetman.
 
-(2026 Aug 28) 🧠 Revisiting biomechanical simulations from a neuroscience perspective.
+(2026 Aug 28) 🧠 Revisit biomechanical simulations from a neuroscience perspective.
 
 ---
 

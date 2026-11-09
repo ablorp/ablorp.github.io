@@ -45,9 +45,9 @@ The biggest challenge for me, of course, is juggling school and work and extracu
 
 (2026 Nov 11–17) 🗼 iGEM Grand Jamboree in Paris: finalize research design and implementation schedule.
 
-(2026 Nov 5)  ⌛️ [STS 2027](https://www.societyforscience.org/regeneron-sts/) already past 5pm submission time; revised target date: Feb 28, 2027.
+(2026 Nov 5)  ⌛️ [STS 2027](https://www.societyforscience.org/regeneron-sts/) too late for submission by 5pm; revised target date: Feb 28, 2027.
 
-(2026 Nov 5) 🍀 Looking for *C. elegans* already in motion? 🪱 🔍 👀 Founding Class Fellowship submitted before 8pm.
+(2026 Nov 5) 🍀 Looking for *C. elegans* already in motion? 🪱 🔍 👀 Founding Class Fellowship submitted around 8pm.
 
 (2026 Nov 4)  🪱 movement: 5 secs of crawling <=> 14167 secs (~4hrs) of compute on MacBook Pro (M5 Max + 128 GB).
 

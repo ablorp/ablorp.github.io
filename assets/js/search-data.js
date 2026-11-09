@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "In pursuit of a biomechanical and robotics future — through serendipitous side quests and STEM fair projects on topics that I find interesting and curious about.",
+          description: "In pursuit of a biomechanical and robotics future — through serendipitous side quests and STEM fair projects on topics that I find interesting.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-conferences",
           title: "conferences",
-          description: "Conferences and symposiums where I&#39;d present at poster sessions and meet with experts. I was the youngest presenter, the only high-schooler in fact, at the 25th International Worm Meeting at UC Davis. I look forward to visiting Kobe, Japan next for the 26th International Worm Meeting.",
+          description: "Conferences and symposiums where I&#39;d present at poster sessions and meet with experts. I was the youngest presenter, in fact the only high-schooler, at the 25th International Worm Meeting at UC Davis. I look forward to visiting Kobe, Japan next for the 26th International Worm Meeting.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/conferences/";

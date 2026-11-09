@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "In pursuit of a biomechanical and robotics future — through serendipitous side quests and STEM projects on topics that I find interesting.",
+          description: "In pursuit of a biomechanical and robotics future — through serendipitous side quests and STEM fair projects on topics that I find interesting.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";

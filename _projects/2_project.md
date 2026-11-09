@@ -18,7 +18,7 @@ Watney's adventure: from Berkeley's strawberry farm to server farms running on f
     </div>
 </div>
 <div class="caption">
-    Watney goes to work at data centers after being taught new cabling skills by yours truly (circa Dec 2024).
+    Watney goes to work at data centers; after being taught new cabling skills by yours truly (circa Dec 2024).
 </div>
 
 <div class="row">

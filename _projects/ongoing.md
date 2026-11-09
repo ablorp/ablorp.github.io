@@ -81,7 +81,7 @@ The biggest challenge for me as a senior, of course, is juggling school and work
 
 ---
 
-🙇🏻‍♂️ **Acknowledgement:** This project would not be possible without the additional computing resources from my dad, a computer scientist 🧙🏻‍♂️ who wishes to acknowledge OpenAI's 🤖 assistance in persuading OpenWorm 🪱 to play nice with our newest Macs.
+🙇🏻‍♂️ **Acknowledgement:** This project would not be possible without the additional computing resources from my dad, a computer scientist 🧙🏻‍♂️ who wishes to acknowledge OpenAI's 🤖 assistance in persuading OpenWorm 🪱 to play nice with our new Macs.
 
 ---
 

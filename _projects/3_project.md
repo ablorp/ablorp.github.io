@@ -7,7 +7,7 @@ importance: 2
 category: side quests
 ---
 
-My brother and I have a shared interest in strawberry hydroponics and robotics. And we had this idea to grow strawberries year-round in 40ft shipping containers. So, we set up a vertical farming club at Berkeley in the summer of 2023, right before I started high school. We named our one-arm strawberry farming robot 'Watney', from a movie called *The Martian*, because we dreamed of growing strawberries on Mars — eventually.
+My brother and I have a shared interest in strawberry hydroponics and robotics. And we had this idea to grow strawberries year-round in 40ft shipping containers. So, we set up a vertical farming club at Berkeley in the summer of 2023, right before I started high school. We named our one-arm strawberry farming robot 'Watney', from a movie called *The Martian*, because we dreamed of growing strawberries on Mars someday.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

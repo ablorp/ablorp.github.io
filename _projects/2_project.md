@@ -7,7 +7,7 @@ importance: 1
 category: side quests
 ---
 
-Watney's adventure: from Berkeley's strawberry farm to server farms running on four nines round the clock at the largest hyperscalers in the world. We’ve raised $80 million in [Series A funding](https://www.linkedin.com/posts/sarahxguo_thrilled-to-finally-talk-about-watney-sean-share-7506500010943991808-sYKH/), co-led by the Valor Atreides AI Fund and Hummingbird Ventures, with continued participation from Conviction, Abstract, A*, and Grant Gordon. This brings our total raised to over $100 million. It's an exciting time at Watney. I was there from day one. We’re all here because we want to see more ambition in the physical world 🦾.
+Watney's adventure: from Berkeley's strawberry farm to server farms running on four nines round the clock at the largest hyperscalers in the world. We’ve raised $80 million in [Series A funding](https://www.linkedin.com/posts/sarahxguo_thrilled-to-finally-talk-about-watney-sean-share-7506500010943991808-sYKH/), co-led by the Valor Atreides AI Fund and Hummingbird Ventures, with continued participation from Conviction, Abstract, A*, and Grant Gordon. This brings our total raised to over $100 million. It's an exciting time at Watney. I was there from day one — because we want to see more ambition in the physical world 🦾.
 
 <div class="row">
     <div class="col-sm-8 mt-3 mt-md-0">

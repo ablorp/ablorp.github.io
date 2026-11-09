@@ -45,7 +45,7 @@ My brother and I have a shared interest in strawberry hydroponics and robotics. 
     </div>
 </div>
 <div class="caption">
-    Heavy lifting all the way: from San Carlos home garage to new offices in Berkeley (circa July 2023).
+    Heavy lifting all the way: from our garage at home to new offices in Berkeley (circa July 2023).
 </div>
 
 <div class="row justify-content-sm-center">

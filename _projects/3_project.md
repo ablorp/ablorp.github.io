@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 🍓 hydroponics
-description: setting up a vertical farming club at Berkeley (circa 2023), and thus began my robotics journey...
+description: setting up a vertical farming club at Berkeley (circa 2023), and kickstarted my robotics journey
 img: assets/img/teleoperation_a.jpg
 importance: 2
 category: side quests

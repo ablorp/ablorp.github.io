@@ -1,13 +1,13 @@
 ---
 layout: page
 title: 🍓 hydroponics
-description: setting up a vertical farm at Berkeley (circa 2023), and kickstarted a new robotics journey with my brother
+description: setting up a vertical farm in Berkeley (circa 2023), and kickstarted a new robotics journey with my brother
 img: assets/img/teleoperation_a.jpg
 importance: 2
 category: side quests
 ---
 
-My brother and I are passionate about strawberry hydroponics and robotics. We had this idea to grow strawberries year-round in 40-feet shipping containers. So, we set up a vertical farm in Berkeley over the summer of 2023, before I started high school. We named our one-arm strawberry farmer *Watney*, from a movie called *The Martian*, because we dreamed of growing strawberries on Mars someday.
+My brother and I are passionate about strawberry hydroponics and robotics. We had this idea to grow strawberries year-round in 40-feet shipping containers. So, I helped set up his vertical farm in Berkeley (inside a 3rd-floor office next to Moe's Books) over the summer of 2023, before starting high school. We named our one-arm strawberry farmer *Watney*, from a movie called *The Martian*, because we dreamed of growing strawberries on Mars someday.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

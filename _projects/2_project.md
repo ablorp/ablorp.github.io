@@ -66,5 +66,5 @@ Watney's adventure: from Berkeley's strawberry farm to server farms running on f
     </div>
 </div>
 <div class="caption">
-    Trying out old-timey arcade machines at Playground and skipping school for cool robots at TechCrunch Robotics (circa 2018).
+    Trying out old-timey arcade games at Playground and skipping school to play with cool robots at TechCrunch Robotics (circa 2018).
 </div>

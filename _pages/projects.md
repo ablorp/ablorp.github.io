@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: In pursuit of a biomechanical and robotics future — by way of serendipitous side quests alongside STEM fairs (7th to 12th grade).
+description: In pursuit of a biomechanical and robotics future — through serendipitous side quests and STEM fair projects on topics that interest me.
 nav: true
 nav_order: 2
 display_categories: [side quests, stem fairs, starting line]

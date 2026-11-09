@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-conferences",
           title: "conferences",
-          description: "Conferences, meetings and symposiums where I&#39;d present at poster sessions and have conversations with experts. I was the youngest presenter at 16 years old (and the only high-schooler) at the 25th International Worm Meeting at UC Davis in 2025. I look forward to the 26th International Worm Meeting at Kobe, Japan in 2027.",
+          description: "Conferences, meetings and symposiums where I&#39;d present at poster sessions and have conversations with experts. I was the youngest presenter (and the only high-schooler) at the 25th International Worm Meeting at UC Davis in 2025. Really looking forward to the 26th International Worm Meeting at Kobe, Japan next!",
           section: "Navigation",
           handler: () => {
             window.location.href = "/conferences/";

@@ -45,7 +45,7 @@ Watney's adventure: from Berkeley's strawberry farm to server farms running on f
     </div>
 </div>
 <div class="caption">
-    Dynamic duo working night shifts (circa Nov 2024); after relocating to new digs (with garage!) in Mission District (circa Jun 2024).
+    Dynamic duo working night shifts (circa Nov 2024); after relocating to new digs with garage in the Mission District (circa Jun 2024).
 </div>
 
 <div class="row">
@@ -54,7 +54,7 @@ Watney's adventure: from Berkeley's strawberry farm to server farms running on f
     </div>
 </div>
 <div class="caption">
-    【 <a href="https://youtu.be/kYdJM-HD2Zs">LINK 🗣</a> 】Closing a teleoperation loop at our robotics lab (a converted hydroponics farm) on Telegraph Avenue in Berkeley (circa Feb 14, 2024).
+    【 <a href="https://youtu.be/kYdJM-HD2Zs">LINK 🗣</a> 】Closing a teleoperation loop at our robotics lab, a converted hydroponics farm above Telegraph Avenue (circa Feb 14, 2024).
 </div>
 
 <div class="row justify-content-sm-center">

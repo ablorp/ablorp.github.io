@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: In pursuit of a biomechanical engineering and robotics future — by way of side quests after middle school (2023–present) and 6 years of STEM fairs (2022–2027) starting 7th grade.
+description: In pursuit of a biomechanical and robotics future in the physical world — by way of side quests (since 2023) alongside six years of STEM fairs (2022–2027).
 nav: true
 nav_order: 2
 display_categories: [side quests, stem fairs, starting line]

@@ -15,7 +15,7 @@ My brother and I have a shared interest in strawberry hydroponics and robotics. 
     </div>
 </div>
 <div class="caption">
-    🦾 Watney continuously learned to become a better 🍓 hydroponics farmer (circa Nov–Dec 2023).
+    Watney continuously learned to become a better strawberry farmer (circa Nov–Dec 2023).
 </div>
 
 <div class="row">
@@ -30,7 +30,7 @@ My brother and I have a shared interest in strawberry hydroponics and robotics. 
     </div>
 </div>
 <div class="caption">
-    Starting a 🍓 hydroponics vertical farm in Berkeley (circa Aug–Oct 2023).
+    Starting a strawberry hydroponics vertical farm in Berkeley (circa Aug–Oct 2023).
 </div>
 
 <div class="row">

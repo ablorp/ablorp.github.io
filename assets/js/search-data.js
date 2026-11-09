@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "In pursuit of a biomechanical and robotics future — by way of serendipitous side quests alongside STEM fairs (7th to 12th grade).",
+          description: "In pursuit of a biomechanical and robotics future — through serendipitous side quests and STEM fair projects on topics that interest me.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";

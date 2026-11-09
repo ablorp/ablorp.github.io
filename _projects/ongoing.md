@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 🪱 training ⏳
-description: Lookie here... already in motion 🪱 🔍 👀
+title: 🪱 training 🔍 👀
+description: Lookie here... already in motion
 img: assets/img/publication_preview/worm_crawling.gif
 importance: 1
 category: ongoing

@@ -11,7 +11,7 @@ Inducing thermotactic behavior in a digitally simulated *C. elegans*, equipped w
 
 My project uses a bottom-up approach to observe how worm behaviors emerge from a simulation of empirical data derived from scientific experiments. These data has been incorporated into software models. Underlying tools such as [Sibernetic](https://github.com/openworm/sibernetic) and [c302](https://github.com/openworm/c302) are open-source simulation platforms that run these different models in concert. A unified [Docker simulation stack](https://openworm.org/downloads.html#docker) brings all these parts together to run on your local *x86_64* machine. But our newest Macs run on Apple M5 chips. So, I must first find a way to have OpenWorm configured properly for *arm64* CPU.
 
-The following sections show: (i) project planning and progression (in reverse chronological order), (ii) acknowledgement of help received from both AI and human, (iii) edit-debug cycle for software configuration, (iv) software toolchain mapping, and finally (v) the most recent draft of my project proposal.
+The following sections show: (i) project planning and progression in reverse chronological order, (ii) acknowledgement of help received from both AI and human, (iii) edit-debug cycle for software configuration, (iv) software toolchain mapping, and finally (v) the most recent draft of my project proposal.
 
 The biggest challenge for me, of course, is juggling school and work and extracurriculars while finding time for my 🪱 project in between submitting applications to college (and The Academy).
 

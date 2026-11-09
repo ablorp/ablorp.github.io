@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: In pursuit of a biomechanical and robotics future — through serendipitous side quests and STEM fair projects on topics that I find interesting and curious about.
+description: In pursuit of a biomechanical and robotics future — through serendipitous side quests and STEM fair projects on topics that I find interesting.
 nav: true
 nav_order: 2
 display_categories: [side quests, stem fairs, starting line]

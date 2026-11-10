@@ -13,7 +13,7 @@ My project uses a bottom-up approach to observe how worm behaviors emerge from a
 
 The following sections show: (i) project planning and progression in reverse chronological order, (ii) acknowledgement of help received from both AI and human, (iii) edit-debug cycle for software configuration, (iv) toolchain mapping, and finally (v) the most recent draft of my project proposal.
 
-The biggest challenge for me as a senior, of course, is juggling Proof School and Watney and iGEM @ BioCurios Lab, making time for bouldering at Dogpatch or Hyperion while trying not to forget my student ambassador role for Cal's pre-college program, and then squeezing out more time for my 🪱 project in between submitting applications to college and *The Academy*.
+The biggest challenge for me as a senior, of course, is juggling Proof School and Watney and iGEM @ BioCurios Lab, making time for bouldering at Dogpatch or Hyperion while trying not to forget my student ambassador role for Cal's pre-college program, and then squeezing out more time for my 🪱 project in between submitting applications to college and *[The Academy](https://theacademysf.com/)*.
 
 ---
 
@@ -47,7 +47,7 @@ The biggest challenge for me as a senior, of course, is juggling Proof School an
 
 (2026 Nov 5)  ⌛️ [STS 2027](https://www.societyforscience.org/regeneron-sts/) too late for submission by 5pm; revised target date: Feb 28, 2027.
 
-(2026 Nov 5) 🍀 Looking for *C. elegans* already in motion? 🪱 🔍 👀 Founding Class Fellowship submitted around 8pm.
+(2026 Nov 5) 🍀 Looking for *C. elegans* already in motion? 🪱 🔍 👀 [Founding Class Fellowship](https://theacademysf.com/program) submitted around 8pm.
 
 (2026 Nov 4)  🪱 movement: 5 secs of crawling <=> 14167 secs (~4hrs) of compute on MacBook Pro (M5 Max + 128 GB).
 

@@ -20,7 +20,7 @@ I stayed up late soldering every new batch of controllers early into the next da
     </div>
 </div>
 <div class="caption">
-    Soldering a new batch of controllers after school so my brother could teach Watney strawberry farming the next day (circa Nov–Dec 2023).
+    Soldering controllers after school so my brother could teach Watney how to farm strawberries the next day (circa Nov–Dec 2023).
 </div>
 
 <div class="row">

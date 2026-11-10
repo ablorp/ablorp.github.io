@@ -15,12 +15,12 @@ I stayed up late soldering every new batch of controllers early into the next da
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/soldering_b.jpg" title="Soldering" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/teleoperation.gif" title="Teleoperation" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Soldering controllers after school so my brother could teach Watney how to farm strawberries the next day (circa Nov–Dec 2023).
+    Soldering a new batch of controllers after school so my brother could teach Watney strawberry farming the next day (circa Nov–Dec 2023).
 </div>
 
 <div class="row">

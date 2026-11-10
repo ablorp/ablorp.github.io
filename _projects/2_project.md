@@ -45,7 +45,7 @@ Watney's adventure: from Berkeley's berry farm to server farms running on four n
     </div>
 </div>
 <div class="caption">
-    Dynamic duo working night shifts (circa Nov 2024); after relocating to new digs with garage in the Mission District (circa Jun 2024).
+    Dynamic duo working night shifts (circa Nov 2024); after relocating to new digs with garage in the SF Mission District (circa Jun 2024).
 </div>
 
 <div class="row">

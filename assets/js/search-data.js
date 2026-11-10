@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "In pursuit of a biomechanical and robotics future — through serendipitous side quests and STEM projects on topics that I find interesting.",
+          description: "Founding intern of a $700-million venture-backed robotics startup with 4 years of diverse build experiences, from DIY mechanical prototyping to industry-grade mechatronics assembly to professional-level OnShape CAD design to state-of-the-art computational neuroscience simulations, in serendipitous pursuit of a biomechanical robotics future through a series of side quests.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";

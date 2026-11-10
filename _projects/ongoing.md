@@ -45,7 +45,7 @@ The biggest challenge for me as a senior, of course, is juggling Proof School an
 
 (2026 Nov 11–17) 🗼 iGEM Grand Jamboree in Paris: finalize research design and implementation schedule.
 
-(2026 Nov 5)  ⌛️ [STS 2027](https://www.societyforscience.org/regeneron-sts/) too late for submission by 5pm; revised target date: Feb 28, 2027.
+(2026 Nov 5)  ⌛️ [STS 2027](https://www.societyforscience.org/regeneron-sts/) past submission by 5pm; revised target date: Feb 28, 2027.
 
 (2026 Nov 5) 🍀 Looking for *C. elegans* already in motion? 🪱 🔍 👀 [Founding Class Fellowship](https://theacademysf.com/program) submitted around 8pm.
 

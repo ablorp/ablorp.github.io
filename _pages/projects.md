@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Builder Profile — founding intern of a three-year-old $700 million robotics startup in SF whose wide-ranging biomechanical build expertise, from mechanical DIY to industry-grade mechatronics assembly to professional OnShape CAD prototyping and 3D printing, has been developed over the years through increasingly ambitious projects, such as trying to solve a 15-year-old computational neuroscience puzzle with C. elegans 🪱 🔍 👀
+description: Builder Profile — founding intern of a three-year-old $700 million robotics startup in SF whose wide-ranging biomechanical build expertise, from mechanical DIY to industry-grade mechatronics assembly to professional OnShape CAD prototyping etc, has been developed over the years through increasingly ambitious projects, such as trying to solve a 15-year-old computational neuroscience puzzle with C. elegans 🪱 🔍 👀
 nav: true
 nav_order: 2
 display_categories: [side quests (2023–present), stem fairs (2023–2025), starting line]

@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-projects",
-          title: "projects",
-          description: "Founding intern of a $700-million venture-backed robotics startup with a broad range of build experience, from DIY mechanical prototyping to industry-grade mechatronics assembly to professional CAD design, in earnest pursuit of a biomechanical and robotics future through serendipitous side quests. Currently working on solving a computational neuroscience puzzle 🪱🔍👀",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
-        },{id: "nav-cv",
+  },{id: "nav-cv",
           title: "cv",
           description: "",
           section: "Navigation",

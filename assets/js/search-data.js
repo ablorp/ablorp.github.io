@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "Founding intern of a $700-million venture-backed robotics startup with 4 years of diverse build experiences, from DIY mechanical prototyping to industry-grade mechatronics assembly to professional-level OnShape CAD design to state-of-the-art computational neuroscience simulations, in serendipitous pursuit of a biomechanical robotics future through a series of side quests.",
+          description: "Founding intern of a $700-million venture-backed robotics startup with a broad range of build experience, from DIY mechanical prototyping to industry-grade mechatronics assembly to professional CAD design, in earnest pursuit of a biomechanical and robotics future through serendipitous side quests. Currently working on solving a computational neuroscience puzzle 🪱🔍👀",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";

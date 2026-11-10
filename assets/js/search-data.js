@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "Founding intern of a ~$700 million 3-year-old robotics startup with a broad range of build experience, from DIY mechanical contraptions to industry-grade mechatronics assembly to professional OnShape CAD prototyping, accrued over the past four years in quiet pursuit of a superintelligent biomechanical future for the betterment of humankind. Currently working on solving a computational neuroscience puzzle with C. elegans 🪱🔍👀",
+          description: "Founding intern of a ~$700 million robotics startup with a broad range of build experiences, from DIY mechanical contraptions to industry-grade mechatronics assembly to professional OnShape CAD prototyping, accrued over the past four years in quiet pursuit of a superintelligent biomechanical future for the betterment of humankind. Currently working on solving a computational neuroscience puzzle with C. elegans 🪱🔍👀",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";

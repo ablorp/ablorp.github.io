@@ -5,7 +5,7 @@ permalink: /projects/
 description: In pursuit of a biomechanical and robotics future — through serendipitous side quests and STEM projects on topics that I find interesting.
 nav: true
 nav_order: 2
-display_categories: [side quests, stem fairs (2023–2025), starting line]
+display_categories: [side quests (2023–present), stem fairs (2023–2025), starting line]
 horizontal: false
 ---
 

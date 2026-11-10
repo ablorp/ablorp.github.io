@@ -4,7 +4,7 @@ title: 🍓 hydroponics
 description: setting up a vertical farm in Berkeley (circa 2023), and kickstarted a new robotics journey with my brother
 img: assets/img/teleoperation_a.jpg
 importance: 2
-category: side quests
+category: side quests (2023–present)
 ---
 
 My brother and I are passionate about strawberry hydroponics and robotics. We had this idea to grow strawberries year-round in 40-feet shipping containers. So, I helped set up his vertical farm in Berkeley (inside a 3rd-floor office next to Moe's Books) over the summer of 2023 after graduating middle school. Throughout 9th grade, I crossed the Bay Bridge after school to work on Watney a few times a week.

@@ -30,7 +30,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/conferences/";
           },
-        },{id: "projects-openworm",
+        },{id: "projects-training",
+          title: '🪱 training 🔍 👀',
+          description: "Lookie here... already in motion",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/0_ongoing/";
+            },},{id: "projects-openworm",
           title: '🪱 openworm',
           description: "Inducing thermotactic behavior in a digitally simulated C. elegans equipped with thermosensory transducers for an artificially designed aquarium with pre-programmed temperature gradients is a work-in-progress (2026–2027).",
           section: "Projects",handler: () => {
@@ -75,11 +80,6 @@ ninja.data = [{
           description: "accruing experience test driving my brother&#39;s creation from a young age",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "projects-training",
-          title: '🪱 training 🔍 👀',
-          description: "Lookie here... already in motion",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/ongoing/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',

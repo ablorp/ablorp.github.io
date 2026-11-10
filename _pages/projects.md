@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Founding intern of a $700-million venture-backed robotics startup with a broad range of build experience, from DIY mechanical prototyping to industry-grade mechatronics assembly to professional CAD design, in earnest pursuit of a biomechanical and robotics future through serendipitous side quests. Currently working on solving a computational neuroscience puzzle 🪱🔍👀
+description: Founding intern of a $700 million venture-backed robotics startup with a broad range of build experiences: from DIY mechanical prototyping to industry-grade mechatronics assembly to professional CAD design, in quiet pursuit of a biomechanical and robotics future for the betterment of humankind. Currently working on solving a computational neuroscience puzzle 🪱🔍👀
 nav: true
 nav_order: 2
 display_categories: [side quests (2023–present), stem fairs (2023–2025), starting line]

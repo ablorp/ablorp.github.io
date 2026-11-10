@@ -5,7 +5,7 @@ description: Monte Carlo simulation of somatic twist in ancient marine worms
 img: assets/img/montecarlo_a.jpg
 redirect: https://adamcheong.com/assets/pdf/IWM-2025%20Presentation.pdf
 importance: 2
-category: stem fairs
+category: stem fairs (2023–2025)
 ---
 
 Every project has a beautiful feature showcase page.

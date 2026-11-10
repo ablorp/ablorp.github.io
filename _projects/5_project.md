@@ -5,7 +5,7 @@ description: why do vertebrates have decussated cortocospinal tracts?
 img: assets/img/decussation.jpg
 redirect: https://adamcheong.com/assets/pdf/A%20Twist%20on%20Decussation%E2%80%94JSHS%202025-Poster.pdf
 importance: 2
-category: stem fairs
+category: stem fairs (2023–2025)
 ---
 
 Every project has a beautiful feature showcase page.

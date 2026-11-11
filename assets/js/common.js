@@ -30,6 +30,47 @@ $(document).ready(function () {
       target: navSelector,
       offset: 100,
     });
+    // CV: honor the requested section at the bottom of the page.
+    if (document.querySelector(".cv")) {
+      const spy = $("body").data("bs.scrollspy");
+      const originalProcess = spy._process.bind(spy);
+
+      spy._process = function () {
+        const hash = window.location.hash;
+        const link = Array.from(
+          document.querySelectorAll("#toc-sidebar a.nav-link")
+        ).find((a) => a.getAttribute("href") === hash);
+
+        const heading = link
+          ? document.getElementById(decodeURIComponent(hash.slice(1)))
+          : null;
+
+        const section = heading && heading.closest(".card");
+        const rect = section && section.getBoundingClientRect();
+
+        const atBottom =
+          window.scrollY + window.innerHeight >=
+          document.documentElement.scrollHeight - 2;
+
+        // Keep the linked section active while its card is visible.
+        if (atBottom && rect && rect.bottom > 0 &&
+            rect.top < window.innerHeight) {
+          if (this._activeTarget !== hash) {
+            this._activate(hash);
+          }
+          return;
+        }
+
+        originalProcess();
+      };
+
+      // Also handles links that change the hash without further scrolling.
+      $(window).on("hashchange", function () {
+        spy._process();
+      });
+
+      spy._process();
+    }
   }
 
   // add css to jupyter notebooks

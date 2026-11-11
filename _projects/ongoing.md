@@ -15,7 +15,7 @@ The following sections show: (i) project planning and progression in reverse chr
 
 ---
 
-***P.S.*** The biggest challenge for me as a senior, of course, is juggling Proof School and Watney and iGEM @ BioCurios Lab, making time for bouldering at Dogpatch or Hyperion while trying not to forget my student ambassador role for Cal's pre-college program, and squeezing out time for my 🪱 project in between submitting applications to colleges and to *[The Academy](https://theacademysf.com/)*, whose yearlong program may look something like this (capped with a summer internship):
+***P.S.*** The biggest challenge for me as a senior, of course, is juggling Proof School and Watney and iGEM @ BioCurios Lab, making time for bouldering at Dogpatch or Hyperion while trying not to forget my student ambassador role for Cal's pre-college program, and squeezing out time for my 🪱 project in between submitting applications to colleges and to *[The Academy](https://theacademysf.com/)*, whose yearlong program may look something like this (capped by a 3-month summer internship at a venture capital firm):
 
 <div class="row">
     <div class="col-sm-6 mt-3 mt-md-0">

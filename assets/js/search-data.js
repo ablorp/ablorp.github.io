@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "Builder Profile - (1) founding intern of a three-year-old robotics startup in San Francisco with over $100 million raised; (2) four years of solid build experience from increasingly ambitious biomechanical engineering projects; and (3) now embarking upon a new quest to solve a 15-year-old computational neuroscience puzzle with C. elegans on OpenWorm 🪱 🔍 👀",
+          description: "Builder Profile - (1) founding intern of a three-year-old robotics startup in San Francisco with over $100 million raised; (2) solid build experience from increasingly ambitious biomechanical engineering projects over the past four years; and (3) recently began a new quest to solve a 15-year-old computational neuroscience puzzle with C. elegans on OpenWorm 🪱 🔍 👀",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";

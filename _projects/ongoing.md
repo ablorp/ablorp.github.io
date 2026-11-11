@@ -13,7 +13,9 @@ My project uses a bottom-up approach to observe how worm behaviors emerge from a
 
 The following sections show: (i) project planning and progression in reverse chronological order, (ii) acknowledgement of help received from both AI and human, (iii) edit-debug cycle for software configuration, (iv) toolchain mapping, and finally (v) the most recent draft of my project proposal.
 
-The biggest challenge for me as a senior, of course, is juggling Proof School and Watney and iGEM @ BioCurios Lab, making time for bouldering at Dogpatch or Hyperion while trying not to forget my student ambassador role for Cal's pre-college program, and then squeezing out more time for my 🪱 project in between submitting applications to college and *[The Academy](https://theacademysf.com/)*.
+---
+
+P.S. The biggest challenge for me as a senior, of course, is juggling Proof School and Watney and iGEM @ BioCurios Lab, making time for bouldering at Dogpatch or Hyperion while trying not to forget my student ambassador role for Cal's pre-college program, and then squeezing out more time for my 🪱 project in between submitting applications to college and *[The Academy](https://theacademysf.com/)*.
 
 ---
 

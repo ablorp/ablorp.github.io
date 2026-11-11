@@ -1,6 +1,6 @@
 FROM arm64v8/ubuntu:24.04
 
-LABEL maintainer="Adam Cheong (adam@cheong.net); John Cheong (john@twobit.co)"
+LABEL maintainer="Adam Cheong (adam@cheong.net)"
 
 ################################################################################
 ########     [1] Set up directories for openwork user: ow

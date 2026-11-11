@@ -19,10 +19,10 @@ The following sections show: (i) project planning and progression in reverse chr
 
 <div class="row">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/ow/2027_fall.jpg" title="Fall '27'" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2027_fall.jpg" title="Fall '27'" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/ow/2028_spring.jpg" title="Spring '28'" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2028_spring.jpg" title="Spring '28'" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 

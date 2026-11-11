@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "Builder Profile — founding intern of a three-year-old $700 million robotics startup in SF whose wide-ranging biomechanical build expertise, from mechanical DIY to industry-grade mechatronics assembly to professional OnShape CAD prototyping etc, has been developed over the years through increasingly ambitious projects, the latest of which tries to solve a 15-year-old computational neuroscience puzzle with C. elegans 🪱 🔍 👀",
+          description: "Builder Profile — (1) founding intern of a venture-backed robotics startup in SF (raised over $100m); (2) four years of build experience in mechanical DIY, mechatronics assembly, and OnShape CAD prototyping, developed through increasingly ambitious biomechanical projects; (3) currently solving a 15-year-old computational neuroscience puzzle with C. elegans 🪱 🔍 👀",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";

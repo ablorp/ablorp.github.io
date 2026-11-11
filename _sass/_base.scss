@@ -1417,17 +1417,3 @@ figure.cover {
     color: #23212d !important;
   }
 }
-
-/* Reserve section highlighting for the active link. */
-#toc-sidebar .nav > li > a:not(.active):hover,
-#toc-sidebar .nav > li > a:not(.active):focus {
-  color: var(--global-text-color);
-  border-left: none;
-  padding-left: 20px;
-}
-
-/* Keep keyboard focus visible with a different indicator. */
-#toc-sidebar .nav > li > a:focus-visible {
-  outline: 2px solid var(--global-theme-color);
-  outline-offset: -2px;
-}

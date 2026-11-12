@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: "My Builder Profile: (1) founding intern of a three-year-old robotics startup in San Francisco with over $100 million raised; (2) increasingly ambitious biomechanical engineering projects built over the past four years; and (3) ongoing quest to solve 15-year-old computational neuroscience puzzle with C. elegans on OpenWorm 🪱 🔍 👀"
+description: "My Builder Profile: (1) founding intern of a robotics startup with over $100 million raised; (2) increasingly ambitious biomechanical engineering projects built over the past four years; and (3) ongoing quest to solve 15-year-old computational neuroscience puzzle with C. elegans on OpenWorm 🪱 🔍 👀"
 nav: true
 nav_order: 2
 display_categories: [side quests (2023–present), stem fairs (2023–2025), starting line]

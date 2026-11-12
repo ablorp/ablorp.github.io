@@ -116,7 +116,7 @@ The following sections show: (i) project planning and progression in reverse chr
 
 ---
 
-🙋🏻‍♂️ **Project Proposal:**
+📝 **Project Proposal:**
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

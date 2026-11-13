@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-conferences",
           title: "conferences",
-          description: "Conferences are where I&#39;d deliver a poster session and meet with experts. I was the youngest presenter, in fact the only high-schooler, when I first attended an academic conference, i.e., the 25th International Worm Meeting at UC Davis, in 10th grade. I look forward to visiting Japan next, after graduating high school, for the 26th International Worm Meeting to present my latest results in computational neuroscience.",
+          description: "Conferences are where I&#39;d deliver poster sessions and meet with experts. I was the youngest presenter, in fact the only high-schooler, when I first attended an academic conference, i.e., the 25th International Worm Meeting at UC Davis, in 10th grade. I look forward to visiting Japan next, after graduating high school, for the 26th International Worm Meeting to present my latest results in computational neuroscience.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/conferences/";

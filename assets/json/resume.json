@@ -366,14 +366,7 @@
     {
       "name": "Genetics Society of America",
       "icon": "fa-solid fa-dna",
-      "keywords": [
-        "(2025—present) Student member of an international community of 6,000 biologists from 50 countries advancing the field of genetics."
-      ]
-    },
-    {
-      "name": "BioCurious Lab",
-      "icon": "fa-solid fa-microscope",
-      "keywords": ["(2026) Student member of world's largest community lab space for biology, located in the heart of Silicon Valley."]
+      "keywords": ["(2025—present) Student member of an international community of 6,000 biologists from 50 countries advancing the field of genetics."]
     },
     {
       "name": "Benchmark Climbing / Dogpatch Boulders / Hyperion Climbing",
@@ -384,6 +377,11 @@
       "name": "Berkeley Scuba Club",
       "icon": "fa-solid fa-fish-fins",
       "keywords": ["(2025–present) PADI-certified advanced open water diver with over 50 dives off Catalina Island and Monterey Bay."]
+    },
+    {
+      "name": "BioCurious Lab",
+      "icon": "fa-solid fa-microscope",
+      "keywords": ["(2026) Student member of world's largest community lab space for biology, located in the heart of Silicon Valley."]
     },
     {
       "name": "Berkeley Math Circle",

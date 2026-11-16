@@ -14,5 +14,5 @@ category: starting line
     </div>
 </div>
 <div class="caption">
-    Accruing experience test driving my brother's creation from a young age
+    Accruing experience test driving my brother's creation from a young age.
 </div>

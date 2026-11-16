@@ -14,5 +14,5 @@ category: starting line
     </div>
 </div>
 <div class="caption">
-    Homemade rocket fuel with kitchen chemistry (i.e., kno3 + sugar etc.)
+    Homemade rocket fuel with kitchen chemistry (i.e., kno3 + sugar etc.).
 </div>

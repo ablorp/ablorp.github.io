@@ -326,7 +326,7 @@
     }
   ],
   "volunteering": [
-   {
+    {
       "organization": "UC Berkeley Pre-College Scholars Program",
       "location": "Berkeley, California",
       "position": "Student Ambassador",
@@ -366,7 +366,9 @@
     {
       "name": "Genetics Society of America",
       "icon": "fa-solid fa-dna",
-      "keywords": ["(2025—present) Student member of an international community of 6,000 biologists from 50 countries advancing the field of genetics."]
+      "keywords": [
+        "(2025—present) Student member of an international community of 6,000 biologists from 50 countries advancing the field of genetics."
+      ]
     },
     {
       "name": "BioCurious Lab",

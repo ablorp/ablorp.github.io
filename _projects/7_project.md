@@ -1,5 +1,5 @@
 ---
-llayout: page
+layout: page
 title: 🧗‍♂️ cliffhanger
 description: dynamically stable mechanical mountain climbing aid by design
 img: assets/img/cliffhanger_asimo.gif

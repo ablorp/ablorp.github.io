@@ -80,9 +80,9 @@ ninja.data = [{
           description: "Lookie here... already in motion",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ongoing/";
-            },},{id: "projects-local-llm-for-robot",
-          title: '🦾 local llm for robot',
-          description: "can local LLM agent do robotics?",
+            },},{id: "projects-llm-for-robot",
+          title: '🦾 llm for robot',
+          description: "can local LLM agent handle robotic tasks?",
           section: "Projects",handler: () => {
               window.location.href = "/projects/sidequest/";
             },},{

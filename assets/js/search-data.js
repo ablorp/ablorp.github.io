@@ -81,7 +81,7 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/ongoing/";
             },},{id: "projects-llm-for-robot",
-          title: '🦾 llm for robot',
+          title: '🤖 llm for robot',
           description: "can local LLM agent handle robotic tasks?",
           section: "Projects",handler: () => {
               window.location.href = "/projects/sidequest/";

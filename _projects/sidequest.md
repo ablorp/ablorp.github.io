@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 🦾 llm for robot
+title: 🤖 llm for robot
 description: can local LLM agent handle robotic tasks?
 img: assets/img/publication_preview/llm_for_robot.jpg
 importance: 1
@@ -17,13 +17,13 @@ By using a local LLM agent to control a pair of robot arms equipped with gripper
 
 **🦾 Project Schedule (Nov 29 2026 to Dec 20 2026):**
 
-(2026 Dec 20) 🏆 Do a few interesting robotic tasks for SideQuest Sundays W26 Demo Day.
+(2026 Dec 20) 🤖 Do a few interesting robotic tasks for SideQuest Sundays W26 Demo Day.
 
-(2026 Dec 13) 🦾 LLM agent running on Mac Mini + connectivity to OpenArm 2.0.
+(2026 Dec 13) 🧠 LLM agent running on Mac Mini + connectivity to OpenArm 2.0.
 
-(2026 Dec 6) 🤖 LLM agent configured on Mac Mini + OpenArm 2.0 teleoperation setup.
+(2026 Dec 6) 🦾 OpenArm 2.0 + teleoperation setup.
 
-(2026 Nov 29) 📦 Out-of-the-Box unwrap and physical testbed setup.
+(2026 Nov 29) 📦 Out-of-the-Box unwrap and robotic testbed setup.
 
 (2026 Nov 26) 🦃 Joined Discord group with my "LLM for Robot" project intro.
 

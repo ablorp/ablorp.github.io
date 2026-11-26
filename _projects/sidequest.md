@@ -29,7 +29,7 @@ By using a local LLM agent to control a pair of robot arms equipped with gripper
 
 ---
 
-**Background:**
+**Research Background:**
 
 Robot learning today requires collecting large datasets to train an end-to-end model, such as a VLA (Vision-Language-Model) or WAM (World Action Model) model, and then mapping camera frames and instructions directly to motor commands. While the results are impressive, action models suffer from 3 major shortcomings:
 

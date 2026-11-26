@@ -48,7 +48,7 @@ The following sections show: (i) project planning and progression in reverse chr
 
 (2026 Dec 25–31) 🎄 Worm session 3: monitoring of AFD-AIY connectivity.
 
-(2026 Dec 21) 🎊 Masason Annual Activity Report Session 2026 and End of the Year Party in Tokyo.
+(2026 Dec 22) 🎊 Masason Annual Activity Report Session 2026 and End of the Year Party in Tokyo.
 
 (2026 Dec 17–20) 🎄 Worm session 2: develop and test transducers for AFD.
 

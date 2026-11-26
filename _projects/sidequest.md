@@ -1,23 +1,23 @@
 ---
 layout: page
-title: 🦾 local llm for robot
-description: can local LLM agent do robotics?
+title: 🦾 llm for robot
+description: can local LLM agent handle robotic tasks?
 img: assets/img/publication_preview/llm_for_robot.jpg
 importance: 1
 category: ongoing
 ---
 
-I plan to evaluate the use of a local LLM agent for robotic tasks by constructing a robotic testbed that runs as a dual-arm deployed system, where the robotic arms connect through an API, and the local agent runs against them continuously to decompose goals into subtasks that feed into action models that ultimately control the robot arms.
+I plan to evaluate the use of a local LLM agent for robotic tasks by constructing an **LLM robotic stack** that runs a dual-arm deployed system, where the robotic arms connect through an API, and the local agent runs against them continuously to decompose goals into subtasks that feed into action models that ultimately control the robot arms.
 
-For benchmarking purposes, I plan to set up a local LLM on a Mac Mini M5 Pro (with 64GB memory) connected to OpenArm 2.0, based on a suite of robotic tasks that reflect operations commonly studied by physical AI researchers in a controlled setting, and that can be machine learned using a compatible teleoperation rig.
+For benchmarking purposes, I plan to set up the local LLM on a Mac Mini M5 Pro (with 64GB memory) connected to OpenArm 2.0, to run robotic tasks that reflect operations commonly studied by physical AI researchers in a controlled setting, which can be machine learned using a kinematic equivalent teleoperation rig.
 
-By using a local LLM agent to control a pair of robot arms, initially with grippers (but with the possibility of adding dexterous hands in the future), I hope to demonstrate that code-as-policy is a viable path to edge intelligence for robotics, thus opening up novel application areas for robotic manipulation (e.g., sending commands from Earth to robots on Mars) that require low-latency and autonomy.
+By using a local LLM agent to control a pair of robot arms equipped with grippers (but with the possibility of upgrading to dexterous hands in the future), I hope to demonstrate that code-as-policy is a viable path to edge intelligence for robotics, thus opening up novel application areas for robotic manipulation (e.g., sending commands from Earth to robots on Mars) that require low-latency and autonomy.
 
 ---
 
 **🦾 Project Schedule (Nov 29 2026 to Dec 20 2026):**
 
-(2026 Dec 20) 🏆 Do 3 simple tasks for SideQuest Sundays W26 Demo Day.
+(2026 Dec 20) 🏆 Do a few interesting robotic tasks for SideQuest Sundays W26 Demo Day.
 
 (2026 Dec 13) 🦾 LLM agent running on Mac Mini + connectivity to OpenArm 2.0.
 
@@ -25,7 +25,7 @@ By using a local LLM agent to control a pair of robot arms, initially with gripp
 
 (2026 Nov 29) 📦 Out-of-the-Box unwrap and physical testbed setup.
 
-(2026 Nov 26) 🦃 Joined Discord group with my project intro.
+(2026 Nov 26) 🦃 Joined Discord group with my "LLM for Robot" project intro.
 
 ---
 

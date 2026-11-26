@@ -15,7 +15,7 @@ By using a local LLM agent to control a pair of robot arms equipped with gripper
 
 ---
 
-**🦾 Project Schedule (Nov 29 2026 to Dec 20 2026):**
+**Project Schedule (Nov 29 2026 to Dec 20 2026):**
 
 (2026 Dec 20) 🤖 Do a few interesting robotic tasks for SideQuest Sundays W26 Demo Day.
 
@@ -59,7 +59,7 @@ This research project is exciting for me because I can study how LLMs and roboti
 
 ---
 
-📝 **Project Proposal:**
+**Project Proposal:**
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

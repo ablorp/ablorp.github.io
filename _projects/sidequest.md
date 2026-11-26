@@ -11,7 +11,7 @@ I plan to evaluate the use of a local LLM agent for robotic tasks by constructin
 
 For benchmarking purposes, I plan to set up the local LLM on a Mac Mini M5 Pro (with 64GB memory) connected to OpenArm 2.0, to run robotic tasks that reflect operations commonly studied by physical AI researchers in a controlled setting, which can be machine learned using a kinematic equivalent teleoperation rig.
 
-By using a local LLM agent to control a pair of robot arms equipped with grippers (but with the possibility of upgrading to dexterous hands in the future), I hope to demonstrate that code-as-policy is a viable path to edge intelligence for robotics, thus opening up novel application areas for robotic manipulation (e.g., sending commands from Earth to robots on Mars) that require low-latency and autonomy.
+By using a local LLM agent to control a pair of robot arms equipped with grippers (but with the possibility of upgrading to dexterous hands in the future), I hope to demonstrate that code-as-policy is a viable path to _edge_ intelligence for robotics, thus opening up novel application areas for robotic manipulation (e.g., sending commands from Earth to robots on Mars) that require low-latency and autonomy.
 
 ---
 
@@ -25,7 +25,7 @@ By using a local LLM agent to control a pair of robot arms equipped with gripper
 
 (2026 Nov 29) 📦 Out-of-the-Box unwrap and robotic testbed setup.
 
-(2026 Nov 26) 🦃 Joined Discord group with my "LLM for Robot" project intro.
+(2026 Nov 26) 🦃 Joined Discord group with my "LLM robotic stack" project intro.
 
 ---
 

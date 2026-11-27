@@ -11,13 +11,13 @@ I plan to evaluate the use of a local LLM agent for robotic tasks by constructin
 
 In particular, the local LLM runs on a Mac Mini M5 Pro (with 64GB memory) connected to OpenArm 2.0, which executes a variety of robotic tasks in a controlled setting. These tasks can be machine learned using a kinematic equivalent teleoperation rig.
 
-By using a local LLM agent to control a pair of robot arms equipped with grippers (but with the possibility of upgrading to dexterous hands in the future), I hope to demonstrate that code-as-policy is a viable path to _edge_ intelligence for robotics, thus opening up new modes of robotic interaction (e.g., robots on Mars executing commands from Earth) with greater local autonomy at low latency.
+By using a local LLM agent to control a pair of robot arms equipped with grippers (but with the possibility of upgrading to dexterous hands in the future), I hope to demonstrate that code-as-policy is a viable path to _edge_ intelligence for robotics, thus opening up new modes of robotic interaction (e.g., robots on Mars executing commands from Earth) with greater autonomy at low latency.
 
 ---
 
 **Project Schedule (Nov 29 2026 to Dec 20 2026):**
 
-(2026 Dec 20) 🤖 Demo robotic tasks for SideQuest Sundays W26 Demo Day.
+(2026 Dec 20) 🤖 SideQuest Sundays W26 Demo Day: 🦾 robot arms in California executing commands from Tokyo 👨🏻‍💻
 
 (2026 Dec 13) 🧠 LLM agent running on Mac Mini + connectivity to OpenArm 2.0.
 

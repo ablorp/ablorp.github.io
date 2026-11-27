@@ -11,7 +11,13 @@ I plan to evaluate the use of a local LLM agent for robotic tasks by constructin
 
 In other words, the local LLM runs on a Mac Mini M5 Pro (with 64GB memory) connected to OpenArm 2.0, which executes a variety of robotic tasks in a controlled setting. These tasks can be machine learned using a kinematic equivalent teleoperation rig.
 
-By using a local LLM agent to control a pair of robot arms equipped with grippers (but with the possibility of upgrading to dexterous hands in the future), I hope to demonstrate that _code-as-policy_ is a viable path to _edge intelligence_ for robotics, thus opening up more flexible modes of robotic interaction with local control (e.g., robots on Mars executing commands received from Earth), while enjoying greater autonomy and robust execution with low latency at the same time.
+By using a local LLM agent to control a pair of robot arms equipped with grippers (but with the possibility of upgrading to dexterous hands in the future), I hope to demonstrate that _code-as-policy_ is a viable path to _edge intelligence_ for robotics, thus opening up more flexible modes of robotic interaction with local control while enjoying greater autonomy and robust execution with low latency (e.g., robots on Mars executing commands from Earth).
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/llm/teleop.jpg" title="Local LLM for Robot" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 ---
 

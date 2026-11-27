@@ -23,7 +23,7 @@ By using a local LLM agent to control a pair of robot arms equipped with gripper
 
 **Project Schedule (Nov 29 2026 to Dec 20 2026):**
 
-(2026 Dec 20) 🤖 SQS W26 Demo Day setup: 👨🏻‍💻 send commands from Tokyo to LLM 🧠  for robot arms 🦾 in California
+(2026 Dec 20) 🤖 SQS W26 Demo Day: 👨🏻‍💻 send commands from Tokyo to LLM 🧠  for robot arms 🦾 in California
 
 (2026 Dec 13) 🧠 LLM agent running on Mac Mini + connectivity to OpenArm 2.0.
 

@@ -29,6 +29,17 @@ By using a local LLM agent to control a pair of robot arms equipped with gripper
 
 ---
 
+<div class="row">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/llm/openarm_ker_0.jpg" title="OpenArm 2.0 + KER as shipped" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/llm/openarm_ker_1.jpg" title="Inside OpenArm 2.0 + KER" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+---
+
 **Research Background:**
 
 Robot learning today requires collecting large datasets to train an end-to-end model, such as a VLA (Vision-Language-Model) or WAM (World Action Model) model, and then mapping camera frames and instructions directly to motor commands. While the results are impressive, action models suffer from 3 major shortcomings:

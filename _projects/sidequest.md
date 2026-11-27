@@ -23,7 +23,7 @@ By using a local LLM agent to control a pair of robot arms equipped with gripper
 
 (2026 Dec 6) 🦾 OpenArm 2.0 + teleoperation setup.
 
-(2026 Nov 29) 📦 Out-of-the-Box unwrap and robotic testbed setup.
+(2026 Nov 29) 📦 Unbox and set up physical space for robotic testbed.
 
 (2026 Nov 26) 🦃 Joined Discord group with my "LLM robotic stack" project intro.
 

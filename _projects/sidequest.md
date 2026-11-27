@@ -31,10 +31,10 @@ By using a local LLM agent to control a pair of robot arms equipped with gripper
 
 <div class="row">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/llm/openarm_ker_0.jpg" title="OpenArm 2.0 + KER as shipped" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/llm/hardware_0.jpg" title="OpenArm 2.0 + KER in Boxes" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/llm/openarm_ker_1.jpg" title="Inside OpenArm 2.0 + KER" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/llm/hardware_1.jpg" title="Inside OpenArm 2.0 + KER" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 

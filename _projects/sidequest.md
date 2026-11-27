@@ -31,7 +31,7 @@ By using a local LLM agent to control a pair of robot arms equipped with gripper
 
 (2026 Nov 29) 📦 Unbox and set up physical space for robotic testbed.
 
-(2026 Nov 26) 🦃 Joined "SideQuest Sundays" Discord channel introducing my "LLM robotic stack" project.
+(2026 Nov 26) 🦃 Joined "SideQuest Sundays" Discord channel introducing my "LLM for robot" project.
 
 ---
 

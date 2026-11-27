@@ -17,7 +17,7 @@ By using a local LLM agent to control a pair of robot arms equipped with gripper
 
 **Project Schedule (Nov 29 2026 to Dec 20 2026):**
 
-(2026 Dec 20) 🤖 Do a few interesting robotic tasks for SideQuest Sundays W26 Demo Day.
+(2026 Dec 20) 🤖 Demo robotic tasks for SideQuest Sundays W26 Demo Day.
 
 (2026 Dec 13) 🧠 LLM agent running on Mac Mini + connectivity to OpenArm 2.0.
 

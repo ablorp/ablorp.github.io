@@ -70,7 +70,9 @@ Finally, the agent generates a program that one can run and iterate on by talkin
 
 **Prior Experience:**
 
-This is my first attempt at connecting large language models with robotics, starting with a pair of robot arms in a controlled testbed setting. I have prior experience using LLMs such as Claude and Codex, but without API connection to robots. I also have extensive practical hands-on experience with robot arms and grippers (since 9th grade). For the past 3 years, I have been a robotics intern at Watney Robotics, a venture-backed startup in San Francisco which develops autonomous robots for data centers. I build server rack peripherals and prototype wire harness using CAD tools; assemble robot arms and controllers for teleoperation; as well as train machine learning models, among other things.
+This is my first attempt at connecting large language models with robotics, starting with a pair of robot arms in a controlled testbed setting. I have prior experience using LLMs such as Claude and Codex, but without API connection to robots. I also have extensive practical hands-on experience with robot arms and grippers (since 9th grade).
+
+For the past 3 years, I have been a robotics intern at Watney Robotics, a venture-backed startup in San Francisco which develops autonomous robots for data centers. I build server rack peripherals and prototype wire harness using CAD tools; assemble robot arms and controllers for teleoperation; as well as train machine learning models, among other things.
 
 This research project is exciting for me because I can study how LLMs and robotics work together programmatically.
 

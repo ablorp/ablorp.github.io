@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-gallery",
           title: "gallery",
-          description: "A collection of photos and moments.",
+          description: "A collection of photos and moments in the great outdoors.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/gallery/";

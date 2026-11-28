@@ -2,14 +2,14 @@
 layout: page
 title: gallery
 permalink: /gallery/
-description: A collection of photos and moments in the great outdoors.
+description: A collection of photos in the great outdoors or moments in life.
 nav: true
 nav_order: 5
 images:
   slider: true
 ---
 
-<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
+<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true" slides-per-view="3" space-between="20">
   <swiper-slide>
     {% include figure.liquid loading="eager" path="assets/img/gallery/1.jpg" class="img-fluid rounded z-depth-1" %}
   </swiper-slide>

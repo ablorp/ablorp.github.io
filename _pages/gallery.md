@@ -9,7 +9,7 @@ images:
   slider: true
 ---
 
-<swiper keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true" auto-height="true" loop="false">
+<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true" auto-height="true" loop="false">
   {% for image in site.static_files %}
     {% if image.path contains '/assets/img/gallery/' %}
       <swiper-slide>
@@ -17,6 +17,6 @@ images:
       </swiper-slide>
     {% endif %}
   {% endfor %}
-</swiper>
+</swiper-container>
 
 ---

@@ -47,7 +47,7 @@ images:
 </style>
 
 {% assign gallery_files = site.static_files | sort: 'path' %}
-<swiper-container class="photo-gallery" keyboard="true" navigation="true" pagination="true" pagination-type="fraction" rewind="true" auto-height="false" loop="false">
+<swiper-container class="photo-gallery" keyboard="true" navigation="true" pagination="true" pagination-type="fraction" rewind="true" auto-height="false">
   {% for image in gallery_files %}
     {% assign extension = image.extname | downcase %}
     {% comment %}Exclude generated WebP sizes: figure.liquid uses them as responsive sources, not separate photos.{% endcomment %}

@@ -2,7 +2,7 @@
 layout: page
 title: gallery
 permalink: /gallery/
-description: Moments in the great outdoors.
+description: Fleeting moments in the great outdoors.
 nav: true
 nav_order: 5
 images:

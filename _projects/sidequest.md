@@ -64,7 +64,7 @@ However, large language models (LLMs) are already capable of tool use, reasoning
     </div>
 </div>
 
-Finally, the agent generates a program that one can run and iterate on by talking to the agent. My contribution here is to experiment with using an LLM agent local to the robotic arms to control tasks execution with greater autonomy and robustness over long distances at low latency.
+Finally, the agent generates a program that one can run and iterate on by talking to the agent. My contribution here is to evaluate robotic interaction via an LLM agent local to the robotic arms to control tasks execution with greater autonomy and robustness over long distances at low latency.
 
 ---
 

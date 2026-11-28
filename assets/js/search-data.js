@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-gallery",
+          title: "gallery",
+          description: "A collection of photos and moments.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/gallery/";
+          },
         },{id: "projects-openworm",
           title: '🪱 openworm',
           description: "Inducing thermotactic behavior in a digitally simulated C. elegans equipped with thermosensory transducers for an artificially designed aquarium with pre-programmed temperature gradients is a work-in-progress (2026–2027).",

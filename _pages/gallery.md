@@ -2,7 +2,7 @@
 layout: page
 title: gallery
 permalink: /gallery/
-description: A collection of photos in the great outdoors or moments in life.
+description: Moments in the great outdoors.
 nav: true
 nav_order: 5
 images:

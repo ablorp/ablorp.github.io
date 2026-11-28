@@ -29,7 +29,7 @@ By using a local LLM agent to control a pair of robot arms equipped with gripper
 
 (2026 Dec 6) 🦾 OpenArm 2.0 + 💪 KER teleoperation connectivity.
 
-(2026 Nov 29) 📦 Unbox and set up robotic testbed in the play room.
+(2026 Nov 29) 📦 Day 3: unbox and set up robotic testbed in the play room.
 
 (2026 Nov 26) 🦃 Day Zero: join "SideQuest Sundays" Discord channel & introduce "LLM for robot" project.
 
